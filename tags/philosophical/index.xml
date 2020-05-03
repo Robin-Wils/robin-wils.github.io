@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Philosophical on Robin Wils's website</title><link>https://robinwils.gitlab.io/tags/philosophical/</link><description>Recent content in Philosophical on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2020 15:10:20 +0200</lastBuildDate><atom:link href="https://robinwils.gitlab.io/tags/philosophical/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://robinwils.gitlab.io/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://robinwils.gitlab.io/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Philosophical on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/tags/philosophical/</link><description>Recent content in Philosophical on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2020 15:10:20 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/tags/philosophical/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -36,7 +36,7 @@ width="200"
 height="67">
 &lt;/a>&lt;/p>
 &lt;h3 id="curriculum-vitae">Curriculum Vitae&lt;/h3>
-&lt;p>&lt;a href="../../curriculum-vitae">Curriculum Vitae&lt;/a>&lt;/p></description></item><item><title>Curriculum Vitae</title><link>https://robinwils.gitlab.io/curriculum-vitae/</link><pubDate>Sat, 02 May 2020 15:11:00 +0200</pubDate><guid>https://robinwils.gitlab.io/curriculum-vitae/</guid><description>&lt;div id="sidebar">
+&lt;p>&lt;a href="../../curriculum-vitae">Curriculum Vitae&lt;/a>&lt;/p></description></item><item><title>Curriculum Vitae</title><link>https://pages.codeberg.org/RobinWils/curriculum-vitae/</link><pubDate>Sat, 02 May 2020 15:11:00 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/curriculum-vitae/</guid><description>&lt;div id="sidebar">
 &lt;img src="../../images/robin-wils-avatar.jpg"
 id="avatar"
 alt="A black and white picture of a man with glasses. This man is named Robin Wils."
@@ -191,7 +191,7 @@ Making 2D games - first with Unity, now with Godot
 &lt;/td>
 &lt;/tr>
 &lt;/table>
-&lt;/div></description></item><item><title>Search</title><link>https://robinwils.gitlab.io/search/</link><pubDate>Sat, 02 May 2020 15:11:03 +0200</pubDate><guid>https://robinwils.gitlab.io/search/</guid><description/></item><item><title>Gitlab custom 404 pages are still broken</title><link>https://robinwils.gitlab.io/categories/articles/gitlab-404-pages-problem/</link><pubDate>Sat, 02 May 2020 17:49:50 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/gitlab-404-pages-problem/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Sat, 02 May 2020 15:11:03 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>Gitlab custom 404 pages are still broken</title><link>https://pages.codeberg.org/RobinWils/categories/articles/gitlab-404-pages-problem/</link><pubDate>Sun, 03 May 2020 18:37:12 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/gitlab-404-pages-problem/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -257,13 +257,12 @@ for many people.&lt;/p>
 much longer for 404 page support.&lt;/p>
 &lt;p>Codeberg had the same problem and it only took them a few hours to fix
 it, not even a day. I will probably move to codeberg pages.&lt;/p>
-&lt;p>I would rather have my site on codeberg than on Github, although I don&amp;rsquo;t
-like the free domain from codeberg that much.&lt;/p>
+&lt;p>I migrated my site to codeberg.&lt;/p>
 &lt;p>Moving also means that I would lose much SEO, but it might also mean
 that it might not happen again.&lt;/p>
 &lt;h2 id="why-don-t-you-fix-it-yourself">Why don&amp;rsquo;t you fix it yourself?&lt;/h2>
 &lt;p>Well, I have other stuff to do and I believe that Gitlab has a pretty
-big codebase. It would require much time.&lt;/p></description></item><item><title>Ideas</title><link>https://robinwils.gitlab.io/categories/projects/ideas/</link><pubDate>Sat, 02 May 2020 15:10:52 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/projects/ideas/</guid><description>&lt;div class="ox-hugo-toc toc">
+big codebase. It would require much time.&lt;/p></description></item><item><title>Ideas</title><link>https://pages.codeberg.org/RobinWils/categories/projects/ideas/</link><pubDate>Sat, 02 May 2020 15:10:52 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/projects/ideas/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -340,7 +339,7 @@ is easily changable.&lt;/p>
 &lt;p>I do want a configurable config, just like the GNU Emacs one. It should
 be lightweight and easy to install. I do want it to be a tiny bit more modern.
 Some packages could be a bit more heavy, but lightweight alternatives should
-exist.&lt;/p></description></item><item><title>Dog Pictures</title><link>https://robinwils.gitlab.io/categories/pictures/dog-pictures/</link><pubDate>Sat, 02 May 2020 15:10:49 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/pictures/dog-pictures/</guid><description>&lt;div class="lightbox">
+exist.&lt;/p></description></item><item><title>Dog Pictures</title><link>https://pages.codeberg.org/RobinWils/categories/pictures/dog-pictures/</link><pubDate>Sat, 02 May 2020 15:10:49 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/pictures/dog-pictures/</guid><description>&lt;div class="lightbox">
 &lt;a href="#image1">
 &lt;img src="../../images/pictures/dogs/thumbnails/FayeAndSienna1.jpg"
 alt="Two dogs."
@@ -445,7 +444,7 @@ class="next-image-button">
 >
 &lt;/a>
 &lt;/div>
-&lt;/div></description></item><item><title>Linux Challenge 2019 by FPS Finance</title><link>https://robinwils.gitlab.io/categories/events/linux-challenge/</link><pubDate>Sat, 02 May 2020 15:10:38 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/events/linux-challenge/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>Linux Challenge 2019 by FPS Finance</title><link>https://pages.codeberg.org/RobinWils/categories/events/linux-challenge/</link><pubDate>Sat, 02 May 2020 15:10:38 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/events/linux-challenge/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -537,7 +536,7 @@ heard about this event if it wasn&amp;rsquo;t for her. That said, I felt like I 
 her a drink so I bought her one.&lt;/p>
 &lt;p>I obviously also should thank the college, which I go to and the organisators
 of the event. The college that I go to is called Hogeschool PXL and the
-organisators of this event were EDITx and FPS Finance.&lt;/p></description></item><item><title>Podcasts and shows</title><link>https://robinwils.gitlab.io/categories/recommendations/podcasts-and-shows/</link><pubDate>Sat, 02 May 2020 15:09:53 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/recommendations/podcasts-and-shows/</guid><description>&lt;div class="ox-hugo-toc toc">
+organisators of this event were EDITx and FPS Finance.&lt;/p></description></item><item><title>Podcasts and shows</title><link>https://pages.codeberg.org/RobinWils/categories/recommendations/podcasts-and-shows/</link><pubDate>Sat, 02 May 2020 15:09:53 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/recommendations/podcasts-and-shows/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -601,7 +600,7 @@ Website
 rel="external">
 Invidious
 &lt;/a>&lt;/p>
-&lt;/div></description></item><item><title>Who is Robin Wils?</title><link>https://robinwils.gitlab.io/categories/about/who-is-robin-wils/</link><pubDate>Sat, 02 May 2020 15:09:21 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/about/who-is-robin-wils/</guid><description>&lt;figure>
+&lt;/div></description></item><item><title>Who is Robin Wils?</title><link>https://pages.codeberg.org/RobinWils/categories/about/who-is-robin-wils/</link><pubDate>Sat, 02 May 2020 15:09:21 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/who-is-robin-wils/</guid><description>&lt;figure>
 &lt;img src="../../images/robin-wils-avatar.jpg"
 alt="A black and white picture of a man with glasses. This man is named Robin Wils." width="120" height="120"/>
 &lt;/figure>
@@ -613,7 +612,7 @@ believe that people have a reason for why they do something.
 It is not always a good reason, but I accept it. I don&amp;rsquo;t
 know their life.&lt;/p>
 &lt;p>You might be able to get to know me when you read this website.
-There are many things which could describe me.&lt;/p></description></item><item><title>Add-ons</title><link>https://robinwils.gitlab.io/categories/recommendations/add-ons/</link><pubDate>Sat, 02 May 2020 15:16:44 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/recommendations/add-ons/</guid><description>&lt;div class="ox-hugo-toc toc">
+There are many things which could describe me.&lt;/p></description></item><item><title>Add-ons</title><link>https://pages.codeberg.org/RobinWils/categories/recommendations/add-ons/</link><pubDate>Sat, 02 May 2020 15:16:44 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/recommendations/add-ons/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -983,7 +982,7 @@ Opera
 &lt;p>Feel free to contact me.&lt;/p>
 &lt;p>These are my recommendations and I prefer to keep the list small and browsable,
 but I appreciate suggestions. I only want to include the add-ons which I find
-the best. Feel free to try to explain why some add-on might be better.&lt;/p></description></item><item><title>Projects which I helped with</title><link>https://robinwils.gitlab.io/categories/projects/projects-which-i-helped-with/</link><pubDate>Sat, 02 May 2020 15:10:54 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/projects/projects-which-i-helped-with/</guid><description>&lt;div class="ox-hugo-toc toc">
+the best. Feel free to try to explain why some add-on might be better.&lt;/p></description></item><item><title>Projects which I helped with</title><link>https://pages.codeberg.org/RobinWils/categories/projects/projects-which-i-helped-with/</link><pubDate>Sat, 02 May 2020 15:10:54 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/projects/projects-which-i-helped-with/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -1022,7 +1021,7 @@ Website
 rel="external nofollow">
 Gitlab
 &lt;/a>&lt;/p>
-&lt;/div></description></item><item><title>FOSDEM 2020</title><link>https://robinwils.gitlab.io/categories/events/fosdem-2020/</link><pubDate>Sat, 02 May 2020 15:10:40 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/events/fosdem-2020/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>FOSDEM 2020</title><link>https://pages.codeberg.org/RobinWils/categories/events/fosdem-2020/</link><pubDate>Sat, 02 May 2020 15:10:40 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/events/fosdem-2020/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -1137,7 +1136,7 @@ doing something cool. I rather avoid Cloudflare on things which I use often.&lt;
 &lt;h3 id="even-more-projects">Even more projects&lt;/h3>
 &lt;p>There were too many projects to mention them all. Nextcloud, Gitlab, Godot
 and many other unmentioned projects were also there. Most projects at FOSDEM
-are awesome, so don&amp;rsquo;t think that this list contains all the awesome projects.&lt;/p></description></item><item><title>Why I no longer use Wayland</title><link>https://robinwils.gitlab.io/categories/articles/why-i-no-longer-use-wayland/</link><pubDate>Sat, 02 May 2020 15:10:02 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/why-i-no-longer-use-wayland/</guid><description>&lt;div class="ox-hugo-toc toc">
+are awesome, so don&amp;rsquo;t think that this list contains all the awesome projects.&lt;/p></description></item><item><title>Why I no longer use Wayland</title><link>https://pages.codeberg.org/RobinWils/categories/articles/why-i-no-longer-use-wayland/</link><pubDate>Sat, 02 May 2020 15:10:02 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/why-i-no-longer-use-wayland/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -1189,7 +1188,7 @@ supported applications.&lt;/p>
 &lt;h2 id="my-opinion">My opinion&lt;/h2>
 &lt;p>I do believe that Wayland will get some support and I
 loved using it. Most things work and I would love to use
-it when some of these minor problems get fixed.&lt;/p></description></item><item><title>Why is this website so simple?</title><link>https://robinwils.gitlab.io/categories/about/who-is-this-website-so-simple/</link><pubDate>Sat, 02 May 2020 15:09:23 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/about/who-is-this-website-so-simple/</guid><description>&lt;div class="ox-hugo-toc toc">
+it when some of these minor problems get fixed.&lt;/p></description></item><item><title>Why is this website so simple?</title><link>https://pages.codeberg.org/RobinWils/categories/about/who-is-this-website-so-simple/</link><pubDate>Sat, 02 May 2020 15:09:23 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/who-is-this-website-so-simple/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -1224,7 +1223,7 @@ I want that this website works for the biggest group of people. That includes
 people with reading problems.&lt;/p>
 &lt;h2 id="it-is-privacy-friendly">It is privacy friendly&lt;/h2>
 &lt;p>Many websites and ads track you. I don&amp;rsquo;t like programs which spy on users and
-many other people don&amp;rsquo;t like that either.&lt;/p></description></item><item><title>Movies anime and series</title><link>https://robinwils.gitlab.io/categories/recommendations/movies-anime-and-series/</link><pubDate>Sat, 02 May 2020 15:23:04 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/recommendations/movies-anime-and-series/</guid><description>&lt;div class="ox-hugo-toc toc">
+many other people don&amp;rsquo;t like that either.&lt;/p></description></item><item><title>Movies anime and series</title><link>https://pages.codeberg.org/RobinWils/categories/recommendations/movies-anime-and-series/</link><pubDate>Sun, 03 May 2020 18:37:38 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/recommendations/movies-anime-and-series/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -1243,6 +1242,7 @@ many other people don&amp;rsquo;t like that either.&lt;/p></description></item><
 &lt;li>&lt;a href="#star-trek-series-and-movies">Star Trek series and movies&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#ergo-proxy-anime-series">Ergo Proxy anime series&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#a-space-odyssey-movies">A Space Odyssey movies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#wargames--1983">Wargames (1983)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#doctor-who-series">Doctor Who series&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#the-matrix-movies">The Matrix movies&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#back-to-the-future-movies">Back to the Future movies&lt;/a>&lt;/li>
@@ -1269,8 +1269,9 @@ many other people don&amp;rsquo;t like that either.&lt;/p></description></item><
 &lt;ul>
 &lt;li>&lt;a href="#braindead--also-known-as-dead-alive">Braindead (also known as Dead Alive)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#the-thing--1982">The Thing (1982)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#dark-skies--2013">Dark Skies (2013)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#the-texas-chain-saw-massacre">The Texas Chain Saw Massacre&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#gremlins">Gremlins&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#dark-skies--2013">Dark Skies (2013)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#we-are-what-we-are--2013">We Are What We Are (2013)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#alien--1979">Alien (1979)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#a-nightmare-on-elm-street">A Nightmare on Elm Street&lt;/a>&lt;/li>
@@ -1301,6 +1302,7 @@ many other people don&amp;rsquo;t like that either.&lt;/p></description></item><
 &lt;/li>
 &lt;li>&lt;a href="#other-movies">Other movies&lt;/a>
 &lt;ul>
+&lt;li>&lt;a href="#the-imitation-game--2014">The Imitation Game (2014)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#pirates-of-the-caribbean-movies">Pirates of the Caribbean movies&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#coraline--2009">Coraline (2009)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#a-beautiful-mind--2001">A Beautiful Mind (2001)&lt;/a>&lt;/li>
@@ -1366,6 +1368,9 @@ Ergo Proxy
 &lt;/a>
 &lt;a href="#a-space-odyssey-movies">
 A Space Odyssey
+&lt;/a>
+&lt;a href="#wargames--1983">
+Wargames
 &lt;/a>
 &lt;a href="#doctor-who-series">
 Doctor Who
@@ -1445,6 +1450,10 @@ her android partner Iggy.&lt;/p>
 I really love the style of the movie and the ending too.&lt;/p>
 &lt;p>It is a beautiful movie about space.
 I haven&amp;rsquo;t seen 2010 yet, which is the sequel.&lt;/p>
+&lt;h3 id="wargames--1983">Wargames (1983)&lt;/h3>
+&lt;p>A young kid connects to a secret computer which is much more important
+than he things.&lt;/p>
+&lt;p>It is a movie for computernerds in some ways though.&lt;/p>
 &lt;h3 id="doctor-who-series">Doctor Who series&lt;/h3>
 &lt;p>Pretty interesting series. I haven&amp;rsquo;t seen all episodes though.
 It is good for a few seasons, but so many seasons exist. It manages
@@ -1513,6 +1522,7 @@ Round Table. He isn&amp;rsquo;t your regular knight, but you will notice that so
 enough.&lt;/p>
 &lt;p>Monty Python&amp;rsquo;s The Meaning of Life wasn&amp;rsquo;t that great in my opinion,
 but it had some nice parts.&lt;/p>
+&lt;p>Watch or download &lt;a href="https://archive.org/details/Monty.Python.And.The.Holy.Grail.1975.720p.BluRay.x264YTS.AM" rel="external nofollow">Monty Python and Holy Grail&lt;/a> for free (archive.org)&lt;/p>
 &lt;h3 id="robin-hood-men-in-tights-movie">Robin Hood: Men in Tights movie&lt;/h3>
 &lt;p>Comedy movie which parodies Robin Hood. It is a great comedy.&lt;/p>
 &lt;h3 id="the-interview--2014--movie">The Interview (2014) movie&lt;/h3>
@@ -1540,6 +1550,7 @@ didn&amp;rsquo;t like the first episode a lot.&lt;/p>
 &lt;h3 id="deadpool-movies">Deadpool movies&lt;/h3>
 &lt;p>I usually don&amp;rsquo;t like superhero movies, but deadpool is a bit different.
 It&amp;rsquo;s a comedy.&lt;/p>
+&lt;p>Watch or download &lt;a href="https://archive.org/details/Deadpool.2016.1080pDualLat%5F201805" rel="external nofollow">Deadpool&lt;/a> for free (archive.org)&lt;/p>
 &lt;h3 id="shaun-of-the-dead-movie">Shaun of the Dead movie&lt;/h3>
 &lt;p>Horror comedy movie about zombies. It is a pretty good movie.&lt;/p>
 &lt;h3 id="scary-movie-movies">Scary Movie movies&lt;/h3>
@@ -1561,11 +1572,14 @@ Braindead
 &lt;a href="#the-thing--1982">
 The Thing
 &lt;/a>
-&lt;a href="#dark-skies--2013">
-Dark Skies
+&lt;a href="#the-texas-chain-saw-massacre">
+The Texas Chain Saw Massacre
 &lt;/a>
 &lt;a href="#gremlins">
 Gremlins
+&lt;/a>
+&lt;a href="#dark-skies--2013">
+Dark Skies
 &lt;/a>
 &lt;a href="#we-are-what-we-are--2013">
 We Are What We Are
@@ -1607,21 +1621,30 @@ It is scary and has dark humor. Absolutely loved it. It is one of the best
 horror movies in my opinion.&lt;/p>
 &lt;p>This is from someone who usually does not like zombie movies, and this
 movie has zombies.&lt;/p>
+&lt;p>Watch or download &lt;a href="https://archive.org/details/Braindead%5F201903" rel="external nofollow">Braindead&lt;/a> for free (archive.org)&lt;/p>
 &lt;h3 id="the-thing--1982">The Thing (1982)&lt;/h3>
 &lt;p>The Thing is one of my favorite horror movies. It is really good.
 I haven&amp;rsquo;t seen the remake, but it is probably not better than the original.&lt;/p>
 &lt;p>These movies are about &amp;ldquo;The Thing&amp;rdquo;, yes that is all the information that
 I am giving.&lt;/p>
-&lt;h3 id="dark-skies--2013">Dark Skies (2013)&lt;/h3>
-&lt;p>Dark Skies is a horror movie that knows how to build suspense. It
-is a pretty spooky movie.&lt;/p>
-&lt;p>I guess that the skies are dark. I can&amp;rsquo;t say much about this movies
-without spoiling too much.&lt;/p>
+&lt;p>Watch or download &lt;a href="https://archive.org/details/thethingt00" rel="external nofollow">The Thing (1982)&lt;/a> for free (archive.org)&lt;/p>
+&lt;h3 id="the-texas-chain-saw-massacre">The Texas Chain Saw Massacre&lt;/h3>
+&lt;p>You probably have heard about leatherface, but have you seen any of the
+movies? I saw the first one, The Texas Chain Saw Massacre (1974) and it
+was actually really good.&lt;/p>
+&lt;p>The acting in the first movie is really good and the movie looks pretty
+beautiful too. I mean the setting and and the recording style.&lt;/p>
+&lt;p>I probably will watch more movies of the franchise.&lt;/p>
 &lt;h3 id="gremlins">Gremlins&lt;/h3>
 &lt;p>A comedy horror movie about taking care of a small creature called mogwai
 (which actually means devil).&lt;/p>
 &lt;p>This is one of the first horror movies I saw and, honestly it is one
 of the best ones in my opinion. It is not that scary, but it is original.&lt;/p>
+&lt;h3 id="dark-skies--2013">Dark Skies (2013)&lt;/h3>
+&lt;p>Dark Skies is a horror movie that knows how to build suspense. It
+is a pretty spooky movie.&lt;/p>
+&lt;p>I guess that the skies are dark. I can&amp;rsquo;t say much about this movies
+without spoiling too much.&lt;/p>
 &lt;h3 id="we-are-what-we-are--2013">We Are What We Are (2013)&lt;/h3>
 &lt;p>This horror movie was great, but probably because I watched it without
 knowing anything about it. I highly recommend doing the same, reading
@@ -1680,17 +1703,28 @@ in a way. The story isn&amp;rsquo;t great, but the movie was pretty well-made.&l
 &lt;p>I didn&amp;rsquo;t like The Ring, but I haven&amp;rsquo;t seen the original Japanese, Ring
 movie which is probably good.&lt;/p>
 &lt;p>These movies use many jumpscares, but the noises which the Grudge makes
-are creepy too.&lt;/p>
+are creepy too. I haven&amp;rsquo;t seen any of the following links.&lt;/p>
+&lt;p>Watch or download &lt;a href="https://archive.org/details/JuOnTheCurseJapaneseHorrorFullMovieEnglishSubtitles" rel="external nofollow">Ju-On: The Curse (2000)&lt;/a> for free (archive.org),
+Japanese version, V-Cinema&lt;/p>
+&lt;p>Watch or download &lt;a href="https://archive.org/details/juonowarinohajimarinningoftheendjapanesehorrorfullmovieenglishsubtitles" rel="external nofollow">Ju-On: The Beginning of the End (2014)&lt;/a> for free (archive.org),
+The Grudge, Japanese movie&lt;/p>
+&lt;p>Watch or download &lt;a href="https://archive.org/details/thegrudgevstheringengsubfull" rel="external nofollow">Sadako vs. Kayako (2016)&lt;/a> for free (archive.org),
+The Ring vs. The Grudge, Japanese movie&lt;/p>
+&lt;p>Watch or download &lt;a href="https://archive.org/details/ringu1998japanesewithenglishsubtitle" rel="external nofollow">Ringu (1998)&lt;/a> for free (archive.org),
+The Ring, Japanese movie, second movie in Ring franchise&lt;/p>
 &lt;h3 id="grave-encounters">Grave Encounters&lt;/h3>
 &lt;p>I loved this one, just like I loved Insidious. It is about people
 who host a reality television program about hunting ghosts.&lt;/p>
 &lt;p>I know that it sounds dumb, but such a simple idea actually made a
 pretty ok movie.&lt;/p>
+&lt;p>Watch or download &lt;a href="https://archive.org/details/graveencounters" rel="external nofollow">Grave Encounters&lt;/a> for free (archive.org)&lt;/p>
 &lt;h3 id="insidious">Insidious&lt;/h3>
 &lt;p>I loved this one, just like I loved Grave Encounters.
 These movies are great, but they use jumpscares and such.&lt;/p>
 &lt;p>I did notice that this movie is only creepy on fullscreen. I once
 watched it inside a bus and you couldn&amp;rsquo;t see what happened.&lt;/p>
+&lt;p>Watch or download &lt;a href="https://archive.org/details/Insidious2010720pYTS.AG" rel="external nofollow">Insidous (2010)&lt;/a> for free (archive.org),
+first movie in the franchise&lt;/p>
 &lt;h3 id="other-stuff">Other stuff&lt;/h3>
 &lt;p>I didn&amp;rsquo;t like these movies as much as the previous ones, but they are
 still better than a lot of movies out there in my opinion.&lt;/p>
@@ -1726,6 +1760,7 @@ instead of great stories or good atmosphere, unlike me.&lt;/p>
 &lt;h4 id="the-wicker-man">The Wicker Man&lt;/h4>
 &lt;p>I personally don&amp;rsquo;t really recommend it, but I like how it is different.
 It wasn&amp;rsquo;t scary to me, but it had something cool.&lt;/p>
+&lt;p>Watch or download &lt;a href="https://archive.org/details/The.Wicker.Man.1973.720p.BluRay.x264.YIFY">The Wicker Man (1972)&lt;/a> for free (archive.org)&lt;/p>
 &lt;h4 id="human-centipede">Human Centipede&lt;/h4>
 &lt;p>The Human Centipede focuses on gore. I have only seen the first one
 and it was too predictable in my opinion.&lt;/p>
@@ -1733,6 +1768,9 @@ and it was too predictable in my opinion.&lt;/p>
 me. It was just gore and pretty disturbing.&lt;/p>
 &lt;p>The medical consequences of what was done was pretty realistic and it
 is a good movie IF you want to see gore at its worse form.&lt;/p>
+&lt;p>I know that there are much worse films out there, but I am not gonna
+mention them here. I don&amp;rsquo;t think that movies like this deserve your
+attention.&lt;/p>
 &lt;p>The second one is more disturbing than the first one apparently. They
 again try to make it more disturbing in the third one.&lt;/p>
 &lt;p>I am not sure of they did top it with the third one, since many say that
@@ -1803,10 +1841,13 @@ kinda works.&lt;/p>
 &lt;p>Hackers is so bad and some quotable lines. It is good in group.
 It is pretty quotable if you are a geek.&lt;/p>
 &lt;p>I didn&amp;rsquo;t laugh a lot, but seeing where the quotes come from is
-nice.&lt;/p>
+nice. It is a movie for computernerds in some ways though.&lt;/p>
 &lt;h2 id="other-movies">Other movies&lt;/h2>
 &lt;div class="link-list">
 &lt;div>&lt;/div>
+&lt;a href="#the-imitation-game--2014">
+The Imitation Game
+&lt;/a>
 &lt;a href="#pirates-of-the-caribbean-movies">
 Pirates of the Caribbean
 &lt;/a>
@@ -1823,6 +1864,9 @@ The Water Horse
 WALL-E
 &lt;/a>
 &lt;/div>
+&lt;h3 id="the-imitation-game--2014">The Imitation Game (2014)&lt;/h3>
+&lt;p>A movie about mathematician Alan Turing during the Second World War. I
+saw it in highschool and it was actually a great movie.&lt;/p>
 &lt;h3 id="pirates-of-the-caribbean-movies">Pirates of the Caribbean movies&lt;/h3>
 &lt;p>Adventure comedy movie about pirates.
 The first three movies were the best ones. The fourth one still had some
@@ -1874,7 +1918,7 @@ Peaks)&lt;/li>
 &lt;li>House, original title Hausu (horror comedy, should be a weird one)&lt;/li>
 &lt;li>Misery (1990, horror, based on a Stephen King novel)&lt;/li>
 &lt;li>&amp;hellip;&lt;/li>
-&lt;/ul></description></item><item><title>Friendly Premonition</title><link>https://robinwils.gitlab.io/categories/projects/friendly-premonition/</link><pubDate>Sat, 02 May 2020 15:10:56 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/projects/friendly-premonition/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/ul></description></item><item><title>Friendly Premonition</title><link>https://pages.codeberg.org/RobinWils/categories/projects/friendly-premonition/</link><pubDate>Sat, 02 May 2020 15:10:56 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/projects/friendly-premonition/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -1930,7 +1974,7 @@ Go to tweet
 rel="external">
 Go to toot
 &lt;/a>&lt;/p>
-&lt;/div></description></item><item><title>FOSDEM 2019</title><link>https://robinwils.gitlab.io/categories/events/fosdem-2019/</link><pubDate>Sat, 02 May 2020 15:10:43 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/events/fosdem-2019/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>FOSDEM 2019</title><link>https://pages.codeberg.org/RobinWils/categories/events/fosdem-2019/</link><pubDate>Sat, 02 May 2020 15:10:43 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/events/fosdem-2019/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -2021,7 +2065,7 @@ people would like to see something like this in free software.&lt;/p>
 &lt;h3 id="even-more-projects">Even more projects&lt;/h3>
 &lt;p>There were too many projects to mention them all. Nextcloud, Gitlab, Ceph and
 many other unmentioned projects were also there. Most projects at FOSDEM are
-awesome, so don&amp;rsquo;t think that this list contains all the awesome projects.&lt;/p></description></item><item><title>Media and social media</title><link>https://robinwils.gitlab.io/categories/articles/media-and-social-media/</link><pubDate>Sat, 02 May 2020 15:10:04 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/media-and-social-media/</guid><description>&lt;div class="ox-hugo-toc toc">
+awesome, so don&amp;rsquo;t think that this list contains all the awesome projects.&lt;/p></description></item><item><title>Media and social media</title><link>https://pages.codeberg.org/RobinWils/categories/articles/media-and-social-media/</link><pubDate>Sat, 02 May 2020 15:10:04 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/media-and-social-media/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -2266,7 +2310,7 @@ validate themselves on websites. Make sure that your social networking platform
 has something like that.&lt;/p>
 &lt;p>Mark my words, email will probably stop being used some day. It could be your
 platform that replaces it. Think about how you can make it attractive to the
-norm.&lt;/p></description></item><item><title>Website themes</title><link>https://robinwils.gitlab.io/categories/about/website-themes/</link><pubDate>Sat, 02 May 2020 15:09:26 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/about/website-themes/</guid><description>&lt;div class="ox-hugo-toc toc">
+norm.&lt;/p></description></item><item><title>Website themes</title><link>https://pages.codeberg.org/RobinWils/categories/about/website-themes/</link><pubDate>Sat, 02 May 2020 15:09:26 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/website-themes/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -2318,7 +2362,7 @@ dark theme feature yet.&lt;/p>
 &lt;p>License: CC0&lt;/p>
 &lt;h2 id="add-your-own-theme">Add your own theme&lt;/h2>
 &lt;p>All the themes are on a repository on Codeberg. You can request me to add your
-theme to the repository.&lt;/p></description></item><item><title>Say no to Cloudflare</title><link>https://robinwils.gitlab.io/categories/articles/say-no-to-cloudflare/</link><pubDate>Sat, 02 May 2020 15:18:44 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/say-no-to-cloudflare/</guid><description>&lt;div class="ox-hugo-toc toc">
+theme to the repository.&lt;/p></description></item><item><title>Say no to Cloudflare</title><link>https://pages.codeberg.org/RobinWils/categories/articles/say-no-to-cloudflare/</link><pubDate>Sat, 02 May 2020 15:18:44 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/say-no-to-cloudflare/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -2642,7 +2686,7 @@ Privacy focused software
 How important is online privacy?
 &lt;/a>- contains thoughts about online privacy, is the extra effort worth it?
 &lt;/li>
-&lt;/ul></description></item><item><title>Day Against DRM</title><link>https://robinwils.gitlab.io/categories/events/day-against-drm/</link><pubDate>Sat, 02 May 2020 15:10:45 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/events/day-against-drm/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/ul></description></item><item><title>Day Against DRM</title><link>https://pages.codeberg.org/RobinWils/categories/events/day-against-drm/</link><pubDate>Sat, 02 May 2020 15:10:45 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/events/day-against-drm/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -2721,7 +2765,7 @@ limited, so I prefer to work on projects instead of playing games.&lt;/p>
 &lt;h2 id="how-can-you-help">How can you help?&lt;/h2>
 &lt;p>There are many ways to fight against DRM. Defective by design has a
 &lt;a href="https://www.defectivebydesign.org/dayagainstdrm" rel="external nofollow">campaign against DRM&lt;/a> every year. Their site also contains more ways to protest
-against DRM.&lt;/p></description></item><item><title>Religion</title><link>https://robinwils.gitlab.io/categories/about/religion/</link><pubDate>Sat, 02 May 2020 15:09:28 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/about/religion/</guid><description>&lt;div class="ox-hugo-toc toc">
+against DRM.&lt;/p></description></item><item><title>Religion</title><link>https://pages.codeberg.org/RobinWils/categories/about/religion/</link><pubDate>Sat, 02 May 2020 15:09:28 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/religion/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -2749,7 +2793,7 @@ said as done.&lt;/p>
 &lt;p>You could try to view everyone as equal and treat them that way. The truth is,
 we all have different talents. We are not equal. I, however try to stay polite.&lt;/p>
 &lt;p>I like to think about psychological things. You can find some of those things
-in my articles, but it might not be obvious.&lt;/p></description></item><item><title>I met Ryako at a musical</title><link>https://robinwils.gitlab.io/categories/events/i-met-ryako-at-a-musical/</link><pubDate>Sat, 02 May 2020 15:10:47 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/events/i-met-ryako-at-a-musical/</guid><description>&lt;div class="ox-hugo-toc toc">
+in my articles, but it might not be obvious.&lt;/p></description></item><item><title>I met Ryako at a musical</title><link>https://pages.codeberg.org/RobinWils/categories/events/i-met-ryako-at-a-musical/</link><pubDate>Sat, 02 May 2020 15:10:47 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/events/i-met-ryako-at-a-musical/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -2946,7 +2990,7 @@ title="Ryako's soundcloud"
 rel="external nofollow">
 Soundcloud
 &lt;/a>&lt;/p>
-&lt;/div></description></item><item><title>The programming culture has problems</title><link>https://robinwils.gitlab.io/categories/articles/the-programming-culture-has-problems/</link><pubDate>Sat, 02 May 2020 15:10:09 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/the-programming-culture-has-problems/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>The programming culture has problems</title><link>https://pages.codeberg.org/RobinWils/categories/articles/the-programming-culture-has-problems/</link><pubDate>Sat, 02 May 2020 15:10:09 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/the-programming-culture-has-problems/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -3138,14 +3182,14 @@ recommend that you try to use it in a smart way. Make the best of it.&lt;/p>
 like. This is just my opinion.&lt;/p>
 &lt;h2 id="what-others-think">What others think&lt;/h2>
 &lt;p>Xah Lee is a pretty well-known GNU Emacs user. His &lt;a href="http://www.xahlee.info/UnixResource%5Fdir/writ/why%5Fsoftware%5Fsuck.html" rel="external nofollow">Why Software Suck&lt;/a> page
-contains his opinion about the programming culture.&lt;/p></description></item><item><title>Pets</title><link>https://robinwils.gitlab.io/categories/about/pets/</link><pubDate>Sat, 02 May 2020 15:09:30 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/about/pets/</guid><description>&lt;p>I like pets and we have two dogs in our house. Their names are Faye and Sienna.
+contains his opinion about the programming culture.&lt;/p></description></item><item><title>Pets</title><link>https://pages.codeberg.org/RobinWils/categories/about/pets/</link><pubDate>Sat, 02 May 2020 15:09:30 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/pets/</guid><description>&lt;p>I like pets and we have two dogs in our house. Their names are Faye and Sienna.
 They come from an animal shelter. The dog on the left is Sienna, the other dog
 is Faye.&lt;/p>
 &lt;figure>
 &lt;img src="../../images/dogsFayeAndSienna.jpg"
 alt="Two dogs next to each other." width="350" height="266"/>
 &lt;/figure>
-&lt;p>&lt;a href="../../pictures/dog-pictures/">More dog pictures&lt;/a>&lt;/p></description></item><item><title>Being different is better than being normal</title><link>https://robinwils.gitlab.io/categories/articles/being-different-is-better-than-being-normal/</link><pubDate>Sat, 02 May 2020 15:10:11 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/being-different-is-better-than-being-normal/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;p>&lt;a href="../../pictures/dog-pictures/">More dog pictures&lt;/a>&lt;/p></description></item><item><title>Being different is better than being normal</title><link>https://pages.codeberg.org/RobinWils/categories/articles/being-different-is-better-than-being-normal/</link><pubDate>Sat, 02 May 2020 15:10:11 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/being-different-is-better-than-being-normal/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -3229,7 +3273,7 @@ important questions and statements which you can use in a discussion.&lt;/p>
 &lt;p>You will never see what you could be if will always try to
 fit in with the norm. You be even more amazing. It is not
 always easy to find what you are good at, but there is
-probably something.&lt;/p></description></item><item><title>Drugs</title><link>https://robinwils.gitlab.io/categories/about/drugs/</link><pubDate>Sat, 02 May 2020 15:09:32 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/about/drugs/</guid><description>&lt;p>I try to not use drugs but I am not against people who use drugs. The only drug
+probably something.&lt;/p></description></item><item><title>Drugs</title><link>https://pages.codeberg.org/RobinWils/categories/about/drugs/</link><pubDate>Sat, 02 May 2020 15:09:32 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/drugs/</guid><description>&lt;p>I try to not use drugs but I am not against people who use drugs. The only drug
 I currently do from time to time is caffeine as in coffee or energy drinks. I
 would take medication when I get sick which is also a drug.&lt;/p>
 &lt;p>I believe that drugs are not always bad and can even be useful in some cases.
@@ -3239,7 +3283,7 @@ important.&lt;/p>
 after-effects which you probably want to avoid.&lt;/p>
 &lt;p>I currently prefer tea over coffee. Tea can also contain caffeine, but it is
 usually not as much caffeine as coffee. Health matters. Time is limited and
-bad health can make it even more limited.&lt;/p></description></item><item><title>How to get more done</title><link>https://robinwils.gitlab.io/categories/articles/how-to-get-more-done/</link><pubDate>Sat, 02 May 2020 15:10:13 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/how-to-get-more-done/</guid><description>&lt;div class="ox-hugo-toc toc">
+bad health can make it even more limited.&lt;/p></description></item><item><title>How to get more done</title><link>https://pages.codeberg.org/RobinWils/categories/articles/how-to-get-more-done/</link><pubDate>Sat, 02 May 2020 15:10:13 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/how-to-get-more-done/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -3330,7 +3374,7 @@ often slows you down.&lt;/p>
 &lt;p>Multitasking is not always bad. Listening to music while doing something might
 increase your productivity depending on the task and music.&lt;/p>
 &lt;p>Tiny tasks can usually be multitasked in my experience, but bigger ones can&amp;rsquo;t.
-You decide how tiny or big, tiny and big is.&lt;/p></description></item><item><title>Why I avoid politics in most places</title><link>https://robinwils.gitlab.io/categories/about/why-i-avoid-politics-in-most-places/</link><pubDate>Sat, 02 May 2020 15:09:35 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/about/why-i-avoid-politics-in-most-places/</guid><description>&lt;div class="ox-hugo-toc toc">
+You decide how tiny or big, tiny and big is.&lt;/p></description></item><item><title>Why I avoid politics in most places</title><link>https://pages.codeberg.org/RobinWils/categories/about/why-i-avoid-politics-in-most-places/</link><pubDate>Sat, 02 May 2020 15:09:35 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/why-i-avoid-politics-in-most-places/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -3376,7 +3420,7 @@ enough research. You also have to be in the right place at the right time.&lt;/p
 &lt;h2 id="so-which-party-did-robin-wils-vote-for">So, which party did Robin Wils vote for?&lt;/h2>
 &lt;p>I won&amp;rsquo;t give you the answer, since I don&amp;rsquo;t stand for any party and I don&amp;rsquo;t
 want to create a long discussion. I prefer to keep it secret and my opinion
-can change from year to year.&lt;/p></description></item><item><title>Are internet memes overrated?</title><link>https://robinwils.gitlab.io/categories/articles/are-internet-memes-overrated/</link><pubDate>Sat, 02 May 2020 15:10:15 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/are-internet-memes-overrated/</guid><description>&lt;div class="ox-hugo-toc toc">
+can change from year to year.&lt;/p></description></item><item><title>Are internet memes overrated?</title><link>https://pages.codeberg.org/RobinWils/categories/articles/are-internet-memes-overrated/</link><pubDate>Sat, 02 May 2020 15:10:15 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/are-internet-memes-overrated/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -3431,7 +3475,7 @@ you download them when you visit a page while you might not even want to see
 them.&lt;/p>
 &lt;p>I also don&amp;rsquo;t like the word. I will try to use the word internet joke instead. I
 am not saying that anyone should ban it, since that probably won&amp;rsquo;t work anyways.
-The thing about these jokes is that it is an idea which many people seem to like.&lt;/p></description></item><item><title>Music</title><link>https://robinwils.gitlab.io/categories/about/music/</link><pubDate>Sat, 02 May 2020 15:09:37 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/about/music/</guid><description>&lt;div class="ox-hugo-toc toc">
+The thing about these jokes is that it is an idea which many people seem to like.&lt;/p></description></item><item><title>Music</title><link>https://pages.codeberg.org/RobinWils/categories/about/music/</link><pubDate>Sat, 02 May 2020 15:09:37 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/music/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -3507,7 +3551,7 @@ music which I enjoy.&lt;/p>
 &lt;ul>
 &lt;li>Some of the music which Twin Peaks uses&lt;/li>
 &lt;li>&amp;hellip;&lt;/li>
-&lt;/ul></description></item><item><title>Privacy focused software</title><link>https://robinwils.gitlab.io/categories/articles/privacy-focused-software/</link><pubDate>Sat, 02 May 2020 15:10:18 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/privacy-focused-software/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/ul></description></item><item><title>Privacy focused software</title><link>https://pages.codeberg.org/RobinWils/categories/articles/privacy-focused-software/</link><pubDate>Sat, 02 May 2020 15:10:18 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/privacy-focused-software/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -3933,7 +3977,7 @@ by design,&amp;hellip;&lt;/p>
 &lt;p>I could write more about this, but I wanted to stick to the basics.
 Feel free to contact me if you think that I missed something important.
 I have more articles which talk about privacy. Feel free to check them
-out.&lt;/p></description></item><item><title>What is free software?</title><link>https://robinwils.gitlab.io/categories/about/what-is-free-software/</link><pubDate>Sat, 02 May 2020 15:09:39 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/about/what-is-free-software/</guid><description>&lt;p>This video might be useful to get to know what free software means. It is more
+out.&lt;/p></description></item><item><title>What is free software?</title><link>https://pages.codeberg.org/RobinWils/categories/about/what-is-free-software/</link><pubDate>Sat, 02 May 2020 15:09:39 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/what-is-free-software/</guid><description>&lt;p>This video might be useful to get to know what free software means. It is more
 complex as in the video, but the video should be good enough to learn the
 basics.&lt;/p>
 &lt;p>&lt;video controls="controls"
@@ -3997,7 +4041,7 @@ rel="external nofollow">
 Italian
 &lt;/a>
 .
-&lt;/p></description></item><item><title>The recycling lie</title><link>https://robinwils.gitlab.io/categories/articles/the-recycling-lie/</link><pubDate>Sat, 02 May 2020 15:10:20 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/the-recycling-lie/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/p></description></item><item><title>The recycling lie</title><link>https://pages.codeberg.org/RobinWils/categories/articles/the-recycling-lie/</link><pubDate>Sat, 02 May 2020 15:10:20 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/the-recycling-lie/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -4074,7 +4118,7 @@ not, unless someone breaks it.&lt;/p>
 to show what I mean.&lt;/p>
 &lt;h3 id="spread-the-word">Spread the word&lt;/h3>
 &lt;p>Tell people about the problems and explain why they should care. Please do
-so in a respectful way.&lt;/p></description></item><item><title>My current distro</title><link>https://robinwils.gitlab.io/categories/about/my-current-distro/</link><pubDate>Sat, 02 May 2020 15:09:41 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/about/my-current-distro/</guid><description>&lt;div class="ox-hugo-toc toc">
+so in a respectful way.&lt;/p></description></item><item><title>My current distro</title><link>https://pages.codeberg.org/RobinWils/categories/about/my-current-distro/</link><pubDate>Sat, 02 May 2020 15:09:41 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/my-current-distro/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -4157,7 +4201,7 @@ title="Archfi's github"
 rel="external nofollow">
 Github
 &lt;/a>&lt;/p>
-&lt;/div></description></item><item><title>Think before using the GPL license</title><link>https://robinwils.gitlab.io/categories/articles/think-before-using-the-gpl-license/</link><pubDate>Sat, 02 May 2020 15:21:15 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/think-before-using-the-gpl-license/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>Think before using the GPL license</title><link>https://pages.codeberg.org/RobinWils/categories/articles/think-before-using-the-gpl-license/</link><pubDate>Sat, 02 May 2020 15:21:15 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/think-before-using-the-gpl-license/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -4232,7 +4276,7 @@ can be a good choice, but please think before you use it.&lt;/p>
 people. Keep in mind that everything can have a bad side. CC0 also know as
 public domain means that anyone can steal your program. It has no restrictions.&lt;/p>
 &lt;p>You should do some research on the different licenses before you pick one. Make
-sure to think enough about it. Licenses can have consequences.&lt;/p></description></item><item><title>My keyboard</title><link>https://robinwils.gitlab.io/categories/about/my-keyboard/</link><pubDate>Sat, 02 May 2020 15:09:44 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/about/my-keyboard/</guid><description>&lt;div class="ox-hugo-toc toc">
+sure to think enough about it. Licenses can have consequences.&lt;/p></description></item><item><title>My keyboard</title><link>https://pages.codeberg.org/RobinWils/categories/about/my-keyboard/</link><pubDate>Sat, 02 May 2020 15:09:44 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/my-keyboard/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -4295,7 +4339,7 @@ of the virtual machine to Dvorak.&lt;/p>
 to press. I recommend the kinesis keyboard if you do want great thumb keys.
 They are a bit better. Still not perfect, but better reachable. Xah Lee has
 written a lot of stuff about keyboards. I recommend to read his &lt;a href="http://xahlee.info/kbd/keyboarding.html" rel="external nofollow">keyboard guide&lt;/a>
-or/and to watch his videos.&lt;/p></description></item><item><title>How important is online privacy?</title><link>https://robinwils.gitlab.io/categories/articles/how-important-is-online-privacy/</link><pubDate>Sat, 02 May 2020 15:21:02 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/how-important-is-online-privacy/</guid><description>&lt;div class="ox-hugo-toc toc">
+or/and to watch his videos.&lt;/p></description></item><item><title>How important is online privacy?</title><link>https://pages.codeberg.org/RobinWils/categories/articles/how-important-is-online-privacy/</link><pubDate>Sat, 02 May 2020 15:21:02 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/how-important-is-online-privacy/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -4347,12 +4391,12 @@ productivity.&lt;/p>
 can help you a lot. People can use your data against you.&lt;/p>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>Choose how far you are willing to go, but don&amp;rsquo;t become too obsessed with it.
-Security and privacy matters, but so does convenience and productivity.&lt;/p></description></item><item><title>My GNU Emacs config</title><link>https://robinwils.gitlab.io/categories/about/emacs-config/</link><pubDate>Sat, 02 May 2020 15:09:46 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/about/emacs-config/</guid><description>&lt;p>You can find my GNU Emacs config on Codeberg. I use the &lt;a href="http://ergoemacs.org/misc/xah-fly-keys%5Ftutorial.html" rel="external nofollow">Xah Fly Keys&lt;/a> package.
+Security and privacy matters, but so does convenience and productivity.&lt;/p></description></item><item><title>My GNU Emacs config</title><link>https://pages.codeberg.org/RobinWils/categories/about/emacs-config/</link><pubDate>Sat, 02 May 2020 15:09:46 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/emacs-config/</guid><description>&lt;p>You can find my GNU Emacs config on Codeberg. I use the &lt;a href="http://ergoemacs.org/misc/xah-fly-keys%5Ftutorial.html" rel="external nofollow">Xah Fly Keys&lt;/a> package.
 I highly recommend that you learn those keybindings before you use my config.&lt;/p>
 &lt;div class="link-list">
 &lt;div>&lt;/div>
 &lt;p>&lt;a href="https://codeberg.org/RobinWils/dotfiles/src/branch/master/.emacs.d/emacs-init.org" rel="external nofollow">Codeberg (git)&lt;/a>&lt;/p>
-&lt;/div></description></item><item><title>You should use KeePass</title><link>https://robinwils.gitlab.io/categories/articles/you-should-use-keepass/</link><pubDate>Sat, 02 May 2020 15:10:27 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/you-should-use-keepass/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>You should use KeePass</title><link>https://pages.codeberg.org/RobinWils/categories/articles/you-should-use-keepass/</link><pubDate>Sat, 02 May 2020 15:10:27 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/you-should-use-keepass/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -4557,7 +4601,7 @@ SSH Agent is running. GNOME Keyring can manage SSH keys. I use ssh-agent for
 this. You can add the following command to &amp;ldquo;~/.bashrc&amp;rdquo; or to your init script
 to run it in the background.&lt;/p>
 &lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-sh" data-lang="sh">eval &lt;span style="color:#e6db74">`&lt;/span>ssh-agent -s&lt;span style="color:#e6db74">`&lt;/span> &amp;amp;
-&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>The GNU Linux system naming problem</title><link>https://robinwils.gitlab.io/categories/about/the-gnu-linux-system-naming-problem/</link><pubDate>Sat, 02 May 2020 15:09:48 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/about/the-gnu-linux-system-naming-problem/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>The GNU Linux system naming problem</title><link>https://pages.codeberg.org/RobinWils/categories/about/the-gnu-linux-system-naming-problem/</link><pubDate>Sat, 02 May 2020 15:09:48 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/the-gnu-linux-system-naming-problem/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -4604,7 +4648,7 @@ since it could mean a set of software components.&lt;/p>
 &lt;h2 id="what-about-calling-it-unix-like-systems">What about calling it UNIX-like systems?&lt;/h2>
 &lt;p>The UNIX philosophy was made by AT&amp;amp;T which was a closed source company. GNU
 stands for GNU Not UNIX. It provides you the four freedoms.&lt;/p>
-&lt;p>Please don&amp;rsquo;t say that you have a UNIX-like system.&lt;/p></description></item><item><title>Why I made a Twitter</title><link>https://robinwils.gitlab.io/categories/articles/why-i-made-a-twitter/</link><pubDate>Sat, 02 May 2020 15:21:53 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/why-i-made-a-twitter/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;p>Please don&amp;rsquo;t say that you have a UNIX-like system.&lt;/p></description></item><item><title>Why I made a Twitter</title><link>https://pages.codeberg.org/RobinWils/categories/articles/why-i-made-a-twitter/</link><pubDate>Sat, 02 May 2020 15:21:53 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/why-i-made-a-twitter/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -4665,7 +4709,7 @@ disappointing to say the least.&lt;/p>
 &lt;p>You can find my account here:
 &lt;a href="https://twitter.com/@wils%5Frobin" rel="external">@wils_robin&lt;/a>&lt;/p>
 &lt;p>The nick &amp;ldquo;robinwils&amp;rdquo; was already taken by some account which has only one tweet
-from 2010.&lt;/p></description></item><item><title>Heroes in the GNU and Linux world</title><link>https://robinwils.gitlab.io/categories/about/heroes-in-the-gnu-and-linux-world/</link><pubDate>Sat, 02 May 2020 15:09:50 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/about/heroes-in-the-gnu-and-linux-world/</guid><description>&lt;div class="ox-hugo-toc toc">
+from 2010.&lt;/p></description></item><item><title>Heroes in the GNU and Linux world</title><link>https://pages.codeberg.org/RobinWils/categories/about/heroes-in-the-gnu-and-linux-world/</link><pubDate>Sat, 02 May 2020 15:09:50 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/heroes-in-the-gnu-and-linux-world/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -4758,7 +4802,7 @@ accident - CC0 licensed.&lt;/p>
 same without them.&lt;/p>
 &lt;p>RMS, James Gosling and Linus Torvalds worked with a team and many of the great
 people who helped them also deserve some respect in my opinion.&lt;/p>
-&lt;p>They might all have/had their own problems, but they created wonderful things.&lt;/p></description></item><item><title>It is alright to not always like life</title><link>https://robinwils.gitlab.io/categories/articles/it-is-alright-to-not-always-like-life/</link><pubDate>Sat, 02 May 2020 15:10:31 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/it-is-alright-to-not-always-like-life/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;p>They might all have/had their own problems, but they created wonderful things.&lt;/p></description></item><item><title>It is alright to not always like life</title><link>https://pages.codeberg.org/RobinWils/categories/articles/it-is-alright-to-not-always-like-life/</link><pubDate>Sat, 02 May 2020 15:10:31 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/it-is-alright-to-not-always-like-life/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -4860,7 +4904,7 @@ Trust &amp;quot;&lt;/p>
 &lt;/blockquote>
 &lt;h2 id="oh-hi">Oh, hi&lt;/h2>
 &lt;p>Oh, hi. Someone actually read this? Thanks. Stay strong and keep pushing
-forward. You can make it through, trust. Easier written than done.&lt;/p></description></item><item><title>Trying Wayland and Sway</title><link>https://robinwils.gitlab.io/categories/articles/trying-wayland-and-sway/</link><pubDate>Sat, 02 May 2020 15:22:20 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/trying-wayland-and-sway/</guid><description>&lt;div class="ox-hugo-toc toc">
+forward. You can make it through, trust. Easier written than done.&lt;/p></description></item><item><title>Trying Wayland and Sway</title><link>https://pages.codeberg.org/RobinWils/categories/articles/trying-wayland-and-sway/</link><pubDate>Sat, 02 May 2020 15:22:20 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/trying-wayland-and-sway/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -5177,7 +5221,7 @@ device &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74"
 mixer &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;Master&amp;#34;&lt;/span>
 mixer_idx &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>
 &lt;span style="color:#f92672">}&lt;/span>
-&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Easily track your dotfiles with git</title><link>https://robinwils.gitlab.io/categories/articles/easily-track-your-dotfiles-with-git/</link><pubDate>Sat, 02 May 2020 15:10:36 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/easily-track-your-dotfiles-with-git/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Easily track your dotfiles with git</title><link>https://pages.codeberg.org/RobinWils/categories/articles/easily-track-your-dotfiles-with-git/</link><pubDate>Sat, 02 May 2020 15:10:36 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/easily-track-your-dotfiles-with-git/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
