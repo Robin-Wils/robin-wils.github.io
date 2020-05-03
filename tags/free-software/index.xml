@@ -30,14 +30,14 @@
 title="Stallman: Reasons to not use Facebook"
 rel="external nofollow">
 &lt;img alt="Not f'd. You won't find me on Facebook icon."
-src="https://robinwils.gitlab.io/images/contact/no-facebook-icon.jpg"
+src="../../images/contact/no-facebook-icon.jpg"
 title="Stallman: Reasons to not use Facebook"
 width="200"
 height="67">
 &lt;/a>&lt;/p>
 &lt;h3 id="curriculum-vitae">Curriculum Vitae&lt;/h3>
-&lt;p>&lt;a href="https://robinwils.gitlab.io/curriculum-vitae">Curriculum Vitae&lt;/a>&lt;/p></description></item><item><title>Curriculum Vitae</title><link>https://robinwils.gitlab.io/curriculum-vitae/</link><pubDate>Sat, 02 May 2020 15:11:00 +0200</pubDate><guid>https://robinwils.gitlab.io/curriculum-vitae/</guid><description>&lt;div id="sidebar">
-&lt;img src="https://robinwils.gitlab.io/images/robin-wils-avatar.jpg"
+&lt;p>&lt;a href="../../curriculum-vitae">Curriculum Vitae&lt;/a>&lt;/p></description></item><item><title>Curriculum Vitae</title><link>https://robinwils.gitlab.io/curriculum-vitae/</link><pubDate>Sat, 02 May 2020 15:11:00 +0200</pubDate><guid>https://robinwils.gitlab.io/curriculum-vitae/</guid><description>&lt;div id="sidebar">
+&lt;img src="../../images/robin-wils-avatar.jpg"
 id="avatar"
 alt="A black and white picture of a man with glasses. This man is named Robin Wils."
 width="120"
@@ -46,17 +46,17 @@ height="120"/>
 &lt;h2 id="subheader">
 Application developer
 &lt;/h2>
-&lt;p>&lt;img src="https://robinwils.gitlab.io/images/curriculum-vitae/baseline-place-white-18dp.png"
+&lt;p>&lt;img src="../../images/curriculum-vitae/baseline-place-white-18dp.png"
 alt="Place icon from material design."
 width="25"
 height="25"/>
 Not available here for privacy reasons&lt;/p>
-&lt;p>&lt;img src="https://robinwils.gitlab.io/images/curriculum-vitae/baseline-phone-white-18dp.png"
+&lt;p>&lt;img src="../../images/curriculum-vitae/baseline-phone-white-18dp.png"
 alt="Phone icon from material design."
 width="25"
 height="25"/>
 Not available here for privacy reasons&lt;/p>
-&lt;p>&lt;img src="https://robinwils.gitlab.io/images/curriculum-vitae/baseline-email-white-18dp.png"
+&lt;p>&lt;img src="../../images/curriculum-vitae/baseline-email-white-18dp.png"
 alt="Email icon from material design."
 width="25"
 height="25"/>
@@ -342,7 +342,7 @@ be lightweight and easy to install. I do want it to be a tiny bit more modern.
 Some packages could be a bit more heavy, but lightweight alternatives should
 exist.&lt;/p></description></item><item><title>Dog Pictures</title><link>https://robinwils.gitlab.io/categories/pictures/dog-pictures/</link><pubDate>Sat, 02 May 2020 15:10:49 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/pictures/dog-pictures/</guid><description>&lt;div class="lightbox">
 &lt;a href="#image1">
-&lt;img src="https://robinwils.gitlab.io/images/pictures/dogs/thumbnails/FayeAndSienna1.jpg"
+&lt;img src="../../images/pictures/dogs/thumbnails/FayeAndSienna1.jpg"
 alt="Two dogs."
 width="135"
 height="135">
@@ -359,7 +359,7 @@ class="close-lightbox-button">
 X
 &lt;/a>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/pictures/dogs/FayeAndSienna1.jpg"
+&lt;img src="../../images/pictures/dogs/FayeAndSienna1.jpg"
 alt="Two dogs.">
 &lt;/figure>
 &lt;a href="#image2"
@@ -368,7 +368,7 @@ class="next-image-button">
 &lt;/a>
 &lt;/div>
 &lt;a href="#image2">
-&lt;img src="https://robinwils.gitlab.io/images/pictures/dogs/thumbnails/FayeAndSienna2.jpg"
+&lt;img src="../../images/pictures/dogs/thumbnails/FayeAndSienna2.jpg"
 alt="Two dogs."
 width="135"
 height="135">
@@ -385,7 +385,7 @@ class="close-lightbox-button">
 X
 &lt;/a>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/pictures/dogs/FayeAndSienna2.jpg"
+&lt;img src="../../images/pictures/dogs/FayeAndSienna2.jpg"
 alt="Two dogs.">
 &lt;/figure>
 &lt;a href="#image3"
@@ -394,7 +394,7 @@ class="next-image-button">
 &lt;/a>
 &lt;/div>
 &lt;a href="#image3">
-&lt;img src="https://robinwils.gitlab.io/images/pictures/dogs/thumbnails/Faye1.jpg"
+&lt;img src="../../images/pictures/dogs/thumbnails/Faye1.jpg"
 alt="One dog."
 width="135"
 height="135">
@@ -411,7 +411,7 @@ class="close-lightbox-button">
 X
 &lt;/a>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/pictures/dogs/Faye1.jpg"
+&lt;img src="../../images/pictures/dogs/Faye1.jpg"
 alt="One dog.">
 &lt;/figure>
 &lt;a href="#image4"
@@ -420,7 +420,7 @@ class="next-image-button">
 &lt;/a>
 &lt;/div>
 &lt;a href="#image4">
-&lt;img src="https://robinwils.gitlab.io/images/pictures/dogs/thumbnails/Sienna1.jpg"
+&lt;img src="../../images/pictures/dogs/thumbnails/Sienna1.jpg"
 alt="One dog."
 width="135"
 height="135">
@@ -437,7 +437,7 @@ class="close-lightbox-button">
 X
 &lt;/a>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/pictures/dogs/Sienna1.jpg"
+&lt;img src="../../images/pictures/dogs/Sienna1.jpg"
 alt="One dog.">
 &lt;/figure>
 &lt;a href="#image1"
@@ -471,7 +471,7 @@ other people could participate as well.&lt;/p>
 &lt;p>I wanted to give this a try, since I use GNU+Linux system. I use it daily,
 but this does not necessarily mean that I really know GNU or Linux.&lt;/p>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/articles/linux-challenge/linux-challenge-student-winners.jpg"
+&lt;img src="../../images/articles/linux-challenge/linux-challenge-student-winners.jpg"
 alt="The student winners of the Linux Challenge 2019 standing next to each other." width="400" height="210"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -518,7 +518,7 @@ see why others have a different opinion, so that I can learn from that.&lt;/p>
 or other words. Linux is just an easier word to market and people know the word.
 This does not mean that I agree with the word. The GNU project deserves credit
 in my opinion.&lt;/p>
-&lt;p>My opinion about the naming problem: &lt;a href="https://robinwils.gitlab.io/about/the-gnu-linux-system-naming-problem/">The GNU Linux system naming problem&lt;/a>&lt;/p>
+&lt;p>My opinion about the naming problem: &lt;a href="../../about/the-gnu-linux-system-naming-problem/">The GNU Linux system naming problem&lt;/a>&lt;/p>
 &lt;h4 id="is-everyone-an-hypocrite">Is everyone an hypocrite?&lt;/h4>
 &lt;p>Everyone probably depends on some closed source stuff (even if it are just some
 protocols or bank card stuff). Everyone probably also depends on free software.
@@ -602,7 +602,7 @@ rel="external">
 Invidious
 &lt;/a>&lt;/p>
 &lt;/div></description></item><item><title>Who is Robin Wils?</title><link>https://robinwils.gitlab.io/categories/about/who-is-robin-wils/</link><pubDate>Sat, 02 May 2020 15:09:21 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/about/who-is-robin-wils/</guid><description>&lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/robin-wils-avatar.jpg"
+&lt;img src="../../images/robin-wils-avatar.jpg"
 alt="A black and white picture of a man with glasses. This man is named Robin Wils." width="120" height="120"/>
 &lt;/figure>
 &lt;p>I am a free (as in freedom) software enthusiast from Belgium.
@@ -869,7 +869,7 @@ Google, Amazon, Facebook, Apple, Microsoft and Cloudflare. Cloud Firewall has
 a whitelisting option, so that it can disable blocking on specific websites.&lt;/p>
 &lt;p>I highly recommend this add-on. It might be a bit extreme for some, but it has
 the possibility to block popular CDNs, which many people associate with spying.&lt;/p>
-&lt;p>Read my &lt;a href="https://robinwils.gitlab.io/categories/articles/say-no-to-cloudflare">Say no to Cloudflare&lt;/a> article for more info about the Cloudflare problem.&lt;/p>
+&lt;p>Read my &lt;a href="../../categories/articles/say-no-to-cloudflare">Say no to Cloudflare&lt;/a> article for more info about the Cloudflare problem.&lt;/p>
 &lt;p>License: GPLv3&lt;/p>
 &lt;div class="link-list">
 &lt;div>&lt;/div>
@@ -1049,7 +1049,7 @@ Gitlab
 &lt;!--endtoc-->
 &lt;h2 id="what-is-fosdem">What is FOSDEM?&lt;/h2>
 &lt;figure class="icon">
-&lt;img src="https://robinwils.gitlab.io/images/articles/fosdem/fosdem.png"
+&lt;img src="../../images/articles/fosdem/fosdem.png"
 alt="The logo of FOSDEM a big purple gear with the text FOSDEM in the middle of it." width="149" height="150"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -1061,7 +1061,7 @@ Changes: compressed the image and changed the size of the image.&lt;/p>
 collaborate. Every year, thousands of developers of free and open source
 software from all over the world gather at the event in Belgium in Brussels.&lt;/p>
 &lt;h2 id="my-experience-at-fosdem">My experience at FOSDEM&lt;/h2>
-&lt;p>FOSDEM was great, just like &lt;a href="https://robinwils.gitlab.io/articles/fosdem-2019">last year&lt;/a>.&lt;/p>
+&lt;p>FOSDEM was great, just like &lt;a href="../../articles/fosdem-2019">last year&lt;/a>.&lt;/p>
 &lt;p>There were a lot of interesting talks.
 I actually met someone from the Fediverse this year. We missed out
 on meeting an other person who uses the Fediverse, because we
@@ -1158,7 +1158,7 @@ are awesome, so don&amp;rsquo;t think that this list contains all the awesome pr
 &lt;p>Wayland is a display server. It is more secure and less complex than
 Xorg. There are also some other benefits. Wayland is the future.&lt;/p>
 &lt;p>You can read the following article for some Wayland
-tips: &lt;a href="https://robinwils.gitlab.io/articles/trying-wayland-and-sway">Trying Wayland and Sway&lt;/a>&lt;/p>
+tips: &lt;a href="../../articles/trying-wayland-and-sway">Trying Wayland and Sway&lt;/a>&lt;/p>
 &lt;h2 id="why-not-wayland">Why not Wayland?&lt;/h2>
 &lt;h3 id="drivers">Drivers&lt;/h3>
 &lt;p>Some drivers seem to rely on Xorg, like some drawing tablet drivers.
@@ -1207,7 +1207,7 @@ people, since there aren&amp;rsquo;t too many distractions.&lt;/p>
 &lt;p>It could be even simpler, but I want that it works and that it is easy to use
 for the most people. Making it too minimal would take away that it is easy to
 use.&lt;/p>
-&lt;p>I will also provide some other &lt;a href="https://robinwils.gitlab.io/about/website-themes">themes&lt;/a> in case you don&amp;rsquo;t like the style of this
+&lt;p>I will also provide some other &lt;a href="../../about/website-themes">themes&lt;/a> in case you don&amp;rsquo;t like the style of this
 website.&lt;/p>
 &lt;h2 id="it-is-fast">It is fast&lt;/h2>
 &lt;p>It could still load fast if I would have added more styles or even JavaScript.
@@ -1887,7 +1887,7 @@ Peaks)&lt;/li>
 &lt;/div>
 &lt;!--endtoc-->
 &lt;figure class="icon">
-&lt;img src="https://robinwils.gitlab.io/images/projects/friendly-premonition/friendly-premonition-cover.jpg"
+&lt;img src="../../images/projects/friendly-premonition/friendly-premonition-cover.jpg"
 alt="The title of the Friendly Premonition project." width="600"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -1903,19 +1903,19 @@ alt="The title of the Friendly Premonition project." width="600"/>
 &lt;p>Friendly Premonition was announced on Deadly Premonition&amp;rsquo;s 10th anniversary.
 Go to the original posts to see the images in a higher resolution.&lt;/p>
 &lt;div class="image-grid">
-&lt;img src="https://robinwils.gitlab.io/images/projects/friendly-premonition/mockup-york.jpg"
+&lt;img src="../../images/projects/friendly-premonition/mockup-york.jpg"
 alt="York standing in the sheriffs department."
 width="295"
 class="icon">
-&lt;img src="https://robinwils.gitlab.io/images/projects/friendly-premonition/mockup-a-and-g-diner.jpg"
+&lt;img src="../../images/projects/friendly-premonition/mockup-a-and-g-diner.jpg"
 alt="A &amp; G diner."
 width="295"
 class="icon">
-&lt;img src="https://robinwils.gitlab.io/images/projects/friendly-premonition/mockup-map.jpg"
+&lt;img src="../../images/projects/friendly-premonition/mockup-map.jpg"
 alt="Map of Greenvale."
 width="295"
 class="icon">
-&lt;img src="https://robinwils.gitlab.io/images/projects/friendly-premonition/mockup-polly.jpg"
+&lt;img src="../../images/projects/friendly-premonition/mockup-polly.jpg"
 alt="Polly standing in the Great Dear Yard Hotel."
 width="295"
 class="icon">
@@ -1958,7 +1958,7 @@ Go to toot
 &lt;!--endtoc-->
 &lt;h2 id="what-is-fosdem">What is FOSDEM?&lt;/h2>
 &lt;figure class="icon">
-&lt;img src="https://robinwils.gitlab.io/images/articles/fosdem/fosdem.png"
+&lt;img src="../../images/articles/fosdem/fosdem.png"
 alt="The logo of FOSDEM a big purple gear with the text FOSDEM in the middle of it." width="149" height="150"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -2067,7 +2067,7 @@ impact others. It is the best way to reach people.&lt;/p>
 &lt;p>Social media and the media aren&amp;rsquo;t so different. You can only see a bit of the
 world at the time, in other words, people have an impact on you all the time.&lt;/p>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/articles/media-and-social-media/social-media-binoculars.jpg"
+&lt;img src="../../images/articles/media-and-social-media/social-media-binoculars.jpg"
 alt="A screen which shows a man using binoculars. The glasses of the binoculars have the Facebook logo on it." width="400" height="266"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -2231,7 +2231,7 @@ platforms!&lt;/strong> I don&amp;rsquo;t recommend it, since you give them an ex
 platforms only exist because of their users (and usually also the personal data
 of those users).&lt;/p>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/articles/media-and-social-media/facebook-pills.jpg"
+&lt;img src="../../images/articles/media-and-social-media/facebook-pills.jpg"
 alt="A opened box of big white pills. The label of this box says &amp;#39;Facebook&amp;#39;." width="400" height="267"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -2369,7 +2369,7 @@ theme to the repository.&lt;/p></description></item><item><title>Say no to Cloud
 &lt;!--endtoc-->
 &lt;h2 id="what-is-cloudflare">What is Cloudflare?&lt;/h2>
 &lt;figure class="icon">
-&lt;img src="https://robinwils.gitlab.io/images/articles/say-no-to-cloudflare/say-no-to-flarecloud-logo.png"
+&lt;img src="../../images/articles/say-no-to-cloudflare/say-no-to-flarecloud-logo.png"
 alt="A cloud which is filled with flares. The cloud has the same shape as the Cloudflare logo. There is a big red cross through the logo." width="300" height="130"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -2468,7 +2468,7 @@ recommended to search for &amp;ldquo;cloudflare&amp;rdquo;. GNU Icecat and older
 are not affected &lt;em>yet&lt;/em>. Tor Browser is also Firefox based, but you don&amp;rsquo;t have
 to use Tor Browser to use Tor.&lt;/p>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/articles/say-no-to-cloudflare/firefox-cloudflare-dns-settings.jpg"
+&lt;img src="../../images/articles/say-no-to-cloudflare/firefox-cloudflare-dns-settings.jpg"
 alt="The about:config page which shows the Cloudflare DNS address in the network.trr.uri string." width="578" height="174"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -2624,7 +2624,7 @@ Mastodon or Pleroma.&lt;/p>
 &lt;h3 id="is-privacy-worth-it">Is privacy worth it?&lt;/h3>
 &lt;p>I think that productivity matters more than privacy. There are tools which
 provide productivity while also being better for security and privacy. Take
-a look at &lt;a href="https://robinwils.gitlab.io/categories/articles/you-should-use-keepass/">KeePassXC&lt;/a> for example.&lt;/p>
+a look at &lt;a href="../../categories/articles/you-should-use-keepass/">KeePassXC&lt;/a> for example.&lt;/p>
 &lt;p>I would go for the more secure alternative if it doesn&amp;rsquo;t hurt my productivity
 too much. I do this because I still want to support privacy for the people who
 need it.&lt;/p>
@@ -2633,12 +2633,12 @@ for it. Make sure that you are a bit more secure than average users, but
 don&amp;rsquo;t overdo it.&lt;/p>
 &lt;ul>
 &lt;li>
-&lt;a href="https://robinwils.gitlab.io/categories/articles/privacy-focused-software/">
+&lt;a href="../../categories/articles/privacy-focused-software/">
 Privacy focused software
 &lt;/a>- contains reasons to care about privacy
 &lt;/li>
 &lt;li>
-&lt;a href="https://robinwils.gitlab.io/categories/articles/how-important-is-online-privacy/">
+&lt;a href="../../categories/articles/how-important-is-online-privacy/">
 How important is online privacy?
 &lt;/a>- contains thoughts about online privacy, is the extra effort worth it?
 &lt;/li>
@@ -2663,7 +2663,7 @@ How important is online privacy?
 &lt;!--endtoc-->
 &lt;h2 id="what-is-drm">What is DRM?&lt;/h2>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/articles/international-day-against-drm/eliminate-drm.jpg"
+&lt;img src="../../images/articles/international-day-against-drm/eliminate-drm.jpg"
 alt="The eliminate DRM logo. The text on the logo is &amp;#39;ELIMINATE DRM DefectiveByDesign.org&amp;#39;." width="260" height="162"/>
 &lt;/figure>
 &lt;p>DRM means Digital Right Management, but some opponents of DRM prefer to call
@@ -2767,7 +2767,7 @@ heard about her.&lt;/p>
 &lt;p>The funny thing is that she joined the chat room when we chatted about how cool
 some of her songs are. Much thanks to Twill to tell me about Ryako.&lt;/p>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/articles/i-met-ryako-at-a-musical/twill-distilled.jpg"
+&lt;img src="../../images/articles/i-met-ryako-at-a-musical/twill-distilled.jpg"
 alt="Picture of Twill Distilled." width="281" height="226"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -2851,7 +2851,7 @@ Soundcloud
 &lt;p>I am lucky to live in Belgium, the same country as Ryako. She private messaged
 me about a musical which she participated in. I went to the event.&lt;/p>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/articles/i-met-ryako-at-a-musical/ryako.jpg"
+&lt;img src="../../images/articles/i-met-ryako-at-a-musical/ryako.jpg"
 alt="Picture of Ryako." width="300" height="200"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -2874,7 +2874,7 @@ merch, gave me a hug and we had a chat.&lt;/p>
 since I was wearing it). I expected to get nothing, but I got so much. She was
 able to do so much in such a small time.&lt;/p>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/articles/i-met-ryako-at-a-musical/merch.jpg"
+&lt;img src="../../images/articles/i-met-ryako-at-a-musical/merch.jpg"
 alt="Picture of the merch which I got from Ryako." width="300" height="195"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -2886,7 +2886,7 @@ laptop - CC0 licensed.&lt;/p>
 &lt;p>The picture with her was made pretty quick. It is not my best picture, but it
 is nice that it exists now.&lt;/p>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/articles/i-met-ryako-at-a-musical/robin-wils-and-ryako.jpg"
+&lt;img src="../../images/articles/i-met-ryako-at-a-musical/robin-wils-and-ryako.jpg"
 alt="Picture of Robin Wils and Ryako." width="300" height="291"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -2971,7 +2971,7 @@ Soundcloud
 your code like this and you don&amp;rsquo;t use the &lt;em>&amp;ldquo;cloud&amp;rdquo;&lt;/em>. You must be a bad
 programmer.&lt;/p>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/articles/the-programming-culture-has-problems/old-man-yells-at-cloud.jpg"
+&lt;img src="../../images/articles/the-programming-culture-has-problems/old-man-yells-at-cloud.jpg"
 alt="A newspaper with a picture of angry Grampa Simpson who yells at a cloud in the air. The headline of this newspaper is &amp;#39;OLD MAN YELLS AT CLOUD&amp;#39;." width="510" height="287"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -3142,10 +3142,10 @@ contains his opinion about the programming culture.&lt;/p></description></item><
 They come from an animal shelter. The dog on the left is Sienna, the other dog
 is Faye.&lt;/p>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/dogsFayeAndSienna.jpg"
+&lt;img src="../../images/dogsFayeAndSienna.jpg"
 alt="Two dogs next to each other." width="350" height="266"/>
 &lt;/figure>
-&lt;p>&lt;a href="https://robinwils.gitlab.io/pictures/dog-pictures/">More dog pictures&lt;/a>&lt;/p></description></item><item><title>Being different is better than being normal</title><link>https://robinwils.gitlab.io/categories/articles/being-different-is-better-than-being-normal/</link><pubDate>Sat, 02 May 2020 15:10:11 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/being-different-is-better-than-being-normal/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;p>&lt;a href="../../pictures/dog-pictures/">More dog pictures&lt;/a>&lt;/p></description></item><item><title>Being different is better than being normal</title><link>https://robinwils.gitlab.io/categories/articles/being-different-is-better-than-being-normal/</link><pubDate>Sat, 02 May 2020 15:10:11 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/articles/being-different-is-better-than-being-normal/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -3204,7 +3204,7 @@ many things which they teach. You sometimes just can&amp;rsquo;t seem to be who 
 like to be.&lt;/p>
 &lt;p>This does not mean that I hate those people. I believe that hating does not
 give enough value back. It is probably not worth it. Some people found
-&lt;a href="https://robinwils.gitlab.io/about/my-keyboard/">my keyboard layout&lt;/a> pretty cool while others thought that it was weird, but I see
+&lt;a href="../../about/my-keyboard/">my keyboard layout&lt;/a> pretty cool while others thought that it was weird, but I see
 that as a good thing.&lt;/p>
 &lt;h2 id="advantages-of-being-different">Advantages of being different&lt;/h2>
 &lt;h3 id="you-are-different-and-stand-out">You are different and stand out&lt;/h3>
@@ -3301,7 +3301,7 @@ the game instead of playing it if you don&amp;rsquo;t want to waste too much tim
 art. I don&amp;rsquo;t find most of the popular games that much of an art piece, but some
 games are trully wonderful.&lt;/p>
 &lt;p>Social media is also a timewaster which you might want to avoid. This isn&amp;rsquo;t the
-only reason to avoid it. You can read my &lt;a href="https://robinwils.gitlab.io/articles/media-and-social-media">Media and social media&lt;/a> article for
+only reason to avoid it. You can read my &lt;a href="../../articles/media-and-social-media">Media and social media&lt;/a> article for
 more information.&lt;/p>
 &lt;h3 id="do-you-can-something-back-for-your-time">Do you can something back for your time?&lt;/h3>
 &lt;p>Productive activities usually give you something back after a period of time.
@@ -3582,7 +3582,7 @@ music which I enjoy.&lt;/p>
 &lt;!--endtoc-->
 &lt;h2 id="what-is-privacy">What is privacy?&lt;/h2>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/articles/privacy-focused-software/security-privacy-lock.jpg"
+&lt;img src="../../images/articles/privacy-focused-software/security-privacy-lock.jpg"
 alt="A man who looks at the white lock which is on the light red background of this image." width="150" height="150"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -3601,7 +3601,7 @@ privacy means that you respect them.&lt;/p>
 &lt;p>Privacy creates trust. Trust is one of the most important elements of love. In
 other words share the love and give your users their privacy.&lt;/p>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/articles/privacy-focused-software/heart-printed-padlocks.jpg"
+&lt;img src="../../images/articles/privacy-focused-software/heart-printed-padlocks.jpg"
 alt="Two heart-printed stainless steel padlocks." width="200" height="133"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -3767,7 +3767,7 @@ data is probably the Fediverse.&lt;/p>
 &lt;p>It can do a lot, including video hosting (like YouTube) and image hosting
 (like Instagram). The possibilities of this network are huge.&lt;/p>
 &lt;figure class="icon">
-&lt;img src="https://robinwils.gitlab.io/images/articles/privacy-focused-software/fediverse-logo.png"
+&lt;img src="../../images/articles/privacy-focused-software/fediverse-logo.png"
 alt="Five nodes in pentagon shape with all diagonals, multicoloured. Logo created to represent the Fediverse." width="150" height="150"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -3810,7 +3810,7 @@ keep using Cloudflare.&lt;/p>
 I think that there just isn&amp;rsquo;t enough competition.&lt;/p>
 &lt;p>Chromium based browsers have a lot of the browser market. I would avoid them.
 Support competition instead.&lt;/p>
-&lt;p>I do have &lt;a href="https://robinwils.gitlab.io/projects/Ideas/#idea-better-browser-engine">browser engine idea&lt;/a>. Feel free to check it out, if you also think that
+&lt;p>I do have &lt;a href="../../projects/Ideas/#idea-better-browser-engine">browser engine idea&lt;/a>. Feel free to check it out, if you also think that
 the currently browsers lack some privacy features and other features.&lt;/p>
 &lt;h3 id="tor-browser">Tor browser&lt;/h3>
 &lt;p>The Tor browser is one of the better privacy focused browsers out there, but I
@@ -3887,7 +3887,7 @@ techniques. A canvas blocker add-on tries to defend you against
 fingerprinting attacks which are caused by the HTML5 canvas element.&lt;/p>
 &lt;p>I personally think that add-ons at least protect you from other
 dangers, so I think that you should use them. I have a page with
-&lt;a href="https://robinwils.gitlab.io/recommendations/add-ons">add-ons&lt;/a> which I recommend.&lt;/p>
+&lt;a href="../../recommendations/add-ons">add-ons&lt;/a> which I recommend.&lt;/p>
 &lt;h2 id="world-maps">World maps&lt;/h2>
 &lt;p>OpenStreetMap (OSM) is a service similar to Google maps.&lt;/p>
 &lt;h2 id="search-engines">Search engines&lt;/h2>
@@ -4022,7 +4022,7 @@ ago. It seems like most recycling does not work.&lt;/p>
 moved which costs fuel and energy is needed to process it. How can that even
 help and what happens?&lt;/p>
 &lt;figure class="icon">
-&lt;img src="https://robinwils.gitlab.io/images/articles/the-recycling-lie/recycling-symbol.png"
+&lt;img src="../../images/articles/the-recycling-lie/recycling-symbol.png"
 alt="The three chasing arrows of the international recycling logo."/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -4036,7 +4036,7 @@ we can do. It is a wonder that many people believe that all recycling helps.&lt;
 somewhere and it is better for the enviroment if not everyone has to
 drive to some place with a ton of garbage.&lt;/p>
 &lt;p>Penn &amp;amp; Teller: Bullshit! has an episode which shows how recycling worked.
-You can find it on &lt;a href="https://www.bitchute.com/video/j0Hd6UfA4MKo/" rel="external nofollow">BitChute&lt;/a>. BitChute uses &lt;a href="https://robinwils.gitlab.io/articles/say-no-to-cloudflare/">Cloudflare&lt;/a>. I don&amp;rsquo;t recommend it,
+You can find it on &lt;a href="https://www.bitchute.com/video/j0Hd6UfA4MKo/" rel="external nofollow">BitChute&lt;/a>. BitChute uses &lt;a href="../../articles/say-no-to-cloudflare/">Cloudflare&lt;/a>. I don&amp;rsquo;t recommend it,
 but I couldn&amp;rsquo;t find another source.&lt;/p>
 &lt;p>Keep in mind that this problem is different for every country. There are
 things which do work. I just don&amp;rsquo;t find it ethical to spread lies.&lt;/p>
@@ -4098,7 +4098,7 @@ though.&lt;/p>
 have that for Devuan. I might create that one day, but it costs time.&lt;/p>
 &lt;h2 id="rolling-is-not-stable">Rolling is not stable&lt;/h2>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/about/my-current-distro/arch-xorg-config-broke-internet-joke.jpg"
+&lt;img src="../../images/about/my-current-distro/arch-xorg-config-broke-internet-joke.jpg"
 alt="A Arch user which asks his mom to cancel his meetings because his xorg.conf broke." width="200" height="200"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -4172,7 +4172,7 @@ Github
 &lt;!--endtoc-->
 &lt;h2 id="gpl-the-good-parts">GPL, the good parts&lt;/h2>
 &lt;figure class="icon">
-&lt;img src="https://robinwils.gitlab.io/images/articles/the-gpl-license-does-not-work/gplv3-logo.png"
+&lt;img src="../../images/articles/the-gpl-license-does-not-work/gplv3-logo.png"
 alt="The GPLv3 logo." width="300" height="149"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -4223,7 +4223,7 @@ and make it better. Closed source can be bad, but you never trully know.&lt;/p>
 &lt;p>&lt;br />&lt;/p>
 &lt;p>What if they never do anything bad with the code or your personal data?&lt;/p>
 &lt;p>Does your online privacy even matter? You can find more about this in my
-&lt;a href="https://robinwils.gitlab.io/categories/articles/how-important-is-online-privacy">How important is online privacy?&lt;/a> article.&lt;/p>
+&lt;a href="../../categories/articles/how-important-is-online-privacy">How important is online privacy?&lt;/a> article.&lt;/p>
 &lt;h2 id="which-licenses-should-you-use">Which licenses should you use?&lt;/h2>
 &lt;p>That totally depends. I don’t think that the GPL is bad. It just requires some
 effort to implement. I think that it is great for privacy and trust. The GPL
@@ -4252,7 +4252,7 @@ because it looks weird. Yes, I know 9gag&amp;hellip; a closed source website whi
 contains internet jokes.&lt;/p>
 &lt;h2 id="why-would-anyone-use-this-layout">Why would anyone use this layout?&lt;/h2>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/about/dvorak-layout.jpg"
+&lt;img src="../../images/about/dvorak-layout.jpg"
 alt="A picture of the Dvorak keyboard layout." width="400" height="133"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -4313,7 +4313,7 @@ or/and to watch his videos.&lt;/p></description></item><item><title>How importan
 &lt;p>The most important thing about online privacy is probably security. The
 problem is that it often hurts convenience. It is often just not worth
 it and you can&amp;rsquo;t always fight against it.&lt;/p>
-&lt;p>&lt;a href="https://robinwils.gitlab.io/categories/articles/say-no-to-cloudflare/">Cloudflare&lt;/a> for example, is hard to fight against. I don&amp;rsquo;t think that it
+&lt;p>&lt;a href="../../categories/articles/say-no-to-cloudflare/">Cloudflare&lt;/a> for example, is hard to fight against. I don&amp;rsquo;t think that it
 is worth it. I used to care a ton about privacy, until I started thinking
 about the time it takes. You almost have to use unethical things like
 Cloudflare, so many things depend on it.&lt;/p>
@@ -4376,7 +4376,7 @@ I highly recommend that you learn those keybindings before you use my config.&lt
 &lt;!--endtoc-->
 &lt;h2 id="why-keepass">Why KeePass?&lt;/h2>
 &lt;figure class="icon">
-&lt;img src="https://robinwils.gitlab.io/images/articles/you-should-use-keepass/keepassxc-logo.png"
+&lt;img src="../../images/articles/you-should-use-keepass/keepassxc-logo.png"
 alt="The KeePassXC logo." width="240" height="240"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -4485,7 +4485,7 @@ KeePassXC.&lt;/p>
 &lt;p>Create a new entry in your KeePassXC database and generate a password for it.
 Save this entry.&lt;/p>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/articles/you-should-use-keepass/new-key-in-keepass.jpg"
+&lt;img src="../../images/articles/you-should-use-keepass/new-key-in-keepass.jpg"
 alt="New key in KeePassXC."/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -4497,7 +4497,7 @@ alt="New key in KeePassXC."/>
 some yet. Use the generated password as password.&lt;/p>
 &lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-sh" data-lang="sh">ssh-keygen -b &lt;span style="color:#ae81ff">4096&lt;/span>
 &lt;/code>&lt;/pre>&lt;/div>&lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/articles/you-should-use-keepass/ssh-keygen.jpg"
+&lt;img src="../../images/articles/you-should-use-keepass/ssh-keygen.jpg"
 alt="ssh-keygen command output."/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -4512,7 +4512,7 @@ alt="ssh-keygen command output."/>
 &lt;li>Restart KeePassXC&lt;/li>
 &lt;/ol>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/articles/you-should-use-keepass/enable-ssh-agent.jpg"
+&lt;img src="../../images/articles/you-should-use-keepass/enable-ssh-agent.jpg"
 alt="KeePassXC Application Settings."/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -4521,7 +4521,7 @@ alt="KeePassXC Application Settings."/>
 &lt;/div>
 &lt;h4 id="implement-ssh-agent">Implement SSH Agent&lt;/h4>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/articles/you-should-use-keepass/ssh-key-in-keepass.jpg"
+&lt;img src="../../images/articles/you-should-use-keepass/ssh-key-in-keepass.jpg"
 alt="SSH Agent configuration in KeePassXC."/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -4661,7 +4661,7 @@ I made a protonmail account so that I could make a Twitter&amp;hellip; A bit
 disappointing to say the least.&lt;/p>
 &lt;p>Much respect to you if you don&amp;rsquo;t use social media.&lt;/p>
 &lt;p>I wrote about social media before in the following article:
-&lt;a href="https://robinwils.gitlab.io/categories/articles/media-and-social-media">Media and social media&lt;/a>&lt;/p>
+&lt;a href="../../categories/articles/media-and-social-media">Media and social media&lt;/a>&lt;/p>
 &lt;p>You can find my account here:
 &lt;a href="https://twitter.com/@wils%5Frobin" rel="external">@wils_robin&lt;/a>&lt;/p>
 &lt;p>The nick &amp;ldquo;robinwils&amp;rdquo; was already taken by some account which has only one tweet
@@ -4685,7 +4685,7 @@ system. It also contains GCC, which is still one of the most popular compilers
 today. GCC is the standard compiler of most GNU and Linux projects. There are a
 lot of cool things like GNU Emacs which are a part of the GNU project.&lt;/p>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/about/heroes-in-the-gnu-and-linux-world/rms.jpg"
+&lt;img src="../../images/about/heroes-in-the-gnu-and-linux-world/rms.jpg"
 alt="Richard Stallman" width="300" height="200"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -4707,7 +4707,7 @@ Gosling Emacs based on some other Emacs like things which RMS forked. RMS
 apparently stole his code and changed the copyright notices when he released a
 new version of Emacs. He modified that version afterwards.&lt;/p>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/about/heroes-in-the-gnu-and-linux-world/james-gosling-2008.jpg"
+&lt;img src="../../images/about/heroes-in-the-gnu-and-linux-world/james-gosling-2008.jpg"
 alt="James Gosling at an Enterprise Java Australia seminar" width="300" height="302"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -4725,7 +4725,7 @@ borrowed ideas of others.&lt;/p>
 kernel. Creating a kernel is a huge job, but so is creating the tools on top of
 it.&lt;/p>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/about/heroes-in-the-gnu-and-linux-world/linus-torvalds.jpg"
+&lt;img src="../../images/about/heroes-in-the-gnu-and-linux-world/linus-torvalds.jpg"
 alt="A cropped and rotated version of an image of Linus Torvalds speaking at the LinuxCon Europe 2014 in Düsseldorf." width="179" height="250"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -4745,7 +4745,7 @@ download for free&lt;/p>
 &lt;p>Terry died but, shouldn&amp;rsquo;t be forgotten. He was a gifted programmer. Writing an
 entire operating system is not a small job.&lt;/p>
 &lt;figure>
-&lt;img src="https://robinwils.gitlab.io/images/about/heroes-in-the-gnu-and-linux-world/terry-a-davis.jpg"
+&lt;img src="../../images/about/heroes-in-the-gnu-and-linux-world/terry-a-davis.jpg"
 alt="Terry A. Davis in front of Richland WA library." width="300" height="225"/>
 &lt;/figure>
 &lt;div class="small-font">
@@ -4958,7 +4958,7 @@ in Wayland.&lt;/p>
 &lt;p>You should look into the keyboard configuration. It is different
 depending on which desktop environment or window manager you pick.&lt;/p>
 &lt;p>Some drivers and keyboard configuration settings are not supported
-yet. You might want to read: &lt;a href="https://robinwils.gitlab.io/categories/articles/why-i-no-longer-use-wayland">Why I no longer use Wayland&lt;/a>&lt;/p>
+yet. You might want to read: &lt;a href="../../categories/articles/why-i-no-longer-use-wayland">Why I no longer use Wayland&lt;/a>&lt;/p>
 &lt;h2 id="sway">Sway&lt;/h2>
 &lt;p>I use Sway and decided to place a configuration for it here. Sway claims that
 your current i3 configuration should work. It works, but not completely.&lt;/p>
