@@ -3551,7 +3551,7 @@ music which I enjoy.&lt;/p>
 &lt;ul>
 &lt;li>Some of the music which Twin Peaks uses&lt;/li>
 &lt;li>&amp;hellip;&lt;/li>
-&lt;/ul></description></item><item><title>Privacy focused software</title><link>https://pages.codeberg.org/RobinWils/categories/articles/privacy-focused-software/</link><pubDate>Sat, 02 May 2020 15:10:18 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/privacy-focused-software/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/ul></description></item><item><title>Privacy focused software</title><link>https://pages.codeberg.org/RobinWils/categories/articles/privacy-focused-software/</link><pubDate>Tue, 05 May 2020 00:49:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/privacy-focused-software/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -3822,7 +3822,7 @@ alt="Five nodes in pentagon shape with all diagonals, multicoloured. Logo create
 an instance when you want to join it. Don&amp;rsquo;t worry though. You can still talk to
 other instances and it is not unusual to switch instance after a few months.&lt;/p>
 &lt;p>Some instances use Cloudflare. Cloudflare does not care about your privacy.
-I highly recommend to read my &lt;a href="https://robinwils.gitlab.io/articles/say-no-to-cloudflare">Cloudflare article&lt;/a> if you aren&amp;rsquo;t aware of
+I highly recommend to read my &lt;a href="../../categories/articles/say-no-to-cloudflare">Cloudflare article&lt;/a> if you aren&amp;rsquo;t aware of
 these problems.&lt;/p>
 &lt;ul>
 &lt;li>Similar to Twitter: Mastodon and Pleroma&lt;/li>
@@ -4339,7 +4339,7 @@ of the virtual machine to Dvorak.&lt;/p>
 to press. I recommend the kinesis keyboard if you do want great thumb keys.
 They are a bit better. Still not perfect, but better reachable. Xah Lee has
 written a lot of stuff about keyboards. I recommend to read his &lt;a href="http://xahlee.info/kbd/keyboarding.html" rel="external nofollow">keyboard guide&lt;/a>
-or/and to watch his videos.&lt;/p></description></item><item><title>How important is online privacy?</title><link>https://pages.codeberg.org/RobinWils/categories/articles/how-important-is-online-privacy/</link><pubDate>Sat, 02 May 2020 15:21:02 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/how-important-is-online-privacy/</guid><description>&lt;div class="ox-hugo-toc toc">
+or/and to watch his videos.&lt;/p></description></item><item><title>How important is online privacy?</title><link>https://pages.codeberg.org/RobinWils/categories/articles/how-important-is-online-privacy/</link><pubDate>Tue, 05 May 2020 00:50:57 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/how-important-is-online-privacy/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -4352,7 +4352,7 @@ or/and to watch his videos.&lt;/p></description></item><item><title>How importan
 &lt;/div>
 &lt;!--endtoc-->
 &lt;h2 id="does-privacy-matter">Does privacy matter?&lt;/h2>
-&lt;p>Yes, privacy matters for &lt;a href="https://robinwils.gitlab.io/articles/privacy-focused-software">some reasons&lt;/a>, but how much should we care?&lt;/p>
+&lt;p>Yes, privacy matters for &lt;a href="../../categories/articles/privacy-focused-software">some reasons&lt;/a>, but how much should we care?&lt;/p>
 &lt;h2 id="what-is-the-most-important-thing-about-privacy">What is the most important thing about privacy&lt;/h2>
 &lt;p>The most important thing about online privacy is probably security. The
 problem is that it often hurts convenience. It is often just not worth
@@ -4396,7 +4396,7 @@ I highly recommend that you learn those keybindings before you use my config.&lt
 &lt;div class="link-list">
 &lt;div>&lt;/div>
 &lt;p>&lt;a href="https://codeberg.org/RobinWils/dotfiles/src/branch/master/.emacs.d/emacs-init.org" rel="external nofollow">Codeberg (git)&lt;/a>&lt;/p>
-&lt;/div></description></item><item><title>You should use KeePass</title><link>https://pages.codeberg.org/RobinWils/categories/articles/you-should-use-keepass/</link><pubDate>Sat, 02 May 2020 15:10:27 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/you-should-use-keepass/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>You should use KeePass</title><link>https://pages.codeberg.org/RobinWils/categories/articles/you-should-use-keepass/</link><pubDate>Tue, 05 May 2020 00:51:53 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/you-should-use-keepass/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -4440,7 +4440,7 @@ problem.&lt;/p>
 &lt;p>Most (if not all) KeePass programs are free software and licensed under the
 GPL, which means that it should respect four freedoms. This creates some trust
 and I think that it was is a great pick for such a program.&lt;/p>
-&lt;p>You can read my &lt;a href="https://robinwils.gitlab.io/articles/think-before-using-the-gpl-license">Think before using the GPL license&lt;/a> article for more
+&lt;p>You can read my &lt;a href="../../categories/articles/think-before-using-the-gpl-license">Think before using the GPL license&lt;/a> article for more
 information.&lt;/p>
 &lt;h2 id="which-version">Which version?&lt;/h2>
 &lt;p>I recommend KeePassXC. It is a community fork of KeePassX.&lt;/p>
