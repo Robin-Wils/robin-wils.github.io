@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://pages.codeberg.org/RobinWils/sitemap.xml
