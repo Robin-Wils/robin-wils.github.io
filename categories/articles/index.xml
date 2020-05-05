@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>articles on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/categories/articles/</link><description>Recent content in articles on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2020 00:51:53 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/categories/articles/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>articles on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/categories/articles/</link><description>Recent content in articles on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2020 22:05:20 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/categories/articles/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -191,7 +191,86 @@ Making 2D games - first with Unity, now with Godot
 &lt;/td>
 &lt;/tr>
 &lt;/table>
-&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>Gitlab custom 404 pages are still broken</title><link>https://pages.codeberg.org/RobinWils/categories/articles/gitlab-404-pages-problem/</link><pubDate>Sun, 03 May 2020 18:37:12 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/gitlab-404-pages-problem/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>Why I moved from Gitlab to codeberg</title><link>https://pages.codeberg.org/RobinWils/categories/articles/why-i-moved-from-gitlab-to-codeberg/</link><pubDate>Tue, 05 May 2020 22:05:20 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/why-i-moved-from-gitlab-to-codeberg/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;div>&lt;/div>
+&lt;div class="heading">Table of Contents&lt;/div>
+&lt;ul>
+&lt;li>&lt;a href="#what-are-these-things">What are these things?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#so-why-did-you-move-away-from-gitlab">So why did you move away from Gitlab?&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#gitlab-is-great">Gitlab is great&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#why-it-is-no-longer-my-choice">Why it is no longer my choice&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#codeberg-is-even-better-in-some-ways">Codeberg is even better in some ways&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#the-migration">The migration&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#more-text">More text&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;!--endtoc-->
+&lt;h2 id="what-are-these-things">What are these things?&lt;/h2>
+&lt;p>Gitlab and codeberg are platforms which use Git. Git is a system which
+tracks your files, code and content.&lt;/p>
+&lt;p>Git is useful because it is small and it provides history, so you can
+go back if you mess something up.&lt;/p>
+&lt;p>Gitlab and codeberg also allow you to host a static website for free.
+I use that functionality for this website.&lt;/p>
+&lt;h2 id="so-why-did-you-move-away-from-gitlab">So why did you move away from Gitlab?&lt;/h2>
+&lt;h3 id="gitlab-is-great">Gitlab is great&lt;/h3>
+&lt;p>Gitlab was great for what I did. It provides useful pipelines, which
+most other Git platforms don&amp;rsquo;t have.&lt;/p>
+&lt;p>A pipeline does somethings before your website or other projects gets
+build. It is useful since it does not publish your result if something
+went wrong in the pipeline.&lt;/p>
+&lt;p>A pipeline can also contain tests and extra scripts. It is very useful.&lt;/p>
+&lt;p>It is also Free Software, which is why I prefer it over Github
+(Github is closed source). Codeberg is Free Software as well.&lt;/p>
+&lt;h3 id="why-it-is-no-longer-my-choice">Why it is no longer my choice&lt;/h3>
+&lt;p>My reason for moving was that the &lt;a href="../../categories/articles/gitlab-404-pages-problem">404 pages no longer worked&lt;/a>. I was
+patient, for a year. The issue still wasn&amp;rsquo;t fixed after a year and it
+could influence my SEO in a bad way.&lt;/p>
+&lt;p>I consider 404 pages important and every good businessperson knows that
+the users are important, so they should have a good experience. Fixing
+problems fast is something which users will enjoy.&lt;/p>
+&lt;p>A 404 page is very important for some people. Check the previous
+&amp;ldquo;404 pages no longer worked&amp;rdquo; link for more details.&lt;/p>
+&lt;p>I don&amp;rsquo;t hate Gitlab and actually enjoyed using it. In fact, I still use
+it for some projects and I will use it as a backup by mirroring some of
+my projects to Gitlab.&lt;/p>
+&lt;h2 id="codeberg-is-even-better-in-some-ways">Codeberg is even better in some ways&lt;/h2>
+&lt;p>I knew that codeberg supported 404 pages, so I decided to move to
+codeberg. I had used it before and it looked pretty decent.&lt;/p>
+&lt;h3 id="the-migration">The migration&lt;/h3>
+&lt;p>Some bugs popped up after migrating to codeberg&amp;hellip;&lt;/p>
+&lt;p>I created an issue after looking for a fix, and guess what? The amazing
+developers fixed it in less than an hour!&lt;/p>
+&lt;p>&lt;br />&lt;/p>
+&lt;p>Ha, and by the way. They did this twice!&lt;/p>
+&lt;p>You can take a look at the &lt;a href="https://codeberg.org/Codeberg/Community/issues/178" rel="external">closed issue&lt;/a> if you don&amp;rsquo;t believe me.
+So the first plus for codeberg is &lt;strong>&lt;strong>great user support&lt;/strong>&lt;/strong>.&lt;/p>
+&lt;p>That is a big plus in my opinion. (&lt;em>This is my opinion. Oh, really is&lt;/em>
+&lt;em>it? Why did I even type this text between these brackets&amp;hellip;&lt;/em>)&lt;/p>
+&lt;h3 id="more-text">More text&lt;/h3>
+&lt;p>One disavantage is that it does not have pipelines, but I used that as
+an advantage. I have one repository with my hugo source and one with
+the result now. I use a script to push my code to the other repository.&lt;/p>
+&lt;p>Some advantages of codeberg:&lt;/p>
+&lt;ul>
+&lt;li>Great user support.&lt;/li>
+&lt;li>Actual working 404 pages.&lt;/li>
+&lt;li>No more Google servers. Gitlab uses the Google servers to host your
+content. Some people might block the Google servers for privacy
+reasons.&lt;/li>
+&lt;li>Support competition, codeberg isn&amp;rsquo;t a big name yet, but it might
+become one.&lt;/li>
+&lt;li>You can find my website source code there. (Sorry, this is a bad
+joke and I mirror to Gitlab anyways.)&lt;/li>
+&lt;/ul>
+&lt;p>Codeberg is a fork of Gitea. It is light and does not have as many
+features as Gitlab, but it has good user support in my opinion.&lt;/p></description></item><item><title>Gitlab custom 404 pages are still broken</title><link>https://pages.codeberg.org/RobinWils/categories/articles/gitlab-404-pages-problem/</link><pubDate>Sun, 03 May 2020 18:37:12 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/gitlab-404-pages-problem/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
