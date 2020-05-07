@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>articles on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/categories/articles/</link><description>Recent content in articles on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2020 22:05:20 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/categories/articles/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>articles on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/categories/articles/</link><description>Recent content in articles on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2020 19:13:07 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/categories/articles/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -270,78 +270,7 @@ become one.&lt;/li>
 joke and I mirror to Gitlab anyways.)&lt;/li>
 &lt;/ul>
 &lt;p>Codeberg is a fork of Gitea. It is light and does not have as many
-features as Gitlab, but it has good user support in my opinion.&lt;/p></description></item><item><title>Gitlab custom 404 pages are still broken</title><link>https://pages.codeberg.org/RobinWils/categories/articles/gitlab-404-pages-problem/</link><pubDate>Sun, 03 May 2020 18:37:12 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/gitlab-404-pages-problem/</guid><description>&lt;div class="ox-hugo-toc toc">
-&lt;div>&lt;/div>
-&lt;div class="heading">Table of Contents&lt;/div>
-&lt;ul>
-&lt;li>&lt;a href="#the-problem">The problem&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#why-this-is-a-major-bug">Why this is a major bug&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="#frameworks-and-libraries-are-more-difficult-to-use">Frameworks and libraries are more difficult to use&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#it-can-break-the-seo-for-websites">It can break the SEO for websites&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="#why-this-bothers-me">Why this bothers me&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#solutions">Solutions&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="#buy-a-domain">Buy a domain&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#move-to-another-platform">Move to another platform&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#what-will-this-website-do">What will this website do?&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="#why-don-t-you-fix-it-yourself">Why don&amp;rsquo;t you fix it yourself?&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;!--endtoc-->
-&lt;h2 id="the-problem">The problem&lt;/h2>
-&lt;p>Custom 404 pages stopped working a year ago for &lt;code>*.gitlab.io&lt;/code> domains. A
-404 page is a page which you get when a URL can&amp;rsquo;t be found on a website.&lt;/p>
-&lt;p>The &lt;a href="https://gitlab.com/gitlab-org/gitlab-pages/-/issues/183"
-title="404 pages not served on Gitlab"
-rel="external nofollow">
-Gitlab issue
-&lt;/a>.&lt;/p>
-&lt;h2 id="why-this-is-a-major-bug">Why this is a major bug&lt;/h2>
-&lt;h3 id="frameworks-and-libraries-are-more-difficult-to-use">Frameworks and libraries are more difficult to use&lt;/h3>
-&lt;p>Many libraries like React show incredibly useful error messages on the
-404 page when stuff stops working.&lt;/p>
-&lt;h3 id="it-can-break-the-seo-for-websites">It can break the SEO for websites&lt;/h3>
-&lt;p>SEO means how high you rank in search engines. Backlinks (links from
-other websites to your website) are very important for SEO.&lt;/p>
-&lt;p>Those backlinks can link to a completely broken page if a website
-decides to change some URLs and does not have a working 404 page.&lt;/p>
-&lt;p>The website should show a 404 page instead. Many of my backlinks are
-going to be invalid now, which is not great.&lt;/p>
-&lt;h2 id="why-this-bothers-me">Why this bothers me&lt;/h2>
-&lt;p>Well, it is going to affect my SEO. The issue was created last year.
-I think that such an issue is way too important to ignore. It isn&amp;rsquo;t
-a minor thing.&lt;/p>
-&lt;h2 id="solutions">Solutions&lt;/h2>
-&lt;h3 id="buy-a-domain">Buy a domain&lt;/h3>
-&lt;p>Another solution is buy yourself a domain and use it. It does work if
-you use another domain.&lt;/p>
-&lt;h3 id="move-to-another-platform">Move to another platform&lt;/h3>
-&lt;p>People are going to hate this, but moving to another platform is a
-solution. Github does not have this problem.&lt;/p>
-&lt;p>I would suggest that you host your website there instead until Gitlab
-fixes this. They will probably lose some users because of this bug, but
-I overall like Gitlab.&lt;/p>
-&lt;p>Sure, Gitlab uses the Google servers to host your site on, but it still
-feels more open than Github (which is owned by Microsoft) and it has
-wonderful pipelines.&lt;/p>
-&lt;p>Gitlab has pipelines, which is really useful. It is a reason to move
-for many people.&lt;/p>
-&lt;h3 id="what-will-this-website-do">What will this website do?&lt;/h3>
-&lt;p>I might move to Github pages if this stays broken. I don&amp;rsquo;t want to wait
-much longer for 404 page support.&lt;/p>
-&lt;p>Codeberg had the same problem and it only took them a few hours to fix
-it, not even a day. I will probably move to codeberg pages.&lt;/p>
-&lt;p>I migrated my site to codeberg.&lt;/p>
-&lt;p>Moving also means that I would lose much SEO, but it might also mean
-that it might not happen again.&lt;/p>
-&lt;h2 id="why-don-t-you-fix-it-yourself">Why don&amp;rsquo;t you fix it yourself?&lt;/h2>
-&lt;p>Well, I have other stuff to do and I believe that Gitlab has a pretty
-big codebase. It would require much time.&lt;/p></description></item><item><title>Ideas</title><link>https://pages.codeberg.org/RobinWils/categories/projects/ideas/</link><pubDate>Sat, 02 May 2020 15:10:52 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/projects/ideas/</guid><description>&lt;div class="ox-hugo-toc toc">
+features as Gitlab, but it has good user support in my opinion.&lt;/p></description></item><item><title>Ideas</title><link>https://pages.codeberg.org/RobinWils/categories/projects/ideas/</link><pubDate>Sat, 02 May 2020 15:10:52 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/projects/ideas/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -691,7 +620,78 @@ believe that people have a reason for why they do something.
 It is not always a good reason, but I accept it. I don&amp;rsquo;t
 know their life.&lt;/p>
 &lt;p>You might be able to get to know me when you read this website.
-There are many things which could describe me.&lt;/p></description></item><item><title>Add-ons</title><link>https://pages.codeberg.org/RobinWils/categories/recommendations/add-ons/</link><pubDate>Sat, 02 May 2020 15:16:44 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/recommendations/add-ons/</guid><description>&lt;div class="ox-hugo-toc toc">
+There are many things which could describe me.&lt;/p></description></item><item><title>Gitlab custom 404 pages are still broken</title><link>https://pages.codeberg.org/RobinWils/categories/articles/gitlab-404-pages-problem/</link><pubDate>Thu, 07 May 2020 19:13:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/gitlab-404-pages-problem/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;div>&lt;/div>
+&lt;div class="heading">Table of Contents&lt;/div>
+&lt;ul>
+&lt;li>&lt;a href="#the-problem">The problem&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#why-this-is-a-major-bug">Why this is a major bug&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#frameworks-and-libraries-are-more-difficult-to-use">Frameworks and libraries are more difficult to use&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#it-can-break-the-seo-for-websites">It can break the SEO for websites&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#why-this-bothers-me">Why this bothers me&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#solutions">Solutions&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#buy-a-domain">Buy a domain&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#move-to-another-platform">Move to another platform&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#what-will-this-website-do">What will this website do?&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#why-don-t-you-fix-it-yourself">Why don&amp;rsquo;t you fix it yourself?&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;!--endtoc-->
+&lt;h2 id="the-problem">The problem&lt;/h2>
+&lt;p>Custom 404 pages stopped working a year ago for &lt;code>*.gitlab.io&lt;/code> domains. A
+404 page is a page which you get when a URL can&amp;rsquo;t be found on a website.&lt;/p>
+&lt;p>The &lt;a href="https://gitlab.com/gitlab-org/gitlab-pages/-/issues/183"
+title="404 pages not served on Gitlab"
+rel="external nofollow">
+Gitlab issue
+&lt;/a>.&lt;/p>
+&lt;h2 id="why-this-is-a-major-bug">Why this is a major bug&lt;/h2>
+&lt;h3 id="frameworks-and-libraries-are-more-difficult-to-use">Frameworks and libraries are more difficult to use&lt;/h3>
+&lt;p>Many libraries like React show incredibly useful error messages on the
+404 page when stuff stops working.&lt;/p>
+&lt;h3 id="it-can-break-the-seo-for-websites">It can break the SEO for websites&lt;/h3>
+&lt;p>SEO means how high you rank in search engines. Backlinks (links from
+other websites to your website) are very important for SEO.&lt;/p>
+&lt;p>Those backlinks can link to a completely broken page if a website
+decides to change some URLs and does not have a working 404 page.&lt;/p>
+&lt;p>The website should show a 404 page instead. Many of my backlinks are
+going to be invalid now, which is not great.&lt;/p>
+&lt;h2 id="why-this-bothers-me">Why this bothers me&lt;/h2>
+&lt;p>Well, it is going to affect my SEO. The issue was created last year.
+I think that such an issue is way too important to ignore. It isn&amp;rsquo;t
+a minor thing.&lt;/p>
+&lt;h2 id="solutions">Solutions&lt;/h2>
+&lt;h3 id="buy-a-domain">Buy a domain&lt;/h3>
+&lt;p>Another solution is buy yourself a domain and use it. It does work if
+you use another domain.&lt;/p>
+&lt;h3 id="move-to-another-platform">Move to another platform&lt;/h3>
+&lt;p>People are going to hate this, but moving to another platform is a
+solution. Github does not have this problem.&lt;/p>
+&lt;p>I would suggest that you host your website there instead until Gitlab
+fixes this. They will probably lose some users because of this bug, but
+I overall like Gitlab.&lt;/p>
+&lt;p>Sure, Gitlab uses the Google servers to host your site on, but it still
+feels more open than Github (which is owned by Microsoft) and it has
+wonderful pipelines.&lt;/p>
+&lt;p>Gitlab has pipelines, which is really useful. It is a reason to move
+for many people.&lt;/p>
+&lt;h3 id="what-will-this-website-do">What will this website do?&lt;/h3>
+&lt;p>I might move to Github pages if this stays broken. I don&amp;rsquo;t want to wait
+much longer for 404 page support.&lt;/p>
+&lt;p>Codeberg had the same problem and it only took them a few hours to fix
+it, not even a day. I will probably move to codeberg pages.&lt;/p>
+&lt;p>I migrated my site to codeberg.&lt;/p>
+&lt;p>Moving also means that I would lose much SEO, but it might also mean
+that it might not happen again.&lt;/p>
+&lt;h2 id="why-don-t-you-fix-it-yourself">Why don&amp;rsquo;t you fix it yourself?&lt;/h2>
+&lt;p>Well, I have other stuff to do and I believe that Gitlab has a pretty
+big codebase. It would require much time.&lt;/p></description></item><item><title>Add-ons</title><link>https://pages.codeberg.org/RobinWils/categories/recommendations/add-ons/</link><pubDate>Sat, 02 May 2020 15:16:44 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/recommendations/add-ons/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
