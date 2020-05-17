@@ -191,9 +191,11 @@ Making 2D games - first with Unity, now with Godot
 &lt;/td>
 &lt;/tr>
 &lt;/table>
-&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>Brave Browser is actually pretty alright</title><link>https://pages.codeberg.org/RobinWils/categories/articles/brave-browser-is-actually-pretty-alright/</link><pubDate>Sun, 17 May 2020 20:07:12 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/brave-browser-is-actually-pretty-alright/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>Brave Browser is actually pretty alright</title><link>https://pages.codeberg.org/RobinWils/categories/articles/brave-browser-is-actually-pretty-alright/</link><pubDate>Sun, 17 May 2020 20:13:35 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/brave-browser-is-actually-pretty-alright/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
+&lt;pre>&lt;code>- [Brave](#brave)
+&lt;/code>&lt;/pre>
 &lt;ul>
 &lt;li>&lt;a href="#why-is-it-good">Why is it good?&lt;/a>
 &lt;ul>
@@ -207,6 +209,7 @@ Making 2D games - first with Unity, now with Godot
 &lt;/ul>
 &lt;/div>
 &lt;!--endtoc-->
+&lt;h3 id="brave">Brave&lt;/h3>
 &lt;p>Brave is a FLOSS web browser which includes an ad blocker and gives you
 free cryptocurrency.&lt;/p>
 &lt;p>I know, it sounds like a scam.&lt;/p>
