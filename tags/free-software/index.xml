@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Free-software on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/tags/free-software/</link><description>Recent content in Free-software on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 May 2020 12:47:27 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/tags/free-software/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Free-software on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/tags/free-software/</link><description>Recent content in Free-software on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 May 2020 20:02:12 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/tags/free-software/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -191,11 +191,11 @@ Making 2D games - first with Unity, now with Godot
 &lt;/td>
 &lt;/tr>
 &lt;/table>
-&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>Brave Browser is actually pretty alright</title><link>https://pages.codeberg.org/RobinWils/categories/articles/brave-browser-is-actually-pretty-alright/</link><pubDate>Sun, 17 May 2020 12:47:27 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/brave-browser-is-actually-pretty-alright/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>Brave Browser is actually pretty alright</title><link>https://pages.codeberg.org/RobinWils/categories/articles/brave-browser-is-actually-pretty-alright/</link><pubDate>Sun, 17 May 2020 20:02:12 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/brave-browser-is-actually-pretty-alright/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
-&lt;li>&lt;a href="#why-it-is-good">Why it is good&lt;/a>
+&lt;li>&lt;a href="#why-is-it-good">Why is it good?&lt;/a>
 &lt;ul>
 &lt;li>&lt;a href="#privacy">Privacy&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#it-blocks-ads">It blocks ads&lt;/a>&lt;/li>
@@ -217,7 +217,7 @@ rel="external nofollow">
 Download Brave
 &lt;/a>&lt;/p>
 &lt;/div>
-&lt;h2 id="why-it-is-good">Why it is good&lt;/h2>
+&lt;h2 id="why-is-it-good">Why is it good?&lt;/h2>
 &lt;h3 id="privacy">Privacy&lt;/h3>
 &lt;p>It is a step forward in privacy for many people. Most people use Chrome.
 Brave is based on Chromium and provides some extra security features like
@@ -250,6 +250,13 @@ every month. I get around 5 BAT a month from the notification ads.&lt;/p>
 &lt;p>You can get more if you allow donations in Brave Rewards. I configured it.
 Brave is not a scam and gives you some crypto if you connect an Uphold
 account.&lt;/p>
+&lt;h4 id="update">Update&lt;/h4>
+&lt;p>I just realised that you can earn more.&lt;/p>
+&lt;p>Go to &lt;code>brave://rewards&lt;/code> and click on the tiny settings button which I
+failed to notice. You can ask Brave to show more ads here, which means
+more BAT.&lt;/p>
+&lt;p>&lt;img src="../../images/articles/brave-browser-is-actually-pretty-alright/brave-rewards-settings-button.jpg" alt="The location of the Brave Rewards settings button." width="579 height 158" />
+#+BEGIN_small-font&lt;/p>
 &lt;h3 id="donation-system">Donation system&lt;/h3>
 &lt;p>Brave comes with a donation system. Brave shows tip buttons on some sites
 and you can use it to donate to people. This is pretty neat.&lt;/p>
@@ -1386,7 +1393,7 @@ I want that this website works for the biggest group of people. That includes
 people with reading problems.&lt;/p>
 &lt;h2 id="it-is-privacy-friendly">It is privacy friendly&lt;/h2>
 &lt;p>Many websites and ads track you. I don&amp;rsquo;t like programs which spy on users and
-many other people don&amp;rsquo;t like that either.&lt;/p></description></item><item><title>Movies anime and series</title><link>https://pages.codeberg.org/RobinWils/categories/recommendations/movies-anime-and-series/</link><pubDate>Sun, 17 May 2020 10:15:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/recommendations/movies-anime-and-series/</guid><description>&lt;div class="ox-hugo-toc toc">
+many other people don&amp;rsquo;t like that either.&lt;/p></description></item><item><title>Movies anime and series</title><link>https://pages.codeberg.org/RobinWils/categories/recommendations/movies-anime-and-series/</link><pubDate>Sun, 17 May 2020 18:31:33 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/recommendations/movies-anime-and-series/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -1442,6 +1449,7 @@ many other people don&amp;rsquo;t like that either.&lt;/p></description></item><
 &lt;li>&lt;a href="#little-shop-of-horrors--1986">Little Shop of Horrors (1986)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#re-animator">Re-Animator&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#hellraiser">Hellraiser&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#ginger-snaps">Ginger Snaps&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#the-collector-and-the-collection">The Collector and The Collection&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#the-grudge">The Grudge&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#grave-encounters">Grave Encounters&lt;/a>&lt;/li>
@@ -1513,6 +1521,7 @@ Want to see
 &lt;/a>
 &lt;/div>
 &lt;h2 id="sci-fi-series-and-movies">Sci-Fi series and movies&lt;/h2>
+&lt;p>:EXPORT_FILE_NAME:_movies-anime-and-series/test&lt;/p>
 &lt;div class="link-list">
 &lt;div>&lt;/div>
 &lt;a href="#firefly-series-and-serenity-movie">
@@ -1718,7 +1727,8 @@ didn&amp;rsquo;t like the first episode a lot.&lt;/p>
 &lt;p>Horror comedy movie about zombies. It is a pretty good movie.&lt;/p>
 &lt;h3 id="deadpool-movies">Deadpool movies&lt;/h3>
 &lt;p>I usually don&amp;rsquo;t like superhero movies, but deadpool is a bit different.
-It&amp;rsquo;s a comedy.&lt;/p>
+It&amp;rsquo;s a comedy. Blade is also a superhero francise apparently. I liked
+it.&lt;/p>
 &lt;p>Watch or download &lt;a href="https://archive.org/details/Deadpool.2016.1080pDualLat%5F201805" rel="external nofollow">Deadpool&lt;/a> for free (archive.org)&lt;/p>
 &lt;h3 id="scary-movie-movies">Scary Movie movies&lt;/h3>
 &lt;p>Comedy movies which parodies many horror movies.
@@ -1768,6 +1778,9 @@ Re-Animator
 &lt;/a>
 &lt;a href="#hellraiser">
 Hellraiser
+&lt;/a>
+&lt;a href="#ginger-snaps">
+Ginger Snaps
 &lt;/a>
 &lt;a href="#the-collector-and-the-collection">
 The Collector
@@ -1894,6 +1907,9 @@ watching horror classics for entertainment, but Hellraiser is not
 bad at all.&lt;/p>
 &lt;p>This movie is about a puzzlebox which is somehow related to
 extra-dimensional beings.&lt;/p>
+&lt;h3 id="ginger-snaps">Ginger Snaps&lt;/h3>
+&lt;p>Werewolf movie. I usually don&amp;rsquo;t like werewolf movies, but this
+francise is pretty good. It is also about a woman who gets her period.&lt;/p>
 &lt;h3 id="the-collector-and-the-collection">The Collector and The Collection&lt;/h3>
 &lt;p>These movies contained gore and torture, but the way that it did was
 pretty well done. This is not for everyone and is pretty gore.&lt;/p>
@@ -1987,6 +2003,7 @@ movie instead.&lt;/p>
 &lt;p>I have seen Tusk, because the concept seemed like it could have a story.
 It wasn&amp;rsquo;t that interesting. It was obvious that it was makeup, which is
 good. Although the ending was pretty interesting. I wouldn&amp;rsquo;t recommend it.&lt;/p>
+&lt;p>The concept is turning a man into a walrus. Yes, that is right. A walrus.&lt;/p>
 &lt;p>It might make me look weird, but the concept was actually pretty laughable.
 It had too much sex jokes too in my opinion. I don&amp;rsquo;t recommend it. It looks
 more interesting than it is.&lt;/p>
@@ -2172,12 +2189,15 @@ trilogy)&lt;/li>
 &lt;li>House, original title Hausu (horror comedy, should be a weird one)&lt;/li>
 &lt;li>Three (2002) and Three&amp;hellip; Extremes (2004) movies with three segements
 from different directors from Asian countries.&lt;/li>
-&lt;li>Martyrs (2008) gore movie, apperantly brings back the old gore/torture
-genre. It is probably something like the Collector.&lt;/li>
+&lt;li>Martyrs (2008) gore movie, apparently brings back the old gore/torture
+genre. It is probably something like the Collector, but this has story.&lt;/li>
 &lt;li>Art of the Devil 2 (2005, Thai horror movie) Many people seem to
-recommend to skip the first one. It apperantly combines a great story
+recommend to skip the first one. It apparently combines a great story
 and gore, so might be worth to check out.&lt;/li>
 &lt;li>Misery (1990, horror, based on a Stephen King novel)&lt;/li>
+&lt;li>Inside (2007) gore movie, thriller apparently brings back the old
+gore/torture genre. It is probably something like the Collector and
+Martyrs.&lt;/li>
 &lt;li>&amp;hellip;&lt;/li>
 &lt;/ul></description></item><item><title>Friendly Premonition</title><link>https://pages.codeberg.org/RobinWils/categories/projects/friendly-premonition/</link><pubDate>Sat, 02 May 2020 15:10:56 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/projects/friendly-premonition/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
