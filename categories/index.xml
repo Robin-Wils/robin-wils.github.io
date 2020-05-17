@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/categories/</link><description>Recent content in Categories on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 May 2020 20:13:35 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/categories/</link><description>Recent content in Categories on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 May 2020 20:15:11 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -191,25 +191,24 @@ Making 2D games - first with Unity, now with Godot
 &lt;/td>
 &lt;/tr>
 &lt;/table>
-&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>Brave Browser is actually pretty alright</title><link>https://pages.codeberg.org/RobinWils/categories/articles/brave-browser-is-actually-pretty-alright/</link><pubDate>Sun, 17 May 2020 20:13:35 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/brave-browser-is-actually-pretty-alright/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>Brave Browser is actually pretty alright</title><link>https://pages.codeberg.org/RobinWils/categories/articles/brave-browser-is-actually-pretty-alright/</link><pubDate>Sun, 17 May 2020 20:15:11 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/brave-browser-is-actually-pretty-alright/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
-&lt;pre>&lt;code>- [Brave](#brave)
-&lt;/code>&lt;/pre>
 &lt;ul>
+&lt;li>&lt;a href="#brave">Brave&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#why-is-it-good">Why is it good?&lt;/a>
 &lt;ul>
 &lt;li>&lt;a href="#privacy">Privacy&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#it-blocks-ads">It blocks ads&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#it-pays-you">It pays you&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#donation-system">Donation system&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#what-i-don-t-like-about-it">What I don&amp;rsquo;t like about it&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>&lt;a href="#what-i-don-t-like-about-it">What I don&amp;rsquo;t like about it&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;!--endtoc-->
-&lt;h3 id="brave">Brave&lt;/h3>
+&lt;h2 id="brave">Brave&lt;/h2>
 &lt;p>Brave is a FLOSS web browser which includes an ad blocker and gives you
 free cryptocurrency.&lt;/p>
 &lt;p>I know, it sounds like a scam.&lt;/p>
@@ -269,7 +268,7 @@ alt="The location of the Brave Rewards settings button." width="579 height 158"/
 &lt;h3 id="donation-system">Donation system&lt;/h3>
 &lt;p>Brave comes with a donation system. Brave shows tip buttons on some sites
 and you can use it to donate to people. This is pretty neat.&lt;/p>
-&lt;h3 id="what-i-don-t-like-about-it">What I don&amp;rsquo;t like about it&lt;/h3>
+&lt;h2 id="what-i-don-t-like-about-it">What I don&amp;rsquo;t like about it&lt;/h2>
 &lt;ul>
 &lt;li>You need an Uphold account to withdraw the money. Uphold works, but
 I would like more choice. Uphold does not seem so privacy respecting
