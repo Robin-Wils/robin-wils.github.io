@@ -191,7 +191,7 @@ Making 2D games - first with Unity, now with Godot
 &lt;/td>
 &lt;/tr>
 &lt;/table>
-&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>Brave Browser is actually pretty alright</title><link>https://pages.codeberg.org/RobinWils/categories/articles/brave-browser-is-actually-pretty-alright/</link><pubDate>Sun, 17 May 2020 20:02:12 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/brave-browser-is-actually-pretty-alright/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>Brave Browser is actually pretty alright</title><link>https://pages.codeberg.org/RobinWils/categories/articles/brave-browser-is-actually-pretty-alright/</link><pubDate>Sun, 17 May 2020 20:07:12 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/brave-browser-is-actually-pretty-alright/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -255,8 +255,14 @@ account.&lt;/p>
 &lt;p>Go to &lt;code>brave://rewards&lt;/code> and click on the tiny settings button which I
 failed to notice. You can ask Brave to show more ads here, which means
 more BAT.&lt;/p>
-&lt;p>&lt;img src="./images/articles/brave-browser-is-actually-pretty-alright/brave-rewards-settings-button.jpg" alt="The location of the Brave Rewards settings button." width="579 height 158" />
-#+BEGIN_small-font&lt;/p>
+&lt;figure>
+&lt;img src="./images/articles/brave-browser-is-actually-pretty-alright/brave-rewards-settings-button.jpg"
+alt="The location of the Brave Rewards settings button." width="579 height 158"/>
+&lt;/figure>
+&lt;div class="small-font">
+&lt;div>&lt;/div>
+&lt;p>Screenshot of the location of the Brave Rewards settings button By Robin Wils - CC0 licensed.&lt;/p>
+&lt;/div>
 &lt;h3 id="donation-system">Donation system&lt;/h3>
 &lt;p>Brave comes with a donation system. Brave shows tip buttons on some sites
 and you can use it to donate to people. This is pretty neat.&lt;/p>
