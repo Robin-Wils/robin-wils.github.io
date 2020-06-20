@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/categories/</link><description>Recent content in Categories on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2020 17:57:07 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/categories/</link><description>Recent content in Categories on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 20 Jun 2020 12:49:15 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -191,7 +191,94 @@ Making 2D games - first with Unity, now with Godot
 &lt;/td>
 &lt;/tr>
 &lt;/table>
-&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>Horrible things happen and people try to hide it</title><link>https://pages.codeberg.org/RobinWils/categories/articles/horrible-things-happen-and-people-try-to-hide-it/</link><pubDate>Mon, 08 Jun 2020 17:57:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/horrible-things-happen-and-people-try-to-hide-it/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>My todo list for this vacation</title><link>https://pages.codeberg.org/RobinWils/categories/articles/my-todo-list-for-this-vacation/</link><pubDate>Sat, 20 Jun 2020 12:49:15 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/my-todo-list-for-this-vacation/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;div>&lt;/div>
+&lt;div class="heading">Table of Contents&lt;/div>
+&lt;ul>
+&lt;li>&lt;a href="#todo-list">Todo list&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#friendly-premonition">Friendly Premonition&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#deadly-premonition-2">Deadly Premonition 2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#other-godot-project">Other Godot project&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#watch-a-bunch-of-movies">Watch a bunch of movies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#live-stream-digital-art">Live stream digital art&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#work-a-bit-on-this-website">Work a bit on this website&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#buy-a-domain-name">Buy a domain name&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#make-a-short-film">Make a short film&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;!--endtoc-->
+&lt;h2 id="todo-list">Todo list&lt;/h2>
+&lt;p>There is a ton that I want to try. I am someone who likes to be
+busy. I am often busy with somethings, often with multiple things.&lt;/p>
+&lt;p>I can&amp;rsquo;t promise that I will achieve everything though.&lt;/p>
+&lt;p>I will try to only check my social media during Fridays, Saturdays
+and Sundays. I believe that social media is not good for you, besides
+that, it can eat a lot of time.&lt;/p>
+&lt;h2 id="friendly-premonition">Friendly Premonition&lt;/h2>
+&lt;p>Friendly Premonition is a fan project about Deadly Premonition. There
+is still a bit of work to do. I might live stream some coding at some
+point.&lt;/p>
+&lt;p>Read more about
+&lt;a href="../projects/friendly-premonition/">
+Friendly Premonition
+&lt;/a>.&lt;/p>
+&lt;p>&lt;strong>&lt;strong>I will do this.&lt;/strong>&lt;/strong>&lt;/p>
+&lt;h3 id="deadly-premonition-2">Deadly Premonition 2&lt;/h3>
+&lt;p>I will play the brand new second Deadly Premonition game. I just
+have to. Deadly Premonition is just great.&lt;/p>
+&lt;p>I won&amp;rsquo;t put all my time in it, probably (since I want to do more things),
+but some of my time will get consumed by the game.&lt;/p>
+&lt;h3 id="other-godot-project">Other Godot project&lt;/h3>
+&lt;p>I also have a own game idea based on the same code from the Deadly
+Premonition game, but that game idea will take so much time.&lt;/p>
+&lt;p>It won&amp;rsquo;t be for the next couple of years. I might work a bit on it,
+but I have enough other stuff to do.&lt;/p>
+&lt;h2 id="watch-a-bunch-of-movies">Watch a bunch of movies&lt;/h2>
+&lt;p>There are still a bunch of movies on my watchlist, and there will
+probably always be movies that I want to watch.&lt;/p>
+&lt;p>A tip for people who don&amp;rsquo;t know what to watch. Check who the directors
+of your favorite movies are and check which other movies they made.&lt;/p>
+&lt;p>It can also be useful to keep a list with your favorite movies (and
+directors).&lt;/p>
+&lt;p>You can find my watchlist at the bottom of the
+&lt;a href="../recommendations/movies-anime-and-series/">
+Movies, anime and series recommendations
+&lt;/a> page.&lt;/p>
+&lt;p>&lt;strong>&lt;strong>I will do this.&lt;/strong>&lt;/strong>&lt;/p>
+&lt;h2 id="live-stream-digital-art">Live stream digital art&lt;/h2>
+&lt;p>I want to get better at digital art. I am currently very bad at it
+and live streaming could give me feedback and tips.&lt;/p>
+&lt;p>I will probably get much hate to, but that&amp;rsquo;s fine. I don&amp;rsquo;t really
+care about what most people think.&lt;/p>
+&lt;p>&lt;strong>&lt;strong>It is likely that I will do this.&lt;/strong>&lt;/strong>&lt;/p>
+&lt;h2 id="work-a-bit-on-this-website">Work a bit on this website&lt;/h2>
+&lt;p>I will probably write some more articles or redesign some things,
+like usual.&lt;/p>
+&lt;p>&lt;strong>&lt;strong>It is likely that I will do this.&lt;/strong>&lt;/strong>&lt;/p>
+&lt;h2 id="buy-a-domain-name">Buy a domain name&lt;/h2>
+&lt;p>Codeberg is working on custom domain name support. I have some
+crypto from the brave browser. I do have enough crypto to buy a
+domain for a year.&lt;/p>
+&lt;p>I will wait until codeberg implemented custom domain name support
+and until I am confident enough that I would be able to pay for
+the domain name every year.&lt;/p>
+&lt;p>Read more about Brave on my
+&lt;a href="../articles/brave-browser-is-actually-pretty-alright/">
+Brave browser is actually pretty alright
+&lt;/a> page.&lt;/p>
+&lt;p>&lt;strong>&lt;strong>It is likely that I will do this.&lt;/strong>&lt;/strong>&lt;/p>
+&lt;h2 id="make-a-short-film">Make a short film&lt;/h2>
+&lt;p>I want to learn film making. I am interested in practical effects
+and such, but I will start small.&lt;/p>
+&lt;p>I have an idea for a short film, but I am not sure if I will be able
+to realise it. I will probably start with trying a bunch of things
+first.&lt;/p>
+&lt;p>It will probably be a pretty bad film, but you have to start somewhere.
+It will be a ton of work, but I think that it would be fun too.&lt;/p>
+&lt;p>&lt;strong>&lt;strong>It is not likely that I will be able to do this.&lt;/strong>&lt;/strong>&lt;/p></description></item><item><title>Horrible things happen and people try to hide it</title><link>https://pages.codeberg.org/RobinWils/categories/articles/horrible-things-happen-and-people-try-to-hide-it/</link><pubDate>Mon, 08 Jun 2020 17:57:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/horrible-things-happen-and-people-try-to-hide-it/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
