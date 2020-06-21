@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>articles on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/categories/articles/</link><description>Recent content in articles on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2020 10:39:25 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/categories/articles/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>articles on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/categories/articles/</link><description>Recent content in articles on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2020 12:37:01 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/categories/articles/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -191,7 +191,7 @@ Making 2D games - first with Unity, now with Godot
 &lt;/td>
 &lt;/tr>
 &lt;/table>
-&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>GNU Emacs is Unix</title><link>https://pages.codeberg.org/RobinWils/categories/articles/gnu-emacs-is-unix/</link><pubDate>Sun, 21 Jun 2020 10:39:25 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/gnu-emacs-is-unix/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>GNU Emacs is Unix</title><link>https://pages.codeberg.org/RobinWils/categories/articles/gnu-emacs-is-unix/</link><pubDate>Sun, 21 Jun 2020 12:37:01 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/gnu-emacs-is-unix/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -202,8 +202,10 @@ Making 2D games - first with Unity, now with Godot
 &lt;li>&lt;a href="#the-unix-philosophy-does-not-exist">The Unix philosophy does not exist&lt;/a>
 &lt;ul>
 &lt;li>&lt;a href="#let-s-think-a-bit">Let&amp;rsquo;s think a bit&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#to-make-it-more-complicated">To make it more complicated&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>&lt;a href="#conclusion">Conclusion&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;!--endtoc-->
@@ -255,7 +257,34 @@ are good, but like everything. Don&amp;rsquo;t follow any vague principle
 like a religion.&lt;/p>
 &lt;p>Most if not all of these design principles are designed by business
 people. It are buzzwords and you can&amp;rsquo;t use them right or wrong. It
-are guidelines.&lt;/p></description></item><item><title>My todo list for this vacation</title><link>https://pages.codeberg.org/RobinWils/categories/articles/my-todo-list-for-this-vacation/</link><pubDate>Sat, 20 Jun 2020 13:45:35 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/my-todo-list-for-this-vacation/</guid><description>&lt;div class="ox-hugo-toc toc">
+are guidelines.&lt;/p>
+&lt;h3 id="to-make-it-more-complicated">To make it more complicated&lt;/h3>
+&lt;p>(This section was added after I received some comments on the
+Fediverse)&lt;/p>
+&lt;h4 id="trademark">Trademark&lt;/h4>
+&lt;p>Unix is also a trademark. So what is Unix?
+You could say that it is just a trademark.&lt;/p>
+&lt;p>That is not what people mean when they say things like:
+&amp;ldquo;This program is Unix&amp;rdquo; or &amp;ldquo;This program is great because
+it is Unix&amp;rdquo;.&lt;/p>
+&lt;p>Anyway, this is about that thing. What makes a program
+Unix? What is the Unix philosophy?&lt;/p>
+&lt;h4 id="posix">POSIX&lt;/h4>
+&lt;p>There is this other thing that you sometimes hear.
+&amp;ldquo;It does not have to be POSIX to be Unix.&amp;rdquo;&lt;/p>
+&lt;p>There are many things which people call Unix, which are not POSIX.
+POSIX is just a standard which you could use.&lt;/p>
+&lt;p>Vim is not even completely POSIX compliant. It is mostly
+compliant, but people still call it Unix.&lt;/p>
+&lt;p>MacOS is mostly compliant according to some, but many people
+don&amp;rsquo;t like to call it Unix. Some call it Unix though.&lt;/p>
+&lt;h2 id="conclusion">Conclusion&lt;/h2>
+&lt;p>So what Unix is&amp;hellip;, is just a buzzword. It means a ton of things.
+Things which mean a lot, some times also mean nothing at all.&lt;/p>
+&lt;p>Don&amp;rsquo;t hate a program because &amp;ldquo;it is not Unix&amp;rdquo;.&lt;/p>
+&lt;p>Don&amp;rsquo;t follow any design principle like a religion. It are guidelines,
+not rules. There is no right or wrong way to do something in design
+principles.&lt;/p></description></item><item><title>My todo list for this vacation</title><link>https://pages.codeberg.org/RobinWils/categories/articles/my-todo-list-for-this-vacation/</link><pubDate>Sat, 20 Jun 2020 13:45:35 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/my-todo-list-for-this-vacation/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
