@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Free-software on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/tags/free-software/</link><description>Recent content in Free-software on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 17 May 2020 20:15:11 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/tags/free-software/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Free-software on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/tags/free-software/</link><description>Recent content in Free-software on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2020 10:02:53 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/tags/free-software/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -191,7 +191,68 @@ Making 2D games - first with Unity, now with Godot
 &lt;/td>
 &lt;/tr>
 &lt;/table>
-&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>My todo list for this vacation</title><link>https://pages.codeberg.org/RobinWils/categories/articles/my-todo-list-for-this-vacation/</link><pubDate>Sat, 20 Jun 2020 13:45:35 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/my-todo-list-for-this-vacation/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>GNU Emacs is Unix</title><link>https://pages.codeberg.org/RobinWils/categories/articles/gnu-emacs-is-unix/</link><pubDate>Sun, 21 Jun 2020 10:02:53 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/gnu-emacs-is-unix/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;div>&lt;/div>
+&lt;div class="heading">Table of Contents&lt;/div>
+&lt;ul>
+&lt;li>&lt;a href="#gnu-s-not-unix-emacs-is-unix">GNU&amp;rsquo;s Not Unix, Emacs is Unix&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#unix">Unix&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#the-unix-philosophy">The Unix philosophy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#why-is-gnu-emacs-unix-then">Why is GNU Emacs, Unix then?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#the-unix-philosophy-does-not-exist">The Unix philosophy does not exist&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#let-s-think-a-bit">Let&amp;rsquo;s think a bit&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;!--endtoc-->
+&lt;h2 id="gnu-s-not-unix-emacs-is-unix">GNU&amp;rsquo;s Not Unix, Emacs is Unix&lt;/h2>
+&lt;p>This article is going to make some people angry, but please read it
+first before you complain.&lt;/p>
+&lt;h2 id="unix">Unix&lt;/h2>
+&lt;p>GNU by design does not include Unix code, but what is Unix?&lt;/p>
+&lt;p>Unix systems are characterized by a modular design that is
+sometimes called the &amp;ldquo;Unix philosophy&amp;rdquo;.&lt;/p>
+&lt;p>This &amp;ldquo;philosophy&amp;rdquo; was made by AT&amp;amp;T, a closed source company.
+It was invented by Ken Thompson, Dennis Ritchie and others.&lt;/p>
+&lt;h2 id="the-unix-philosophy">The Unix philosophy&lt;/h2>
+&lt;p>The rules of this philosophy have changed over the years, but
+most definitions include that it only must do one thing well,
+and only that one thing.&lt;/p>
+&lt;h2 id="why-is-gnu-emacs-unix-then">Why is GNU Emacs, Unix then?&lt;/h2>
+&lt;p>Well, I just want to make it clear that the Unix philosophy
+is very vague. What is &amp;ldquo;one thing&amp;rdquo;?&lt;/p>
+&lt;p>They sometimes say that it is one responsibility.&lt;/p>
+&lt;p>GNU Emacs can be looked at like it has one responsibility,
+interpeting elisp code. So you could call it Unix.&lt;/p>
+&lt;p>Systemd has one responsibility, being the init system.&lt;/p>
+&lt;p>Both of those tools can do more things, but they can be seen
+as a part of that bigger responsibility.&lt;/p>
+&lt;h2 id="the-unix-philosophy-does-not-exist">The Unix philosophy does not exist&lt;/h2>
+&lt;p>You might think that things can&amp;rsquo;t have such big
+responsibilities, only small ones like text editing.&lt;/p>
+&lt;p>Vim only does one thing, which is text editing right? Well
+what about highlighting the syntax of code? It does that too.&lt;/p>
+&lt;p>Shouldn&amp;rsquo;t it use a separate program that does that?&lt;/p>
+&lt;h3 id="let-s-think-a-bit">Let&amp;rsquo;s think a bit&lt;/h3>
+&lt;p>You should have a separate program for every key on your
+keyboard if you think like that.&lt;/p>
+&lt;p>The &amp;ldquo;a&amp;rdquo; key is only responsible for one thing and that is
+showing &amp;ldquo;a&amp;rdquo; when you press it.&lt;/p>
+&lt;p>The &amp;ldquo;b&amp;rdquo; key is responsible for a different specific thing,
+which is showing &amp;ldquo;b&amp;rdquo; when you press it.&lt;/p>
+&lt;p>Do you get what I mean? The unix philosophy never really
+existed, because the definition is incomplete and vague.&lt;/p>
+&lt;p>I get the point, it is sometimes good that your program does not
+do too much and that it uses programs which already exist, but
+Unix is just vague and unclear.&lt;/p>
+&lt;p>I don&amp;rsquo;t hate that way of thinking, and believe that parts of it
+are good, but like everything. Don&amp;rsquo;t follow any vague principle
+like a religion.&lt;/p>
+&lt;p>Most if not all of these design prinicples are designed by business
+people. It are buzzwords and you can&amp;rsquo;t use them right or wrong. It
+are guidelines.&lt;/p></description></item><item><title>My todo list for this vacation</title><link>https://pages.codeberg.org/RobinWils/categories/articles/my-todo-list-for-this-vacation/</link><pubDate>Sat, 20 Jun 2020 13:45:35 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/my-todo-list-for-this-vacation/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
