@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/tags/</link><description>Recent content in Tags on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 23 Jun 2020 22:38:54 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/tags/</link><description>Recent content in Tags on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2020 16:24:34 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -191,7 +191,7 @@ Making 2D games - first with Unity, now with Godot
 &lt;/td>
 &lt;/tr>
 &lt;/table>
-&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>GNU Emacs is Unix</title><link>https://pages.codeberg.org/RobinWils/categories/articles/gnu-emacs-is-unix/</link><pubDate>Tue, 23 Jun 2020 22:38:54 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/gnu-emacs-is-unix/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>GNU Emacs is Unix</title><link>https://pages.codeberg.org/RobinWils/categories/articles/gnu-emacs-is-unix/</link><pubDate>Wed, 24 Jun 2020 16:24:34 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/gnu-emacs-is-unix/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -205,8 +205,14 @@ Making 2D games - first with Unity, now with Godot
 &lt;li>&lt;a href="#to-make-it-more-complicated">To make it more complicated&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>&lt;a href="#words-which-you-can-use-instead">Words which you can use instead&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#those-words-are-not-perfect-either">Those words are not perfect either&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;li>&lt;a href="#conclusion">Conclusion&lt;/a>&lt;/li>
 &lt;li>&lt;a href="#other-interesting-links">Other interesting links&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#related-article">Related article&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/div>
 &lt;!--endtoc-->
@@ -279,6 +285,19 @@ POSIX is just a standard which you could use.&lt;/p>
 compliant, but people still call it Unix.&lt;/p>
 &lt;p>MacOS is mostly compliant according to some, but many people
 don&amp;rsquo;t like to call it Unix. Some call it Unix though.&lt;/p>
+&lt;h2 id="words-which-you-can-use-instead">Words which you can use instead&lt;/h2>
+&lt;p>Some people like to say that a program is something. Saying that a
+program is Unix, does not really describe what you mean in my opinion.&lt;/p>
+&lt;p>Words like modular, minimal and composable sound less like meaningless
+buzzwords in my opinion. They actually describe what you mean.&lt;/p>
+&lt;h3 id="those-words-are-not-perfect-either">Those words are not perfect either&lt;/h3>
+&lt;p>They are not perfect, just like the word &amp;ldquo;good&amp;rdquo;. What is &amp;ldquo;good&amp;rdquo;?
+What is &amp;ldquo;minimal&amp;rdquo;?&lt;/p>
+&lt;p>These words have to do with what you think, but they at least sound
+less like a buzzword.&lt;/p>
+&lt;p>Buzzwords usually are just used to promote stuff
+and such. Many people don&amp;rsquo;t know what they actually mean,
+or if it even has meaning.&lt;/p>
 &lt;h2 id="conclusion">Conclusion&lt;/h2>
 &lt;p>So what Unix is&amp;hellip;, is just a buzzword, a design principle. It is
 also a trademark.&lt;/p>
@@ -307,6 +326,14 @@ Fast Food the UNIX way - Xah Lee
 &lt;a href="https://kukuruku.co/post/the-collapse-of-the-unix-philosophy/"
 rel="external nofollow">
 The Collapse of the UNIX Philosophy - Askar Safin
+&lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="related-article">Related article&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;a href="../categories/articles/the-programming-culture-has-problems">
+The programming culture has problems
 &lt;/a>
 &lt;/li>
 &lt;/ul></description></item><item><title>My todo list for this vacation</title><link>https://pages.codeberg.org/RobinWils/categories/articles/my-todo-list-for-this-vacation/</link><pubDate>Sat, 20 Jun 2020 13:45:35 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/my-todo-list-for-this-vacation/</guid><description>&lt;div class="ox-hugo-toc toc">
@@ -3601,199 +3628,7 @@ title="Ryako's soundcloud"
 rel="external nofollow">
 Soundcloud
 &lt;/a>&lt;/p>
-&lt;/div></description></item><item><title>The programming culture has problems</title><link>https://pages.codeberg.org/RobinWils/categories/articles/the-programming-culture-has-problems/</link><pubDate>Sat, 02 May 2020 15:10:09 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/the-programming-culture-has-problems/</guid><description>&lt;div class="ox-hugo-toc toc">
-&lt;div>&lt;/div>
-&lt;div class="heading">Table of Contents&lt;/div>
-&lt;ul>
-&lt;li>&lt;a href="#it-is-all-in-the-details">It is all in the details&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#there-is-no-such-thing-as-the-perfect-programming-language">There is no such thing as the perfect programming language&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#software-quality">Software quality&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#things-which-bother-me">Things which bother me&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="#which-methodology-should-you-use">Which methodology should you use?&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#new-technology-is-not-always-better">New technology is not always better&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#buzzwords">Buzzwords&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#people-who-spread-that-a-programming-job-is-fun">People who spread that a programming job is fun&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="#good-things-about-the-culture">Good things about the culture&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#what-others-think">What others think&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;!--endtoc-->
-&lt;h2 id="it-is-all-in-the-details">It is all in the details&lt;/h2>
-&lt;p>People complain about the smallest things in programming. Ha, you don&amp;rsquo;t format
-your code like this and you don&amp;rsquo;t use the &lt;em>&amp;ldquo;cloud&amp;rdquo;&lt;/em>. You must be a bad
-programmer.&lt;/p>
-&lt;figure>
-&lt;img src="../images/articles/the-programming-culture-has-problems/old-man-yells-at-cloud.jpg"
-alt="A newspaper with a picture of angry Grampa Simpson who yells at a cloud in the air. The headline of this newspaper is &amp;#39;OLD MAN YELLS AT CLOUD&amp;#39;." width="510" height="287"/>
-&lt;/figure>
-&lt;div class="small-font">
-&lt;div>&lt;/div>
-&lt;p>Image from Episode 13, Season 13 of The Simpsons. It is probably public domain
-licensed, since it is one of those internet jokes - CC0 licensed.&lt;/p>
-&lt;/div>
-&lt;p>All those small things add up. It becomes super annoying. People spread a lot
-of nonsense about programming.&lt;/p>
-&lt;p>The worst part is that there just is no one right way. People make that stuff
-up, but you never see any proof. It is something that probably annoys many
-people.&lt;/p>
-&lt;p>Yes, some things are a bit better as others, but there is no one true way. You
-are not superior when you use some new trendy technology. It is probably good
-to find the right tool for the job, but the best tool can be something else for
-someone else.&lt;/p>
-&lt;h2 id="there-is-no-such-thing-as-the-perfect-programming-language">There is no such thing as the perfect programming language&lt;/h2>
-&lt;p>People just should teach others how to use a language correctly. There are
-different styles and ideas in the programming culture because we are people. We
-like different things.&lt;/p>
-&lt;p>Facts matter. Some languages are indeed faster or easier for some jobs, but that
-does not mean that everyone likes the syntax of that language. Syntax can make a
-language more easy to use for some people, so it is something that could matter.&lt;/p>
-&lt;p>You might find a programming language the best language, but remember that it is
-not the best language for every purpose or everyone.&lt;/p>
-&lt;p>People just want to see a tool that works pretty fine in the end. You can
-develop it will a language which you enjoy. Think about the product which you
-want to make. It might even be great to think about you audience. You might
-want to pick another language as C# if you want to make a Free Software tool
-for example.&lt;/p>
-&lt;p>What are the programming languages which fit your goals? Compare them. It might
-be useful to include the difficulty to learn the language as a factor.&lt;/p>
-&lt;h2 id="software-quality">Software quality&lt;/h2>
-&lt;p>There are a few important factors to reach software quality:&lt;/p>
-&lt;ul>
-&lt;li>How good can the programmer(s) program (having a degree doesn&amp;rsquo;t necessarily
-mean that you are good at it. I mean that you actually have knowledge,
-experience and skill.);&lt;/li>
-&lt;li>How much do(es) the programmer(s) know about the project (It is useful to
-know something about money if the tool in development is a money management
-tool or something);&lt;/li>
-&lt;li>How good the programmers work in team (if there is a team).&lt;/li>
-&lt;li>How good you are at design patterns. This also depends on what you program.
-It might be less needed for some things.&lt;/li>
-&lt;/ul>
-&lt;h2 id="things-which-bother-me">Things which bother me&lt;/h2>
-&lt;h3 id="which-methodology-should-you-use">Which methodology should you use?&lt;/h3>
-&lt;p>A better question might be: &lt;em>Does the methodology really matter?&lt;/em>&lt;/p>
-&lt;p>None of these methodologies tend to be proven. Many of these methodologies
-change after a few years. It all sounds like a bunch of nonsense. They might
-help a bit, but how essential are they?&lt;/p>
-&lt;p>Many great software has been developed without your &lt;em>&amp;ldquo;perfect&amp;rdquo;&lt;/em> methodology. I
-am not saying that it is bad to follow one. It might help for some people, but
-it is not essential and it isn&amp;rsquo;t a strict thing. Some people follow some of
-these things to the details, which might waste more time instead of getting
-things done.&lt;/p>
-&lt;p>A small successful project can even be developed without any methodology. In
-fact, there is for example proof which shows that the popular Test Driven
-Development method isn&amp;rsquo;t always great.&lt;/p>
-&lt;p>Keep in mind that design patterns are something different. I think that most of
-those make sense and can make you a better programmer.&lt;/p>
-&lt;h4 id="examples-of-problems-with-methodologies">Examples of problems with methodologies&lt;/h4>
-&lt;p>&lt;strong>TDD&lt;/strong>&lt;/p>
-&lt;p>Article: &lt;a href="http://web.archive.org/web/20150930115748/http://www.dalkescientific.com/writings/diary/archive/2009/12/29/problems%5Fwith%5Ftdd.html">Problems with TDD - dalke scientific&lt;/a>&lt;/p>
-&lt;p>I know that the mentioned link is old, but it does contain some interesting
-text. Testing often helps, but I believe that TDD is not always needed. I agree
-that it does not cover every situation.&lt;/p>
-&lt;p>There are often some unexpected things which you probably want to have. Take
-for example a shopping website with coupons. People can try to add as much
-coupons, so that they get things free. This is probably something which you
-don&amp;rsquo;t want.&lt;/p>
-&lt;p>It is possible that you don&amp;rsquo;t reach a fix for that problem in TDD. Thinking
-like a user who tries to cause harm often helps to make your program more
-secure. This is not needed in TDD. This is why I think that TDD is not the
-only way.&lt;/p>
-&lt;p>Extra testing can help. Trying a bunch of things when your
-program is finished can help to discover a lot of small problems.
-TDD can help, but don&amp;rsquo;t trust methodologies completely. They are
-not perfect.&lt;/p>
-&lt;p>&lt;strong>Agile&lt;/strong>&lt;/p>
-&lt;blockquote>
-&lt;p>&amp;quot; The word “agile” has become sloganized; meaningless at best, jingoist at
-worst. We have large swaths of people doing “flaccid agile,” a half-hearted 7
-attempt at following a few select software development practices, poorly. We
-have scads of vocal agile zealots—as per the definition that a zealot is one
-who redoubles their effort after they’ve forgotten their aim. &amp;quot;&lt;/p>
-&lt;p>&amp;quot; And worst of all, agile methods themselves have not been agile. Now there‘s
-an irony for you. &amp;quot;&lt;/p>
-&lt;p>&amp;mdash; Andy Hunt, one of the founders of The Agile Manifesto&lt;/p>
-&lt;/blockquote>
-&lt;div class="small-font">
-&lt;div>&lt;/div>
-&lt;p>Full article: &lt;a href="https://toolshed.com/2015/05/the-failure-of-agile.html" rel="external nofollow">The Failure of Agile&lt;/a>&lt;/p>
-&lt;/div>
-&lt;p>I don&amp;rsquo;t even agree with his opinion. Following something strict can be great,
-but following it too strict can be a problem as well. It can cause fights over
-things which might not really matter.&lt;/p>
-&lt;p>It is good to have discussions, but try to use good reasons in a discussion.&lt;/p>
-&lt;h3 id="new-technology-is-not-always-better">New technology is not always better&lt;/h3>
-&lt;p>For example a simple webpage can ask for a lot of resources nowadays. Those
-resources can be used for tracking.&lt;/p>
-&lt;p>I am fine if it asks resources for some advanced functionality&amp;hellip; but for
-SPYING? &lt;em>Are you serious? Spying?&lt;/em>&lt;/p>
-&lt;p>Many companies still see spying as a good thing, since selling personal data
-makes them money. This looks unethical to me.&lt;/p>
-&lt;p>&lt;strong>There are other ways.&lt;/strong> &lt;br />
-You can, for example ask your users for feedback.&lt;/p>
-&lt;h3 id="buzzwords">Buzzwords&lt;/h3>
-&lt;p>Buzzwords are everywhere. It isn&amp;rsquo;t really specific to the programming culture.
-The thing about buzzwords is that they are usually not needed.&lt;/p>
-&lt;p>A funny thing is that many smart people are great at explaining complex things
-in simple ways. They also seem to try to avoid buzzwords. The people who use it
-on purpose usually do it to look smarter as they are.&lt;/p>
-&lt;p>It might be likely that you don&amp;rsquo;t really understand the meaning of a word, if
-you use a buzzword.&lt;/p>
-&lt;p>We obviously need words to talk, but most buzzwords seem useless, since they
-don&amp;rsquo;t have a clear meaning. Use a different word or sentence instead if you can.&lt;/p>
-&lt;p>Try to use words which most people understand&amp;hellip; Yeah, I get it buzzwords often
-help with marketing an idea or products and we often use them without realizing
-it.&lt;/p>
-&lt;h3 id="people-who-spread-that-a-programming-job-is-fun">People who spread that a programming job is fun&lt;/h3>
-&lt;p>Programming as a hobby is fun, but I thought about doing it as a job for a
-moment and realized that it is not what it seems. Doing it as a job usually
-means that you can&amp;rsquo;t choose what you create.&lt;/p>
-&lt;p>This takes away a lot of my motivation or interest in the job. They can limit
-what you can learn. A company can say you must use this programming language.
-The project can be something that you aren&amp;rsquo;t interested in at all.&lt;/p>
-&lt;p>Here is a part of a Dual Core song. I don&amp;rsquo;t want to get in such a situation.
-They even mention that the song is made for all the programmers and developers
-in the song.&lt;/p>
-&lt;blockquote>
-&lt;p>&amp;quot; I know I go and try but my life is broken, pulverized. &lt;br />
-Work and more and more, there&amp;rsquo;s less time to socialize. &lt;br />
-And that&amp;rsquo;s just a gamble, so why try and roll the dice? &lt;br />
-Either in the office or by myself at home, at night. &lt;br />
-Plus I stopped believing, there&amp;rsquo;s no reason keeping hope alive. &amp;quot;&lt;/p>
-&lt;p>&amp;ndash; Dual Core (Unplug - Listen on &lt;a href="https://www.youtube.com/watch?v=HWDCs4tb-7E" rel="external nofollow">YouTube&lt;/a>)&lt;/p>
-&lt;/blockquote>
-&lt;p>It can be a fun job as well, but it depends on more as one factor. Dare to talk
-about the downsides when you say that it is a fun job. It can be fun for some
-people, but you have to like the full package.&lt;/p>
-&lt;p>I don&amp;rsquo;t have a problem with programming as a job, but doing it all day on a
-project which does not interest me, wouldn&amp;rsquo;t improve my life quality. I wouldn&amp;rsquo;t
-enjoy that.&lt;/p>
-&lt;h4 id="my-job-ideas-for-the-future">My job ideas for the future&lt;/h4>
-&lt;p>I find programming nice as a hobby or for own projects, but don&amp;rsquo;t want to do it
-as a job. I could try to become a programming teacher or try to learn other
-things which interest me.&lt;/p>
-&lt;p>I like to have some freedom. I think that something more creative might be
-better for me. I should look into 3D-modelling and 2D-animations and stuff. Art
-like that can take a lot of time, but the important part is that you enjoy it.
-Programming is not a bad job, but I think that it is not for me.&lt;/p>
-&lt;p>Money is nice, but happiness is important as well. Your time is limited. I
-recommend that you try to use it in a smart way. Make the best of it.&lt;/p>
-&lt;h2 id="good-things-about-the-culture">Good things about the culture&lt;/h2>
-&lt;ul>
-&lt;li>There are almost always problems which you can try to fix;&lt;/li>
-&lt;li>You often are able to get the opportunity to learn things;&lt;/li>
-&lt;li>Not everyone does the things which bother me (and other people);&lt;/li>
-&lt;li>Some companies treat programmers really well;&lt;/li>
-&lt;li>Working from home might be cool thing, if you like that.&lt;/li>
-&lt;/ul>
-&lt;p>Just keep in mind that every culture has some problems or things which you don&amp;rsquo;t
-like. This is just my opinion.&lt;/p>
-&lt;h2 id="what-others-think">What others think&lt;/h2>
-&lt;p>Xah Lee is a pretty well-known GNU Emacs user. His &lt;a href="http://www.xahlee.info/UnixResource%5Fdir/writ/why%5Fsoftware%5Fsuck.html" rel="external nofollow">Why Software Suck&lt;/a> page
-contains his opinion about the programming culture.&lt;/p></description></item><item><title>Pets</title><link>https://pages.codeberg.org/RobinWils/categories/about/pets/</link><pubDate>Sat, 02 May 2020 15:09:30 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/pets/</guid><description>&lt;p>I like pets and we have two dogs in our house. Their names are Faye and Sienna.
+&lt;/div></description></item><item><title>Pets</title><link>https://pages.codeberg.org/RobinWils/categories/about/pets/</link><pubDate>Sat, 02 May 2020 15:09:30 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/pets/</guid><description>&lt;p>I like pets and we have two dogs in our house. Their names are Faye and Sienna.
 They come from an animal shelter. The dog on the left is Sienna, the other dog
 is Faye.&lt;/p>
 &lt;figure>
@@ -4091,7 +3926,208 @@ enough research. You also have to be in the right place at the right time.&lt;/p
 &lt;h2 id="so-which-party-did-robin-wils-vote-for">So, which party did Robin Wils vote for?&lt;/h2>
 &lt;p>I won&amp;rsquo;t give you the answer, since I don&amp;rsquo;t stand for any party and I don&amp;rsquo;t
 want to create a long discussion. I prefer to keep it secret and my opinion
-can change from year to year.&lt;/p></description></item><item><title>A Space Odyssey franchise</title><link>https://pages.codeberg.org/RobinWils/categories/reviews/a-space-odyssey-franchise/</link><pubDate>Mon, 18 May 2020 20:51:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/reviews/a-space-odyssey-franchise/</guid><description>&lt;div class="ox-hugo-toc toc">
+can change from year to year.&lt;/p></description></item><item><title>The programming culture has problems</title><link>https://pages.codeberg.org/RobinWils/categories/articles/the-programming-culture-has-problems/</link><pubDate>Wed, 24 Jun 2020 16:24:22 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/the-programming-culture-has-problems/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;div>&lt;/div>
+&lt;div class="heading">Table of Contents&lt;/div>
+&lt;ul>
+&lt;li>&lt;a href="#it-is-all-in-the-details">It is all in the details&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#there-is-no-such-thing-as-the-perfect-programming-language">There is no such thing as the perfect programming language&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#software-quality">Software quality&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#things-which-bother-me">Things which bother me&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#which-methodology-should-you-use">Which methodology should you use?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#new-technology-is-not-always-better">New technology is not always better&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#buzzwords">Buzzwords&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#people-who-spread-that-a-programming-job-is-fun">People who spread that a programming job is fun&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#good-things-about-the-culture">Good things about the culture&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#what-others-think">What others think&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;!--endtoc-->
+&lt;h2 id="it-is-all-in-the-details">It is all in the details&lt;/h2>
+&lt;p>People complain about the smallest things in programming. Ha, you don&amp;rsquo;t format
+your code like this and you don&amp;rsquo;t use the &lt;em>&amp;ldquo;cloud&amp;rdquo;&lt;/em>. You must be a bad
+programmer.&lt;/p>
+&lt;figure>
+&lt;img src="../images/articles/the-programming-culture-has-problems/old-man-yells-at-cloud.jpg"
+alt="A newspaper with a picture of angry Grampa Simpson who yells at a cloud in the air. The headline of this newspaper is &amp;#39;OLD MAN YELLS AT CLOUD&amp;#39;." width="510" height="287"/>
+&lt;/figure>
+&lt;div class="small-font">
+&lt;div>&lt;/div>
+&lt;p>Image from Episode 13, Season 13 of The Simpsons. It is probably public domain
+licensed, since it is one of those internet jokes - CC0 licensed.&lt;/p>
+&lt;/div>
+&lt;p>All those small things add up. It becomes super annoying. People spread a lot
+of nonsense about programming.&lt;/p>
+&lt;p>The worst part is that there just is no one right way. People make that stuff
+up, but you never see any proof. It is something that probably annoys many
+people.&lt;/p>
+&lt;p>Yes, some things are a bit better as others, but there is no one true way. You
+are not superior when you use some new trendy technology. It is probably good
+to find the right tool for the job, but the best tool can be something else for
+someone else.&lt;/p>
+&lt;h2 id="there-is-no-such-thing-as-the-perfect-programming-language">There is no such thing as the perfect programming language&lt;/h2>
+&lt;p>People just should teach others how to use a language correctly. There are
+different styles and ideas in the programming culture because we are people. We
+like different things.&lt;/p>
+&lt;p>Facts matter. Some languages are indeed faster or easier for some jobs, but that
+does not mean that everyone likes the syntax of that language. Syntax can make a
+language more easy to use for some people, so it is something that could matter.&lt;/p>
+&lt;p>You might find a programming language the best language, but remember that it is
+not the best language for every purpose or everyone.&lt;/p>
+&lt;p>People just want to see a tool that works pretty fine in the end. You can
+develop it will a language which you enjoy. Think about the product which you
+want to make. It might even be great to think about you audience. You might
+want to pick another language as C# if you want to make a Free Software tool
+for example.&lt;/p>
+&lt;p>What are the programming languages which fit your goals? Compare them. It might
+be useful to include the difficulty to learn the language as a factor.&lt;/p>
+&lt;h2 id="software-quality">Software quality&lt;/h2>
+&lt;p>There are a few important factors to reach software quality:&lt;/p>
+&lt;ul>
+&lt;li>How good can the programmer(s) program (having a degree doesn&amp;rsquo;t necessarily
+mean that you are good at it. I mean that you actually have knowledge,
+experience and skill.);&lt;/li>
+&lt;li>How much do(es) the programmer(s) know about the project (It is useful to
+know something about money if the tool in development is a money management
+tool or something);&lt;/li>
+&lt;li>How good the programmers work in team (if there is a team).&lt;/li>
+&lt;li>How good you are at design patterns. This also depends on what you program.
+It might be less needed for some things.&lt;/li>
+&lt;/ul>
+&lt;h2 id="things-which-bother-me">Things which bother me&lt;/h2>
+&lt;h3 id="which-methodology-should-you-use">Which methodology should you use?&lt;/h3>
+&lt;p>A better question might be: &lt;em>Does the methodology really matter?&lt;/em>&lt;/p>
+&lt;p>None of these methodologies tend to be proven. Many of these methodologies
+change after a few years. It all sounds like a bunch of nonsense. They might
+help a bit, but how essential are they?&lt;/p>
+&lt;p>Many great software has been developed without your &lt;em>&amp;ldquo;perfect&amp;rdquo;&lt;/em> methodology. I
+am not saying that it is bad to follow one. It might help for some people, but
+it is not essential and it isn&amp;rsquo;t a strict thing. Some people follow some of
+these things to the details, which might waste more time instead of getting
+things done.&lt;/p>
+&lt;p>A small successful project can even be developed without any methodology. In
+fact, there is for example proof which shows that the popular Test Driven
+Development method isn&amp;rsquo;t always great.&lt;/p>
+&lt;p>Keep in mind that design patterns are something different. I think that most of
+those make sense and can make you a better programmer.&lt;/p>
+&lt;h4 id="examples-of-problems-with-methodologies">Examples of problems with methodologies&lt;/h4>
+&lt;p>&lt;strong>TDD&lt;/strong>&lt;/p>
+&lt;p>Article: &lt;a href="http://web.archive.org/web/20150930115748/http://www.dalkescientific.com/writings/diary/archive/2009/12/29/problems%5Fwith%5Ftdd.html">Problems with TDD - dalke scientific&lt;/a>&lt;/p>
+&lt;p>I know that the mentioned link is old, but it does contain some interesting
+text. Testing often helps, but I believe that TDD is not always needed. I agree
+that it does not cover every situation.&lt;/p>
+&lt;p>There are often some unexpected things which you probably want to have. Take
+for example a shopping website with coupons. People can try to add as much
+coupons, so that they get things free. This is probably something which you
+don&amp;rsquo;t want.&lt;/p>
+&lt;p>It is possible that you don&amp;rsquo;t reach a fix for that problem in TDD. Thinking
+like a user who tries to cause harm often helps to make your program more
+secure. This is not needed in TDD. This is why I think that TDD is not the
+only way.&lt;/p>
+&lt;p>Extra testing can help. Trying a bunch of things when your
+program is finished can help to discover a lot of small problems.
+TDD can help, but don&amp;rsquo;t trust methodologies completely. They are
+not perfect.&lt;/p>
+&lt;p>&lt;strong>Agile&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;quot; The word “agile” has become sloganized; meaningless at best, jingoist at
+worst. We have large swaths of people doing “flaccid agile,” a half-hearted 7
+attempt at following a few select software development practices, poorly. We
+have scads of vocal agile zealots—as per the definition that a zealot is one
+who redoubles their effort after they’ve forgotten their aim. &amp;quot;&lt;/p>
+&lt;p>&amp;quot; And worst of all, agile methods themselves have not been agile. Now there‘s
+an irony for you. &amp;quot;&lt;/p>
+&lt;p>&amp;mdash; Andy Hunt, one of the founders of The Agile Manifesto&lt;/p>
+&lt;/blockquote>
+&lt;div class="small-font">
+&lt;div>&lt;/div>
+&lt;p>Full article: &lt;a href="https://toolshed.com/2015/05/the-failure-of-agile.html" rel="external nofollow">The Failure of Agile&lt;/a>&lt;/p>
+&lt;/div>
+&lt;p>I don&amp;rsquo;t even agree with his opinion. Following something strict can be great,
+but following it too strict can be a problem as well. It can cause fights over
+things which might not really matter.&lt;/p>
+&lt;p>It is good to have discussions, but try to use good reasons in a discussion.&lt;/p>
+&lt;h3 id="new-technology-is-not-always-better">New technology is not always better&lt;/h3>
+&lt;p>For example a simple webpage can ask for a lot of resources nowadays. Those
+resources can be used for tracking.&lt;/p>
+&lt;p>I am fine if it asks resources for some advanced functionality&amp;hellip; but for
+SPYING? &lt;em>Are you serious? Spying?&lt;/em>&lt;/p>
+&lt;p>Many companies still see spying as a good thing, since selling personal data
+makes them money. This looks unethical to me.&lt;/p>
+&lt;p>&lt;strong>There are other ways.&lt;/strong> &lt;br />
+You can, for example ask your users for feedback.&lt;/p>
+&lt;h3 id="buzzwords">Buzzwords&lt;/h3>
+&lt;p>Buzzwords are everywhere. It isn&amp;rsquo;t really specific to the programming culture.
+The thing about buzzwords is that they are usually not needed.&lt;/p>
+&lt;p>A funny thing is that many smart people are great at explaining complex things
+in simple ways. They also seem to try to avoid buzzwords. The people who use it
+on purpose usually do it to look smarter as they are.&lt;/p>
+&lt;p>It might be likely that you don&amp;rsquo;t really understand the meaning of a word, if
+you use a buzzword.&lt;/p>
+&lt;p>We obviously need words to talk, but most buzzwords seem useless, since they
+don&amp;rsquo;t have a clear meaning. Use a different word or sentence instead if you can.&lt;/p>
+&lt;p>Try to use words which most people understand&amp;hellip; Yeah, I get it buzzwords often
+help with marketing an idea or products and we often use them without realizing
+it.&lt;/p>
+&lt;h4 id="related-article">Related article&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;a href="../categories/articles/gnu-emacs-is-unix">
+GNU Emacs is Unix
+&lt;/a>
+- Explanation of why Unix is an unclear word
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="people-who-spread-that-a-programming-job-is-fun">People who spread that a programming job is fun&lt;/h3>
+&lt;p>Programming as a hobby is fun, but I thought about doing it as a job for a
+moment and realized that it is not what it seems. Doing it as a job usually
+means that you can&amp;rsquo;t choose what you create.&lt;/p>
+&lt;p>This takes away a lot of my motivation or interest in the job. They can limit
+what you can learn. A company can say you must use this programming language.
+The project can be something that you aren&amp;rsquo;t interested in at all.&lt;/p>
+&lt;p>Here is a part of a Dual Core song. I don&amp;rsquo;t want to get in such a situation.
+They even mention that the song is made for all the programmers and developers
+in the song.&lt;/p>
+&lt;blockquote>
+&lt;p>&amp;quot; I know I go and try but my life is broken, pulverized. &lt;br />
+Work and more and more, there&amp;rsquo;s less time to socialize. &lt;br />
+And that&amp;rsquo;s just a gamble, so why try and roll the dice? &lt;br />
+Either in the office or by myself at home, at night. &lt;br />
+Plus I stopped believing, there&amp;rsquo;s no reason keeping hope alive. &amp;quot;&lt;/p>
+&lt;p>&amp;ndash; Dual Core (Unplug - Listen on &lt;a href="https://www.youtube.com/watch?v=HWDCs4tb-7E" rel="external nofollow">YouTube&lt;/a>)&lt;/p>
+&lt;/blockquote>
+&lt;p>It can be a fun job as well, but it depends on more as one factor. Dare to talk
+about the downsides when you say that it is a fun job. It can be fun for some
+people, but you have to like the full package.&lt;/p>
+&lt;p>I don&amp;rsquo;t have a problem with programming as a job, but doing it all day on a
+project which does not interest me, wouldn&amp;rsquo;t improve my life quality. I wouldn&amp;rsquo;t
+enjoy that.&lt;/p>
+&lt;h4 id="my-job-ideas-for-the-future">My job ideas for the future&lt;/h4>
+&lt;p>I find programming nice as a hobby or for own projects, but don&amp;rsquo;t want to do it
+as a job. I could try to become a programming teacher or try to learn other
+things which interest me.&lt;/p>
+&lt;p>I like to have some freedom. I think that something more creative might be
+better for me. I should look into 3D-modelling and 2D-animations and stuff. Art
+like that can take a lot of time, but the important part is that you enjoy it.
+Programming is not a bad job, but I think that it is not for me.&lt;/p>
+&lt;p>Money is nice, but happiness is important as well. Your time is limited. I
+recommend that you try to use it in a smart way. Make the best of it.&lt;/p>
+&lt;h2 id="good-things-about-the-culture">Good things about the culture&lt;/h2>
+&lt;ul>
+&lt;li>There are almost always problems which you can try to fix;&lt;/li>
+&lt;li>You often are able to get the opportunity to learn things;&lt;/li>
+&lt;li>Not everyone does the things which bother me (and other people);&lt;/li>
+&lt;li>Some companies treat programmers really well;&lt;/li>
+&lt;li>Working from home might be cool thing, if you like that.&lt;/li>
+&lt;/ul>
+&lt;p>Just keep in mind that every culture has some problems or things which you don&amp;rsquo;t
+like. This is just my opinion.&lt;/p>
+&lt;h2 id="what-others-think">What others think&lt;/h2>
+&lt;p>Xah Lee is a pretty well-known GNU Emacs user. His &lt;a href="http://www.xahlee.info/UnixResource%5Fdir/writ/why%5Fsoftware%5Fsuck.html" rel="external nofollow">Why Software Suck&lt;/a> page
+contains his opinion about the programming culture.&lt;/p></description></item><item><title>A Space Odyssey franchise</title><link>https://pages.codeberg.org/RobinWils/categories/reviews/a-space-odyssey-franchise/</link><pubDate>Mon, 18 May 2020 20:51:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/reviews/a-space-odyssey-franchise/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
