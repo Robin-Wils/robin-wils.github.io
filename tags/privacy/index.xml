@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Privacy on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/tags/privacy/</link><description>Recent content in Privacy on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2020 21:17:29 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/tags/privacy/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Privacy on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/tags/privacy/</link><description>Recent content in Privacy on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2020 21:19:56 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/tags/privacy/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -5915,7 +5915,7 @@ directory:&lt;/p>
 &lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-sh" data-lang="sh">git remote add origin &amp;lt;HTTPS or SSH url of your new git repository&amp;gt;
 git commit -m &lt;span style="color:#e6db74">&amp;#34;Your commit message&amp;#34;&lt;/span>
 git push
-&lt;/code>&lt;/pre>&lt;/div>&lt;p>Enjoy!&lt;/p></description></item><item><title>You should use KeePass</title><link>https://pages.codeberg.org/RobinWils/categories/articles/you-should-use-keepass/</link><pubDate>Mon, 13 Jul 2020 21:17:29 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/you-should-use-keepass/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Enjoy!&lt;/p></description></item><item><title>You should use KeePass</title><link>https://pages.codeberg.org/RobinWils/categories/articles/you-should-use-keepass/</link><pubDate>Mon, 13 Jul 2020 21:19:56 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/you-should-use-keepass/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
