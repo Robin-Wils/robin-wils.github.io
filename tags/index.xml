@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/tags/</link><description>Recent content in Tags on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 00:50:33 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/tags/</link><description>Recent content in Tags on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2020 21:17:29 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -5198,212 +5198,7 @@ I highly recommend that you learn those keybindings before you use my config.&lt
 &lt;p>Sci-Fi thriller movie. I did like this movie, but it wasn&amp;rsquo;t perfect.
 It has some cyberpunk elements though. It is a bit slow, but it was
 alright.&lt;/p>
-&lt;p>The reviews aren&amp;rsquo;t that great, but the movie was alright in my opinion.&lt;/p></description></item><item><title>You should use KeePass</title><link>https://pages.codeberg.org/RobinWils/categories/articles/you-should-use-keepass/</link><pubDate>Tue, 05 May 2020 00:51:53 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/you-should-use-keepass/</guid><description>&lt;div class="ox-hugo-toc toc">
-&lt;div>&lt;/div>
-&lt;div class="heading">Table of Contents&lt;/div>
-&lt;ul>
-&lt;li>&lt;a href="#why-keepass">Why KeePass?&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="#convenience">Convenience&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#security">Security&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="#which-version">Which version?&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#how">How?&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="#use-on-computer">Use on computer&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#use-on-mobile">Use on mobile&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#use-in-browser">Use in Browser&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#use-to-manage-ssh-keys">Use to manage SSH keys&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;!--endtoc-->
-&lt;h2 id="why-keepass">Why KeePass?&lt;/h2>
-&lt;figure class="icon">
-&lt;img src="../images/articles/you-should-use-keepass/keepassxc-logo.png"
-alt="The KeePassXC logo." width="240" height="240"/>
-&lt;/figure>
-&lt;div class="small-font">
-&lt;div>&lt;/div>
-&lt;p>KeePassXC - CC0 licensed.&lt;/p>
-&lt;/div>
-&lt;h3 id="convenience">Convenience&lt;/h3>
-&lt;p>KeePass is a offline password database. It generates all your passwords for
-you. You only have to remember one password so using it is very convenient.&lt;/p>
-&lt;p>Some versions can manage SSH keys for you. Forget all your fast made passwords.
-You only have to create and remember one strong master password.&lt;/p>
-&lt;p>Browser and mobile plugins for this database exist.&lt;/p>
-&lt;h3 id="security">Security&lt;/h3>
-&lt;p>KeePass generates strong passwords for you. Passwords can&amp;rsquo;t get cracked
-online, since the database is offline. Online password databases do have this
-problem.&lt;/p>
-&lt;p>Most (if not all) KeePass programs are free software and licensed under the
-GPL, which means that it should respect four freedoms. This creates some trust
-and I think that it was is a great pick for such a program.&lt;/p>
-&lt;p>You can read my &lt;a href="../categories/articles/think-before-using-the-gpl-license">Think before using the GPL license&lt;/a> article for more
-information.&lt;/p>
-&lt;h2 id="which-version">Which version?&lt;/h2>
-&lt;p>I recommend KeePassXC. It is a community fork of KeePassX.&lt;/p>
-&lt;ul>
-&lt;li>KeePassXC gets updated regularily;&lt;/li>
-&lt;li>It works on Linux, Windows and macOS without modifications;&lt;/li>
-&lt;li>You can import passwords from other password databases;&lt;/li>
-&lt;li>TOTP generation (including Steam Guard)&lt;/li>
-&lt;li>Has SSH Agent integration;&lt;/li>
-&lt;li>Has browser integration;&lt;/li>
-&lt;li>Has key file and YubiKey support for additional security;&lt;/li>
-&lt;li>&amp;hellip;&lt;/li>
-&lt;/ul>
-&lt;p>I would recommend KeePass2 if KeePassXC isn&amp;rsquo;t available for you. KeePassXC
-should work cross-platform, so it would be weird that it wouldn&amp;rsquo;t work on
-your system in the first place.&lt;/p>
-&lt;h2 id="how">How?&lt;/h2>
-&lt;h3 id="use-on-computer">Use on computer&lt;/h3>
-&lt;ol>
-&lt;li>Install KeePass&lt;/li>
-&lt;li>Open KeePass&lt;/li>
-&lt;li>Create a new database and give it a master key (+ optional additional
-protection such as a key file and YubiKey).&lt;/li>
-&lt;li>Create some entries– enter the username, password, URL (of login page),
-and optionally notes about the entry.&lt;/li>
-&lt;li>Save&lt;/li>
-&lt;/ol>
-&lt;h3 id="use-on-mobile">Use on mobile&lt;/h3>
-&lt;p>I recommend to transfer your database file to your phone if you want to use it
-on your phone. Many applications allow you to use things like Dropbox to get to
-your database, but manual transfer seems safer.&lt;/p>
-&lt;h4 id="android">Android&lt;/h4>
-&lt;p>KeePass DX is available on F-Droid and the Google Play Store. It is compatible
-with all KeePass versions (KeePass, KeePassX, KeePass XC&amp;hellip;).&lt;/p>
-&lt;div class="link-list">
-&lt;div>&lt;/div>
-&lt;p>&lt;a href="https://www.f-droid.org/packages/com.kunzisoft.keepass.libre"
-title="Get KeePassXS on F-Droid"
-rel="external nofollow">
-F-Droid
-&lt;/a>
-&lt;a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free"
-title="Get KeePassXS on the Google Play Store"
-rel="external nofollow">
-Play Store
-&lt;/a>&lt;/p>
-&lt;/div>
-&lt;h4 id="ios">iOS&lt;/h4>
-&lt;p>KeePassium is available on F-Droid and the Apple App Store. It is compatible
-with all KeePass versions (KeePass, KeePassX, KeePass XC&amp;hellip;).&lt;/p>
-&lt;div class="link-list">
-&lt;div>&lt;/div>
-&lt;p>&lt;a href="https://apps.apple.com/us/app/id1435127111"
-title="Get KeePassium on the Apple App Store"
-rel="external nofollow">
-App Store
-&lt;/a>&lt;/p>
-&lt;/div>
-&lt;h3 id="use-in-browser">Use in Browser&lt;/h3>
-&lt;p>KeePassXC has a browser plugin. You should &lt;a href="https://keepassxc.org/docs/keepassxc-browser-migration" rel="external">enable browser integration&lt;/a> if you
-want to use this. You can find links to the KeePassXC-Browser add-on here.&lt;/p>
-&lt;div class="link-list">
-&lt;div>&lt;/div>
-&lt;p>&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser"
-title="Add KeePassXS add-on to firefox"
-rel="external nofollow">
-Firefox
-&lt;/a>
-&lt;a href="https://chrome.google.com/webstore/detail/keepasshttp-connector/dafgdjggglmmknipkhngniifhplpcldb"
-title="Add KeePassXS add-on to chromium"
-rel="external nofollow">
-Chromium
-&lt;/a>
-&lt;a href="https://github.com/mmichaa/passafari.safariextension"
-title="Add KeePassXS add-on to safari"
-rel="external nofollow">
-Safari
-&lt;/a>&lt;/p>
-&lt;/div>
-&lt;p>There are other add-ons for other KeePass versions such as the
-KeePassHttp-Connector add-on.&lt;/p>
-&lt;h3 id="use-to-manage-ssh-keys">Use to manage SSH keys&lt;/h3>
-&lt;p>This can work on other version as KeePassXC, but this explanation is made for
-KeePassXC.&lt;/p>
-&lt;h4 id="create-a-new-key-in-keepassxc">Create a new key in KeePassXC&lt;/h4>
-&lt;p>Create a new entry in your KeePassXC database and generate a password for it.
-Save this entry.&lt;/p>
-&lt;figure>
-&lt;img src="../images/articles/you-should-use-keepass/new-key-in-keepass.jpg"
-alt="New key in KeePassXC."/>
-&lt;/figure>
-&lt;div class="small-font">
-&lt;div>&lt;/div>
-&lt;p>Screenshot taken by Robin Wils - CC0 licensed.&lt;/p>
-&lt;/div>
-&lt;h4 id="generate-a-key-pair">Generate a key pair&lt;/h4>
-&lt;p>You can generate a pair of keys with the ssh-keygen command if you don&amp;rsquo;t own
-some yet. Use the generated password as password.&lt;/p>
-&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-sh" data-lang="sh">ssh-keygen -b &lt;span style="color:#ae81ff">4096&lt;/span>
-&lt;/code>&lt;/pre>&lt;/div>&lt;figure>
-&lt;img src="../images/articles/you-should-use-keepass/ssh-keygen.jpg"
-alt="ssh-keygen command output."/>
-&lt;/figure>
-&lt;div class="small-font">
-&lt;div>&lt;/div>
-&lt;p>Screenshot taken by Robin Wils - CC0 licensed.&lt;/p>
-&lt;/div>
-&lt;h4 id="enable-ssh-agent">Enable SSH Agent&lt;/h4>
-&lt;ol>
-&lt;li>Go to &amp;ldquo;Tools -&amp;gt; Settings&amp;rdquo;.&lt;/li>
-&lt;li>You can find SSH Agent in the left column.&lt;/li>
-&lt;li>Click on it to enable it.&lt;/li>
-&lt;li>Restart KeePassXC&lt;/li>
-&lt;/ol>
-&lt;figure>
-&lt;img src="../images/articles/you-should-use-keepass/enable-ssh-agent.jpg"
-alt="KeePassXC Application Settings."/>
-&lt;/figure>
-&lt;div class="small-font">
-&lt;div>&lt;/div>
-&lt;p>Screenshot taken by Robin Wils - CC0 licensed.&lt;/p>
-&lt;/div>
-&lt;h4 id="implement-ssh-agent">Implement SSH Agent&lt;/h4>
-&lt;figure>
-&lt;img src="../images/articles/you-should-use-keepass/ssh-key-in-keepass.jpg"
-alt="SSH Agent configuration in KeePassXC."/>
-&lt;/figure>
-&lt;div class="small-font">
-&lt;div>&lt;/div>
-&lt;p>Screenshot taken by Robin Wils - CC0 licensed.&lt;/p>
-&lt;/div>
-&lt;ol>
-&lt;li>
-&lt;p>Edit the key which you just made in KeePassXC. (Right click -&amp;gt; Edit entry or Ctrl+E)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Click on SSH Agent&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Check the checkboxes which you want to have enabled.&lt;/p>
-&lt;ul>
-&lt;li>The first two checkboxes are for basic functionality;&lt;/li>
-&lt;li>The third checkbox is to provide a dialog window when the key is used. A
-askpass program is required for this option.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>Add The key by selecting it as External file.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Save the database.&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;p>You should have working SSH keys now.&lt;/p>
-&lt;p>&lt;strong>Possible problem on GNU or Linux systems&lt;/strong>&lt;/p>
-&lt;p>Some things like the GNOME Keyring can cause problems. Make sure that only on
-SSH Agent is running. GNOME Keyring can manage SSH keys. I use ssh-agent for
-this. You can add the following command to &amp;ldquo;~/.bashrc&amp;rdquo; or to your init script
-to run it in the background.&lt;/p>
-&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-sh" data-lang="sh">eval &lt;span style="color:#e6db74">`&lt;/span>ssh-agent -s&lt;span style="color:#e6db74">`&lt;/span> &amp;amp;
-&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>The GNU Linux system naming problem</title><link>https://pages.codeberg.org/RobinWils/categories/about/the-gnu-linux-system-naming-problem/</link><pubDate>Sat, 02 May 2020 15:09:48 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/the-gnu-linux-system-naming-problem/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;p>The reviews aren&amp;rsquo;t that great, but the movie was alright in my opinion.&lt;/p></description></item><item><title>The GNU Linux system naming problem</title><link>https://pages.codeberg.org/RobinWils/categories/about/the-gnu-linux-system-naming-problem/</link><pubDate>Sat, 02 May 2020 15:09:48 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/about/the-gnu-linux-system-naming-problem/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -6120,7 +5915,212 @@ directory:&lt;/p>
 &lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-sh" data-lang="sh">git remote add origin &amp;lt;HTTPS or SSH url of your new git repository&amp;gt;
 git commit -m &lt;span style="color:#e6db74">&amp;#34;Your commit message&amp;#34;&lt;/span>
 git push
-&lt;/code>&lt;/pre>&lt;/div>&lt;p>Enjoy!&lt;/p></description></item><item><title>The Big Lebowski movie</title><link>https://pages.codeberg.org/RobinWils/categories/reviews/the-big-lebowski-movie/</link><pubDate>Wed, 20 May 2020 17:39:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/reviews/the-big-lebowski-movie/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Enjoy!&lt;/p></description></item><item><title>You should use KeePass</title><link>https://pages.codeberg.org/RobinWils/categories/articles/you-should-use-keepass/</link><pubDate>Mon, 13 Jul 2020 21:17:29 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/you-should-use-keepass/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;div>&lt;/div>
+&lt;div class="heading">Table of Contents&lt;/div>
+&lt;ul>
+&lt;li>&lt;a href="#why-keepass">Why KeePass?&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#convenience">Convenience&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#security">Security&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#which-version">Which version?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#how">How?&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#use-on-computer">Use on computer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#use-on-mobile">Use on mobile&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#use-in-browser">Use in Browser&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#use-to-manage-ssh-keys">Use to manage SSH keys&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;!--endtoc-->
+&lt;h2 id="why-keepass">Why KeePass?&lt;/h2>
+&lt;figure class="icon">
+&lt;img src="../images/articles/you-should-use-keepass/keepassxc-logo.png"
+alt="The KeePassXC logo." width="240" height="240"/>
+&lt;/figure>
+&lt;div class="small-font">
+&lt;div>&lt;/div>
+&lt;p>KeePassXC - CC0 licensed.&lt;/p>
+&lt;/div>
+&lt;h3 id="convenience">Convenience&lt;/h3>
+&lt;p>KeePass is a offline password database. It generates all your passwords for
+you. You only have to remember one password so using it is very convenient.&lt;/p>
+&lt;p>Some versions can manage SSH keys for you. Forget all your fast made passwords.
+You only have to create and remember one strong master password.&lt;/p>
+&lt;p>Browser and mobile plugins for this database exist.&lt;/p>
+&lt;h3 id="security">Security&lt;/h3>
+&lt;p>KeePass generates strong passwords for you. Passwords can&amp;rsquo;t get cracked
+online, since the database is offline. Online password databases do have this
+problem.&lt;/p>
+&lt;p>Most (if not all) KeePass programs are free software and licensed under the
+GPL, which means that it should respect four freedoms. This creates some trust
+and I think that it was is a great pick for such a program.&lt;/p>
+&lt;p>You can read my &lt;a href="../categories/articles/think-before-using-the-gpl-license">Think before using the GPL license&lt;/a> article for more
+information.&lt;/p>
+&lt;h2 id="which-version">Which version?&lt;/h2>
+&lt;p>I recommend KeePassXC. It is a community fork of KeePassX.&lt;/p>
+&lt;ul>
+&lt;li>KeePassXC gets updated regularily;&lt;/li>
+&lt;li>It works on Linux, Windows and macOS without modifications;&lt;/li>
+&lt;li>You can import passwords from other password databases;&lt;/li>
+&lt;li>TOTP generation (including Steam Guard)&lt;/li>
+&lt;li>Has SSH Agent integration;&lt;/li>
+&lt;li>Has browser integration;&lt;/li>
+&lt;li>Has key file and YubiKey support for additional security;&lt;/li>
+&lt;li>&amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;p>I would recommend KeePass2 if KeePassXC isn&amp;rsquo;t available for you. KeePassXC
+should work cross-platform, so it would be weird that it wouldn&amp;rsquo;t work on
+your system in the first place.&lt;/p>
+&lt;h2 id="how">How?&lt;/h2>
+&lt;h3 id="use-on-computer">Use on computer&lt;/h3>
+&lt;ol>
+&lt;li>Install KeePass&lt;/li>
+&lt;li>Open KeePass&lt;/li>
+&lt;li>Create a new database and give it a master key (+ optional additional
+protection such as a key file and YubiKey).&lt;/li>
+&lt;li>Create some entries– enter the username, password, URL (of login page),
+and optionally notes about the entry.&lt;/li>
+&lt;li>Save&lt;/li>
+&lt;/ol>
+&lt;h3 id="use-on-mobile">Use on mobile&lt;/h3>
+&lt;p>I recommend to transfer your database file to your phone if you want to use it
+on your phone. Many applications allow you to use things like Dropbox to get to
+your database, but manual transfer seems safer.&lt;/p>
+&lt;h4 id="android">Android&lt;/h4>
+&lt;p>KeePass DX is available on F-Droid and the Google Play Store. It is compatible
+with all KeePass versions (KeePass, KeePassX, KeePass XC&amp;hellip;).&lt;/p>
+&lt;div class="link-list">
+&lt;div>&lt;/div>
+&lt;p>&lt;a href="https://www.f-droid.org/packages/com.kunzisoft.keepass.libre"
+title="Get KeePassXS on F-Droid"
+rel="external nofollow">
+F-Droid
+&lt;/a>
+&lt;a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free"
+title="Get KeePassXS on the Google Play Store"
+rel="external nofollow">
+Play Store
+&lt;/a>&lt;/p>
+&lt;/div>
+&lt;h4 id="ios">iOS&lt;/h4>
+&lt;p>KeePassium is available on F-Droid and the Apple App Store. It is compatible
+with all KeePass versions (KeePass, KeePassX, KeePass XC&amp;hellip;).&lt;/p>
+&lt;div class="link-list">
+&lt;div>&lt;/div>
+&lt;p>&lt;a href="https://apps.apple.com/us/app/id1435127111"
+title="Get KeePassium on the Apple App Store"
+rel="external nofollow">
+App Store
+&lt;/a>&lt;/p>
+&lt;/div>
+&lt;h3 id="use-in-browser">Use in Browser&lt;/h3>
+&lt;p>KeePassXC has a browser plugin. You should &lt;a href="https://keepassxc.org/docs/keepassxc-browser-migration" rel="external">enable browser integration&lt;/a> if you
+want to use this. You can find links to the KeePassXC-Browser add-on here.&lt;/p>
+&lt;div class="link-list">
+&lt;div>&lt;/div>
+&lt;p>&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser"
+title="Add KeePassXS add-on to firefox"
+rel="external nofollow">
+Firefox
+&lt;/a>
+&lt;a href="https://chrome.google.com/webstore/detail/keepasshttp-connector/dafgdjggglmmknipkhngniifhplpcldb"
+title="Add KeePassXS add-on to chromium"
+rel="external nofollow">
+Chromium
+&lt;/a>
+&lt;a href="https://github.com/mmichaa/passafari.safariextension"
+title="Add KeePassXS add-on to safari"
+rel="external nofollow">
+Safari
+&lt;/a>&lt;/p>
+&lt;/div>
+&lt;p>There are other add-ons for other KeePass versions such as the
+KeePassHttp-Connector add-on.&lt;/p>
+&lt;h3 id="use-to-manage-ssh-keys">Use to manage SSH keys&lt;/h3>
+&lt;p>This can work on other version as KeePassXC, but this explanation is made for
+KeePassXC.&lt;/p>
+&lt;h4 id="create-a-new-key-in-keepassxc">Create a new key in KeePassXC&lt;/h4>
+&lt;p>Create a new entry in your KeePassXC database and generate a password for it.
+Save this entry.&lt;/p>
+&lt;figure>
+&lt;img src="../images/articles/you-should-use-keepass/new-key-in-keepass.jpg"
+alt="New key in KeePassXC."/>
+&lt;/figure>
+&lt;div class="small-font">
+&lt;div>&lt;/div>
+&lt;p>Screenshot taken by Robin Wils - CC0 licensed.&lt;/p>
+&lt;/div>
+&lt;h4 id="generate-a-key-pair">Generate a key pair&lt;/h4>
+&lt;p>You can generate a pair of keys with the ssh-keygen command if you don&amp;rsquo;t own
+some yet. Use the generated password as password.&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-sh" data-lang="sh">ssh-keygen -b &lt;span style="color:#ae81ff">4096&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;figure>
+&lt;img src="../images/articles/you-should-use-keepass/ssh-keygen.jpg"
+alt="ssh-keygen command output."/>
+&lt;/figure>
+&lt;div class="small-font">
+&lt;div>&lt;/div>
+&lt;p>Screenshot taken by Robin Wils - CC0 licensed.&lt;/p>
+&lt;/div>
+&lt;h4 id="enable-ssh-agent">Enable SSH Agent&lt;/h4>
+&lt;ol>
+&lt;li>Go to &amp;ldquo;Tools -&amp;gt; Settings&amp;rdquo;.&lt;/li>
+&lt;li>You can find SSH Agent in the left column.&lt;/li>
+&lt;li>Click on it to enable it.&lt;/li>
+&lt;li>Restart KeePassXC&lt;/li>
+&lt;/ol>
+&lt;figure>
+&lt;img src="../images/articles/you-should-use-keepass/enable-ssh-agent.jpg"
+alt="KeePassXC Application Settings."/>
+&lt;/figure>
+&lt;div class="small-font">
+&lt;div>&lt;/div>
+&lt;p>Screenshot taken by Robin Wils - CC0 licensed.&lt;/p>
+&lt;/div>
+&lt;h4 id="implement-ssh-agent">Implement SSH Agent&lt;/h4>
+&lt;figure>
+&lt;img src="../images/articles/you-should-use-keepass/ssh-key-in-keepass.jpg"
+alt="SSH Agent configuration in KeePassXC."/>
+&lt;/figure>
+&lt;div class="small-font">
+&lt;div>&lt;/div>
+&lt;p>Screenshot taken by Robin Wils - CC0 licensed.&lt;/p>
+&lt;/div>
+&lt;ol>
+&lt;li>
+&lt;p>Edit the key which you just made in KeePassXC. (Right click -&amp;gt; Edit entry or Ctrl+E)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click on SSH Agent&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Check the checkboxes which you want to have enabled.&lt;/p>
+&lt;ul>
+&lt;li>The first two checkboxes are for basic functionality;&lt;/li>
+&lt;li>The third checkbox is to provide a dialog window when the key is used. A
+askpass program is required for this option.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Add The key by selecting it as External file.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Save the database.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>You should have working SSH keys now.&lt;/p>
+&lt;p>&lt;strong>Possible problem on GNU or Linux systems&lt;/strong>&lt;/p>
+&lt;p>Some things like the GNOME Keyring can cause problems. Make sure that only on
+SSH Agent is running. GNOME Keyring can manage SSH keys. I use ssh-agent for
+this. You can add the following command to &amp;ldquo;~/.bashrc&amp;rdquo; or to your init script
+to run it in the background.&lt;/p>
+&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-sh" data-lang="sh">eval &lt;span style="color:#e6db74">`&lt;/span>ssh-agent -s&lt;span style="color:#e6db74">`&lt;/span> &amp;amp;
+&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>The Big Lebowski movie</title><link>https://pages.codeberg.org/RobinWils/categories/reviews/the-big-lebowski-movie/</link><pubDate>Wed, 20 May 2020 17:39:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/reviews/the-big-lebowski-movie/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
