@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>reviews on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/categories/reviews/</link><description>Recent content in reviews on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 11:44:45 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/categories/reviews/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>reviews on Robin Wils's website</title><link>https://pages.codeberg.org/RobinWils/categories/reviews/</link><description>Recent content in reviews on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 00:58:01 +0200</lastBuildDate><atom:link href="https://pages.codeberg.org/RobinWils/categories/reviews/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://pages.codeberg.org/RobinWils/contact/</link><pubDate>Sat, 02 May 2020 15:10:58 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/contact/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -191,7 +191,32 @@ Making 2D games - first with Unity, now with Godot
 &lt;/td>
 &lt;/tr>
 &lt;/table>
-&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>GNU Emacs is Unix</title><link>https://pages.codeberg.org/RobinWils/categories/articles/gnu-emacs-is-unix/</link><pubDate>Wed, 24 Jun 2020 16:24:34 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/gnu-emacs-is-unix/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;/div></description></item><item><title>Search</title><link>https://pages.codeberg.org/RobinWils/search/</link><pubDate>Tue, 05 May 2020 01:17:07 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/search/</guid><description/></item><item><title>Dog Pictures</title><link>https://pages.codeberg.org/RobinWils/categories/pictures/dog-pictures/</link><pubDate>Mon, 13 Jul 2020 21:03:15 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/pictures/dog-pictures/</guid><description>&lt;div class="grid-container">
+&lt;img
+src="../../images/pictures/dogs/FayeAndSienna1.jpg"
+width="232"
+height="194"
+alt="Two dogs."
+title="Faye and Sienna">
+&lt;img
+src="../../images/pictures/dogs/FayeAndSienna2.jpg"
+width="248"
+height="240"
+alt="Two dogs."
+title="Faye and Sienna">
+&lt;img
+src="../../images/pictures/dogs/Faye1.jpg"
+width="322"
+height="319"
+alt="One dog."
+title="Faye">
+&lt;img
+src="../../images/pictures/dogs/Sienna1.jpg"
+width="459"
+height="477"
+alt="One dog."
+title="Sienna">
+&lt;/div></description></item><item><title>GNU Emacs is Unix</title><link>https://pages.codeberg.org/RobinWils/categories/articles/gnu-emacs-is-unix/</link><pubDate>Wed, 24 Jun 2020 16:24:34 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/articles/gnu-emacs-is-unix/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -748,112 +773,7 @@ is easily changable.&lt;/p>
 &lt;p>I do want a configurable config, just like the GNU Emacs one. It should
 be lightweight and easy to install. I do want it to be a tiny bit more modern.
 Some packages could be a bit more heavy, but lightweight alternatives should
-exist.&lt;/p></description></item><item><title>Dog Pictures</title><link>https://pages.codeberg.org/RobinWils/categories/pictures/dog-pictures/</link><pubDate>Sat, 02 May 2020 15:10:49 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/pictures/dog-pictures/</guid><description>&lt;div class="lightbox">
-&lt;a href="#image1">
-&lt;img src="../../images/pictures/dogs/thumbnails/FayeAndSienna1.jpg"
-alt="Two dogs."
-width="135"
-height="135">
-&lt;/a>
-&lt;div class="lightbox-image"
-id="image1">
-&lt;span class="background">&lt;/span>
-&lt;a href="#image4"
-class="previous-image-button">
-&lt;
-&lt;/a>
-&lt;a href="#_"
-class="close-lightbox-button">
-X
-&lt;/a>
-&lt;figure>
-&lt;img src="../../images/pictures/dogs/FayeAndSienna1.jpg"
-alt="Two dogs.">
-&lt;/figure>
-&lt;a href="#image2"
-class="next-image-button">
->
-&lt;/a>
-&lt;/div>
-&lt;a href="#image2">
-&lt;img src="../../images/pictures/dogs/thumbnails/FayeAndSienna2.jpg"
-alt="Two dogs."
-width="135"
-height="135">
-&lt;/a>
-&lt;div class="lightbox-image"
-id="image2">
-&lt;span class="background">&lt;/span>
-&lt;a href="#image1"
-class="previous-image-button">
-&lt;
-&lt;/a>
-&lt;a href="#_"
-class="close-lightbox-button">
-X
-&lt;/a>
-&lt;figure>
-&lt;img src="../../images/pictures/dogs/FayeAndSienna2.jpg"
-alt="Two dogs.">
-&lt;/figure>
-&lt;a href="#image3"
-class="next-image-button">
->
-&lt;/a>
-&lt;/div>
-&lt;a href="#image3">
-&lt;img src="../../images/pictures/dogs/thumbnails/Faye1.jpg"
-alt="One dog."
-width="135"
-height="135">
-&lt;/a>
-&lt;div class="lightbox-image"
-id="image3">
-&lt;span class="background">&lt;/span>
-&lt;a href="#image2"
-class="previous-image-button">
-&lt;
-&lt;/a>
-&lt;a href="#_"
-class="close-lightbox-button">
-X
-&lt;/a>
-&lt;figure>
-&lt;img src="../../images/pictures/dogs/Faye1.jpg"
-alt="One dog.">
-&lt;/figure>
-&lt;a href="#image4"
-class="next-image-button">
->
-&lt;/a>
-&lt;/div>
-&lt;a href="#image4">
-&lt;img src="../../images/pictures/dogs/thumbnails/Sienna1.jpg"
-alt="One dog."
-width="135"
-height="135">
-&lt;/a>
-&lt;div class="lightbox-image"
-id="image4">
-&lt;span class="background">&lt;/span>
-&lt;a href="#image3"
-class="previous-image-button">
-&lt;
-&lt;/a>
-&lt;a href="#_"
-class="close-lightbox-button">
-X
-&lt;/a>
-&lt;figure>
-&lt;img src="../../images/pictures/dogs/Sienna1.jpg"
-alt="One dog.">
-&lt;/figure>
-&lt;a href="#image1"
-class="next-image-button">
->
-&lt;/a>
-&lt;/div>
-&lt;/div></description></item><item><title>Linux Challenge 2019 by FPS Finance</title><link>https://pages.codeberg.org/RobinWils/categories/events/linux-challenge/</link><pubDate>Sat, 02 May 2020 15:10:38 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/events/linux-challenge/</guid><description>&lt;div class="ox-hugo-toc toc">
+exist.&lt;/p></description></item><item><title>Linux Challenge 2019 by FPS Finance</title><link>https://pages.codeberg.org/RobinWils/categories/events/linux-challenge/</link><pubDate>Sat, 02 May 2020 15:10:38 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/events/linux-challenge/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -6254,7 +6174,7 @@ didn&amp;rsquo;t like the first episode a lot.&lt;/p></description></item><item>
 &lt;/div>
 &lt;!--endtoc-->
 &lt;h2 id="shaun-of-the-dead-movie">Shaun of the Dead movie&lt;/h2>
-&lt;p>Horror comedy movie about zombies. It is a pretty good movie.&lt;/p></description></item><item><title>Rick and Morty animated series</title><link>https://pages.codeberg.org/RobinWils/categories/reviews/rick-and-morty-animated-series/</link><pubDate>Wed, 20 May 2020 17:39:46 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/reviews/rick-and-morty-animated-series/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;p>Horror comedy movie about zombies. It is a pretty good movie.&lt;/p></description></item><item><title>Rick and Morty animated series</title><link>https://pages.codeberg.org/RobinWils/categories/reviews/rick-and-morty-animated-series/</link><pubDate>Tue, 07 Jul 2020 00:58:01 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/reviews/rick-and-morty-animated-series/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -6265,7 +6185,9 @@ didn&amp;rsquo;t like the first episode a lot.&lt;/p></description></item><item>
 &lt;h2 id="rick-and-morty-animated-series">Rick and Morty animated series&lt;/h2>
 &lt;p>Do I really need to say more? I have the big IQ because of this series.
 Ok, it is a Sci-Fi comedy about a scientist, Rick and his grandson Morty.&lt;/p>
-&lt;p>It is a parody on Back to the Future.&lt;/p></description></item><item><title>Braindead (also known as Dead Alive) movie</title><link>https://pages.codeberg.org/RobinWils/categories/reviews/braindead-also-known-as-dead-alive-movie/</link><pubDate>Wed, 20 May 2020 18:54:12 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/reviews/braindead-also-known-as-dead-alive-movie/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;p>It is a parody on Back to the Future.&lt;/p>
+&lt;p>Some episodes are definitely better than others though. It has its ups and
+downs.&lt;/p></description></item><item><title>Braindead (also known as Dead Alive) movie</title><link>https://pages.codeberg.org/RobinWils/categories/reviews/braindead-also-known-as-dead-alive-movie/</link><pubDate>Wed, 20 May 2020 18:54:12 +0200</pubDate><guid>https://pages.codeberg.org/RobinWils/categories/reviews/braindead-also-known-as-dead-alive-movie/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
