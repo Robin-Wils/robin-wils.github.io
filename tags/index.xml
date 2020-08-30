@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Robin Wils's website</title><link>https://robinwils.gitlab.io/tags/</link><description>Recent content in Tags on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 17:10:33 +0200</lastBuildDate><atom:link href="https://robinwils.gitlab.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://robinwils.gitlab.io/about/</link><pubDate>Sat, 29 Aug 2020 22:13:32 +0200</pubDate><guid>https://robinwils.gitlab.io/about/</guid><description>&lt;div class="ox-hugo-toc toc">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Robin Wils's website</title><link>https://robinwils.gitlab.io/tags/</link><description>Recent content in Tags on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 17:21:05 +0200</lastBuildDate><atom:link href="https://robinwils.gitlab.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://robinwils.gitlab.io/about/</link><pubDate>Sat, 29 Aug 2020 22:13:32 +0200</pubDate><guid>https://robinwils.gitlab.io/about/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -4419,7 +4419,7 @@ theme to the repository.&lt;/p></description></item><item><title>The Bad Batch m
 &lt;p>Sci-Fi thriller movie. I did like this movie, but it wasn&amp;rsquo;t perfect.
 It has some cyberpunk elements though. It is a bit slow, but it was
 alright.&lt;/p>
-&lt;p>The reviews aren&amp;rsquo;t that great, but the movie was alright in my opinion.&lt;/p></description></item><item><title>Say no to Cloudflare</title><link>https://robinwils.gitlab.io/categories/technology/say-no-to-cloudflare/</link><pubDate>Sun, 30 Aug 2020 17:10:33 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/technology/say-no-to-cloudflare/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;p>The reviews aren&amp;rsquo;t that great, but the movie was alright in my opinion.&lt;/p></description></item><item><title>Say no to Cloudflare</title><link>https://robinwils.gitlab.io/categories/technology/say-no-to-cloudflare/</link><pubDate>Sun, 30 Aug 2020 17:21:05 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/technology/say-no-to-cloudflare/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -4676,16 +4676,8 @@ specific websites.&lt;/p>
 &lt;h3 id="the-stop-cloudflare-repository">The Stop Cloudflare repository&lt;/h3>
 &lt;p>The following git repository contains more reasons and links to articles of
 other people. I highly recommend checking it out.&lt;/p>
-&lt;p>It is an amazing source of information. The structure of the repository might
-make it a bit hard to look through it. Many who read this probably wouldn&amp;rsquo;t
-have problems with finding what they are looking for.&lt;/p>
-&lt;p>I am thinking of forking it, because they have made some decisions which I
-find pretty dumb.&lt;/p>
-&lt;p>Translating the README, that is a good idea, but not when the translations aren&amp;rsquo;t
-accurate at all.&lt;/p>
-&lt;p>The maintainers are in general privacy geeks, which are not too open with spreading
-the sources on closed source stuff, so the word doesn&amp;rsquo;t gets spread that well.&lt;/p>
-&lt;p>The user experience of the README is pretty bad.&lt;/p>
+&lt;p>It is a good source of information. The structure of the repository might
+make it a bit hard to look through.&lt;/p>
 &lt;p>&lt;a href="https://codeberg.org/crimeflare/cloudflare-tor/README.md"
 rel="external nofollow">
 Stop Cloudflare repository
