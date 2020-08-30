@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thoughts on Robin Wils's website</title><link>https://robinwils.gitlab.io/tags/thoughts/</link><description>Recent content in Thoughts on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 13:10:29 +0200</lastBuildDate><atom:link href="https://robinwils.gitlab.io/tags/thoughts/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://robinwils.gitlab.io/about/</link><pubDate>Sat, 29 Aug 2020 22:13:32 +0200</pubDate><guid>https://robinwils.gitlab.io/about/</guid><description>&lt;div class="ox-hugo-toc toc">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thoughts on Robin Wils's website</title><link>https://robinwils.gitlab.io/tags/thoughts/</link><description>Recent content in Thoughts on Robin Wils's website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 17:10:33 +0200</lastBuildDate><atom:link href="https://robinwils.gitlab.io/tags/thoughts/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://robinwils.gitlab.io/about/</link><pubDate>Sat, 29 Aug 2020 22:13:32 +0200</pubDate><guid>https://robinwils.gitlab.io/about/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
@@ -4419,7 +4419,315 @@ theme to the repository.&lt;/p></description></item><item><title>The Bad Batch m
 &lt;p>Sci-Fi thriller movie. I did like this movie, but it wasn&amp;rsquo;t perfect.
 It has some cyberpunk elements though. It is a bit slow, but it was
 alright.&lt;/p>
-&lt;p>The reviews aren&amp;rsquo;t that great, but the movie was alright in my opinion.&lt;/p></description></item><item><title>Monty Python and the Holy Grail movie</title><link>https://robinwils.gitlab.io/categories/reviews/monty-python-and-the-holy-grail-movie/</link><pubDate>Wed, 20 May 2020 17:38:35 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/reviews/monty-python-and-the-holy-grail-movie/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;p>The reviews aren&amp;rsquo;t that great, but the movie was alright in my opinion.&lt;/p></description></item><item><title>Say no to Cloudflare</title><link>https://robinwils.gitlab.io/categories/technology/say-no-to-cloudflare/</link><pubDate>Sun, 30 Aug 2020 17:10:33 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/technology/say-no-to-cloudflare/</guid><description>&lt;div class="ox-hugo-toc toc">
+&lt;div>&lt;/div>
+&lt;div class="heading">Table of Contents&lt;/div>
+&lt;ul>
+&lt;li>&lt;a href="#what-is-cloudflare">What is Cloudflare?&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#long-complex-description">Long complex description&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#short-description">Short description&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#think-about-your-visitors">Think about your visitors&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#your-users-matter">Your users matter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#who-is-your-userbase-dot-dot-dot-and-what-do-they-like">Who is your userbase&amp;hellip; and what do they like?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#just-to-be-clear">Just to be clear&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#more-information-about-tor">More information about Tor&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#privacy-problems">Privacy problems&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#reverse-proxy">Reverse proxy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#it-keeps-a-globally-unique-id">It keeps a globally-unique ID&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#captchas">CAPTCHAs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#project-honey-pot">Project Honey Pot&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#firefox-and-cloudflare">Firefox and Cloudflare&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#how-can-you-fight-against-cloudflare">How can you fight against Cloudflare?&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#tell-others-about-the-danger-of-cloudflare">Tell others about the danger of Cloudflare&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#extensions">Extensions&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#even-more-reasons">Even more reasons&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#the-stop-cloudflare-repository">The Stop Cloudflare repository&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#forking-the-repository">Forking the repository&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#is-privacy-worth-it">Is privacy worth it?&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;!--endtoc-->
+&lt;h2 id="what-is-cloudflare">What is Cloudflare?&lt;/h2>
+&lt;figure class="icon">
+&lt;img src="../../images/articles/say-no-to-cloudflare/say-no-to-flarecloud-logo.png"
+alt="A cloud which is filled with flares. The cloud has the same shape as the Cloudflare logo. There is a big red cross through the logo." width="300" height="130"/>
+&lt;/figure>
+&lt;div class="small-font">
+&lt;div>&lt;/div>
+&lt;p>Say no to Flarecloud logo By Robin Wils - CC0 licensed.&lt;/p>
+&lt;/div>
+&lt;h3 id="long-complex-description">Long complex description&lt;/h3>
+&lt;p>Cloudflare is a content delivery network, which means that it
+has different servers in different locations. Websites which use Cloudflare
+should be better reachable, so faster in different countries.&lt;/p>
+&lt;p>Cloudflare is not just a content delivery network. Cloudflare is also a
+reverse proxy (= a middleman between the user and a website), a DDoS
+mitigation service (= a service which tries to resist or make the impact of a
+DDoS attack less painful).&lt;/p>
+&lt;p>Cloudflare is even more as that. Many websites are a part of the Cloudflare
+content delivery network.&lt;/p>
+&lt;h3 id="short-description">Short description&lt;/h3>
+&lt;p>Cloudflare claims to try to make sites faster and more secure. It is a service
+which a lot of websites use.&lt;/p>
+&lt;p>&lt;em>Sounds pretty nice, right?&lt;/em>&lt;/p>
+&lt;h2 id="think-about-your-visitors">Think about your visitors&lt;/h2>
+&lt;p>&lt;em>Do you like it when websites ruin a bit of your experience?&lt;/em>&lt;/p>
+&lt;p>In other words: &lt;em>Would you love to visit a website which forces you to solve a&lt;/em>
+&lt;em>&lt;strong>annoying timewasting puzzle&lt;/strong> usually after&lt;/em>
+&lt;em>&lt;strong>waiting five seconds&lt;/strong> which also cost you valuable time?&lt;/em>&lt;/p>
+&lt;p>Awesome! Use Cloudflare!&lt;/p>
+&lt;h3 id="your-users-matter">Your users matter&lt;/h3>
+&lt;p>Every visitor helps. Think about their experience. They make your website
+successful. They like to see your content. They probably would like it when the
+website opens quickly without too many junk.&lt;/p>
+&lt;p>Your users are basically everything.&lt;/p>
+&lt;h3 id="who-is-your-userbase-dot-dot-dot-and-what-do-they-like">Who is your userbase&amp;hellip; and what do they like?&lt;/h3>
+&lt;p>Focus on them. Some of them probably care about their privacy. You will have
+fewer visitors if you don&amp;rsquo;t support them. That influences the success of your
+website.&lt;/p>
+&lt;p>I highly doubt that they will like:&lt;/p>
+&lt;ul>
+&lt;li>To solve a CAPTCHA;&lt;/li>
+&lt;li>A websites which sometimes goes down for long periods, because of Cloudflare;&lt;/li>
+&lt;li>To wait for five seconds for no good reason.&lt;/li>
+&lt;/ul>
+&lt;p>What possible users which care about privacy probably won&amp;rsquo;t like:&lt;/p>
+&lt;ul>
+&lt;li>That your site isn&amp;rsquo;t easily reachable through Tor;&lt;/li>
+&lt;li>That your site is hosted by some company which many people don&amp;rsquo;t trust. (I
+know that this site still uses the Google servers, I still need to fix that,
+but I currently don&amp;rsquo;t spend any money on this website.);&lt;/li>
+&lt;/ul>
+&lt;h3 id="just-to-be-clear">Just to be clear&lt;/h3>
+&lt;p>&lt;strong>People who care about privacy aren&amp;rsquo;t criminals&lt;/strong>, or at least not always. In
+fact, &lt;strong>everyone needs privacy&lt;/strong> in one way or another. Everyone has the right
+to privacy.&lt;/p>
+&lt;p>People who really think that they don&amp;rsquo;t need privacy should be ok with sending
+me their address, private conversations, access to their webcam, passwords and
+more. &lt;em>Don&amp;rsquo;t actually do this.&lt;/em>&lt;/p>
+&lt;p>An important example are whistleblowers. They have in many cases shared useful
+information. Many of them can lose their job if they aren&amp;rsquo;t anonymous enough.&lt;/p>
+&lt;p>Legal &amp;ldquo;.onion&amp;rdquo; sites exist. Some examples of this are:&lt;/p>
+&lt;ul>
+&lt;li>Facebook (social media)&lt;/li>
+&lt;li>DuckDuckGo (search engine)&lt;/li>
+&lt;li>Protonmail (webmail)&lt;/li>
+&lt;li>&amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;h3 id="more-information-about-tor">More information about Tor&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;a href="https://www.eff.org/deeplinks/2014/07/7-things-you-should-know-about-tor"
+rel="external">
+7 things you should know about Tor - EFF
+&lt;/a>
+&lt;/li>
+&lt;li>
+&lt;a href="https://www.torproject.org/about/torusers.html.en"
+rel="external nofollow">
+Who uses Tor - Tor Project
+&lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="privacy-problems">Privacy problems&lt;/h2>
+&lt;p>&lt;em>Do you want to disallow people who need and deserve the right on privacy from
+using your website?&lt;/em>&lt;/p>
+&lt;p>Great! Use Cloudflare!&lt;/p>
+&lt;h3 id="reverse-proxy">Reverse proxy&lt;/h3>
+&lt;p>A reverse proxy acts as a man-in-the-middle, which means that it &lt;em>might&lt;/em> spy
+on everything which your users do. Cloudflare is a reverse proxy.&lt;/p>
+&lt;p>A man-in-the-middle service is something which is between the site and the
+user. This means that they can easily add JavaScript which spies on you.&lt;/p>
+&lt;h3 id="it-keeps-a-globally-unique-id">It keeps a globally-unique ID&lt;/h3>
+&lt;p>Cloudflare creates a cookie which gives your browser a globally-unique ID.
+This even happens when the website is using SSL and shows a little padlock in
+your browser.&lt;/p>
+&lt;p>This pretty much kills privacy. A globally-unique ID can easily be used
+to track you.&lt;/p>
+&lt;h3 id="captchas">CAPTCHAs&lt;/h3>
+&lt;p>Not all sites with Cloudflare use CAPTCHAs, but many do. CAPTCHAs are the
+things which try to check if you are &amp;ldquo;human&amp;rdquo;.&lt;/p>
+&lt;h4 id="hcaptcha">hCAPTCHA&lt;/h4>
+&lt;p>Cloudflare suddenly uses hCAPTCHA, which is not accessible at all. It is hard to
+find accessible CAPTCHAs in general. This Captcha is hard to solve in my opinion.&lt;/p>
+&lt;p>Also it is on a blockchain, so it makes Cloudflare money.&lt;/p>
+&lt;p>The funny thing about CAPTCHAs is that there are computer programs (robots),
+which can solve the &amp;ldquo;prove you are human&amp;rdquo; CAPTCHAs.&lt;/p>
+&lt;h4 id="buster">Buster&lt;/h4>
+&lt;p>Buster is a browser extension which can solve reCaptchas. CAPTCHAs can be
+solved by clicking on the extension button at the bottom of the reCAPTCHA
+widget.&lt;/p>
+&lt;p>License: GPLv3&lt;/p>
+&lt;div class="link-list">
+&lt;div>&lt;/div>
+&lt;p>&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/buster-captcha-solver"
+title="Add Buster add-on to firefox"
+rel="external nofollow">
+Firefox
+&lt;/a>
+&lt;a href="https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl"
+title="Add Buster add-on to chromium"
+rel="external nofollow">
+Chromium
+&lt;/a>
+&lt;a href="https://addons.opera.com/en/extensions/details/buster-captcha-solver-for-humans"
+title="Add Buster add-on to opera"
+rel="external nofollow">
+Opera
+&lt;/a>&lt;/p>
+&lt;/div>
+&lt;h4 id="friendly-captcha">Friendly Captcha&lt;/h4>
+&lt;p>My current CAPTCHA recommendation is Friendly Captcha.&lt;/p>
+&lt;p>It seems like the best CAPTCHA at the moment, but you don&amp;rsquo;t always need a CAPTCHA
+in the first place. You can find the friendly captcha website below.&lt;/p>
+&lt;div class="link-list">
+&lt;div>&lt;/div>
+&lt;p>&lt;a href="https://friendlycaptcha.com"
+title="The website of friendly captcha"
+rel="external nofollow">
+Website
+&lt;/a>&lt;/p>
+&lt;/div>
+&lt;h3 id="project-honey-pot">Project Honey Pot&lt;/h3>
+&lt;p>Project Honey Pot is a project which collects a lot of user data and much of
+that data is from innocent users who deserve privacy. Cloudflare was created
+by people who worked on that project.&lt;/p>
+&lt;p>Cloudflare has leaked private user data before, so it has something in common
+with &amp;ldquo;Project Honey Pot&amp;rdquo;.&lt;/p>
+&lt;h3 id="firefox-and-cloudflare">Firefox and Cloudflare&lt;/h3>
+&lt;p>Mozilla (Firefox) has partnered up with Cloudflare and will resolve the domain
+names from the application itself via a DNS server from Cloudflare. Cloudflare
+will then be able to read everyone&amp;rsquo;s DNS requests.&lt;/p>
+&lt;p>You can disable it in &amp;ldquo;about:config&amp;rdquo;. The string value of &amp;ldquo;network.trr.uri&amp;rdquo;
+should be empty.&lt;/p>
+&lt;p>Some other settings can also contain Cloudflare URLs. It is
+recommended to search for &amp;ldquo;cloudflare&amp;rdquo;.&lt;/p>
+&lt;figure>
+&lt;img src="../../images/articles/say-no-to-cloudflare/firefox-cloudflare-dns-settings.jpg"
+alt="The about:config page which shows the Cloudflare DNS address in the network.trr.uri string." width="578" height="174"/>
+&lt;/figure>
+&lt;div class="small-font">
+&lt;div>&lt;/div>
+&lt;p>(Screenshot) The Firefox about:config Cloudflare
+DNS settings By Robin Wils - CC0 licensed.&lt;/p>
+&lt;/div>
+&lt;p>Keep in mind that the configured DNS resolver of your computer might be
+Cloudflare DNS. You can find guides on the internet about setting the DNS
+nameservers.&lt;/p>
+&lt;p>I recommend the Quad9 DNS resolver. Some of their DNS nameservers use DNSSEC,
+which means that your DNS queries aren&amp;rsquo;t in plain text. This means that it
+provides you extra privacy. Quad9 is a nonprofit organisation. It looks
+trustworthy enough.&lt;/p>
+&lt;p>Keep in mind that DNS is just a pretty insecure protocol by default.&lt;/p>
+&lt;p>Most GNU/Linux systems have a /etc/resolv.conf file, but programs like
+wicd and NetworkManager change these settings. Those programs usually have a
+settings menu to set the DNS nameservers.&lt;/p>
+&lt;h2 id="how-can-you-fight-against-cloudflare">How can you fight against Cloudflare?&lt;/h2>
+&lt;p>&lt;em>That is a excellent question.&lt;/em>&lt;/p>
+&lt;p>It isn&amp;rsquo;t simple to not use websites which aren&amp;rsquo;t served by things like
+Cloudflare without any extra tools. Cloudflare is a big privacy problem. I
+however have tips for the people who care about privacy.&lt;/p>
+&lt;h3 id="tell-others-about-the-danger-of-cloudflare">Tell others about the danger of Cloudflare&lt;/h3>
+&lt;p>You can ask websites to not use Cloudflare. Please do so in a respectful way.
+Mentioning why Cloudflare is not the best option might help. Stay kind.&lt;/p>
+&lt;p>I recommend that you recommend them an alternative.
+You can find Cloudflare alternatives &lt;a href="https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/subfiles/cloudflare-alternatives.md" rel="external nofollow">here&lt;/a>.&lt;/p>
+&lt;p>You could write an article or share other people their articles with other
+people. Make more people aware of this problem.&lt;/p>
+&lt;p>Feel free to use the images on my site which are CC0 licensed. CC0 means that
+it is public domain licensed, which means that you can use it for any purpose.
+There are no restrictions.&lt;/p>
+&lt;h3 id="extensions">Extensions&lt;/h3>
+&lt;p>There are browser extensions which can block Cloudflare. I recommend the
+Cloud Firewall add-on if you want to do that.&lt;/p>
+&lt;p>This is an extreme way of fighting against Cloudflare. I suggest that you
+spread the word instead. Mention the problem online.&lt;/p>
+&lt;p>Try to reach people. Dare to use stuff which you are against, so that you
+can reach more people. Connections with people are important.&lt;/p>
+&lt;h4 id="cloud-firewall">Cloud Firewall&lt;/h4>
+&lt;p>The Cloud Firewall add-on can block connections to pages and web resources
+hosted in major cloud services if the user wishes to do so.&lt;/p>
+&lt;p>Supports blocking Google, Amazon, Facebook, Apple, Microsoft and Cloudflare.
+Cloud Firewall has a whitelisting option, so that it can disable blocking on
+specific websites.&lt;/p>
+&lt;div class="link-list">
+&lt;div>&lt;/div>
+&lt;div title="Add Cloud Firewall to firefox">
+&lt;div>&lt;/div>
+&lt;p>&lt;a href="https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall" rel="external nofollow">Firefox&lt;/a>&lt;/p>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="even-more-reasons">Even more reasons&lt;/h2>
+&lt;h3 id="the-stop-cloudflare-repository">The Stop Cloudflare repository&lt;/h3>
+&lt;p>The following git repository contains more reasons and links to articles of
+other people. I highly recommend checking it out.&lt;/p>
+&lt;p>It is an amazing source of information. The structure of the repository might
+make it a bit hard to look through it. Many who read this probably wouldn&amp;rsquo;t
+have problems with finding what they are looking for.&lt;/p>
+&lt;p>I am thinking of forking it, because they have made some decisions which I
+find pretty dumb.&lt;/p>
+&lt;p>Translating the README, that is a good idea, but not when the translations aren&amp;rsquo;t
+accurate at all.&lt;/p>
+&lt;p>The maintainers are in general privacy geeks, which are not too open with spreading
+the sources on closed source stuff, so the word doesn&amp;rsquo;t gets spread that well.&lt;/p>
+&lt;p>The user experience of the README is pretty bad.&lt;/p>
+&lt;p>&lt;a href="https://codeberg.org/crimeflare/cloudflare-tor/README.md"
+rel="external nofollow">
+Stop Cloudflare repository
+&lt;/a>&lt;/p>
+&lt;h3 id="forking-the-repository">Forking the repository&lt;/h3>
+&lt;p>I am thinking of forking the repository, because they have made some decisions which I
+find pretty dumb.&lt;/p>
+&lt;p>I am a maintainer, but I will probably leave the project, and I haven&amp;rsquo;t been very active
+anyways. Their mission isn&amp;rsquo;t bad though.&lt;/p>
+&lt;h4 id="translating-the-readme">Translating the README&lt;/h4>
+&lt;p>This was a good idea, but not when the translations aren&amp;rsquo;t
+accurate at all. It just went through Google translate.&lt;/p>
+&lt;h4 id="the-maintainers-aren-t-too-open-minded">The maintainers aren&amp;rsquo;t too open minded&lt;/h4>
+&lt;p>The maintainers are in general privacy geeks, which are not too open with spreading
+the sources on closed source stuff, so the word doesn&amp;rsquo;t gets spread that well.&lt;/p>
+&lt;p>I don&amp;rsquo;t think that many of them get how the world works. They aren&amp;rsquo;t influencing
+many people.&lt;/p>
+&lt;p>The maintainers have removed stuff before. There often isn&amp;rsquo;t much communication
+between them. Some of the removed stuff was actually good for the user experience.&lt;/p>
+&lt;h4 id="the-user-experience">The user experience&lt;/h4>
+&lt;p>The README is pretty hard to read, especially for people who aren&amp;rsquo;t computer nerds.&lt;/p>
+&lt;p>It is kinda, a mess and looks childish. It contains much complaining, but not that
+many solutions. Keep it short and get to the point.&lt;/p>
+&lt;h2 id="is-privacy-worth-it">Is privacy worth it?&lt;/h2>
+&lt;p>I think that productivity matters more than privacy. There are tools which
+provide productivity while also being better for security and privacy. Take
+a look at &lt;a href="../../categories/technology/you-should-use-keepass/">KeePassXC&lt;/a> for example.&lt;/p>
+&lt;p>I would go for the more secure alternative if it doesn&amp;rsquo;t hurt my productivity
+too much. I do this because I still want to support privacy for the people who
+need it.&lt;/p>
+&lt;p>Don&amp;rsquo;t get me wrong privacy is important, but not enough people fight
+for it. Make sure that you are a bit more secure than average users, but
+don&amp;rsquo;t overdo it.&lt;/p>
+&lt;p>Just know that privacy almost does not exist, but it is worth fighting for,
+some people really need it.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;a href="../../categories/technology/how-important-is-online-privacy/">
+How important is online privacy?
+&lt;/a>- contains thoughts about online privacy, is the extra effort worth it?
+&lt;/li>
+&lt;/ul></description></item><item><title>Monty Python and the Holy Grail movie</title><link>https://robinwils.gitlab.io/categories/reviews/monty-python-and-the-holy-grail-movie/</link><pubDate>Wed, 20 May 2020 17:38:35 +0200</pubDate><guid>https://robinwils.gitlab.io/categories/reviews/monty-python-and-the-holy-grail-movie/</guid><description>&lt;div class="ox-hugo-toc toc">
 &lt;div>&lt;/div>
 &lt;div class="heading">Table of Contents&lt;/div>
 &lt;ul>
